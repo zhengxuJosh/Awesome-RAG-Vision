@@ -54,7 +54,7 @@ CIKM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=C
 Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fanrui Zhang, Qingsong Liu, Jianqing Sun, Jiaen Liang, Yaohui Zhang \
 ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token=SlLR5jgRRkgAAAAA:DzC124tFMWQSMYkKRGkPTwU-aaT7TSv_iVjE-dsZtbna9j3zCYX1A6qcfgmpEKTms8DoZDgplc5u8g)]
 
-#### Multi-modal Documents
+#### Multi-modal
 
 **M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**  \
 Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal \
@@ -71,6 +71,10 @@ Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
 **SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information**  \
 Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng \
 Arxiv 24 – Sep 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
+
+**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**  \
+Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li \
+Arxiv 24 – Apr 2024 [[paper]([https://arxiv.org/pdf/2409.14083](https://arxiv.org/pdf/2405.20834))]
 
 #### Medical Vision
 
