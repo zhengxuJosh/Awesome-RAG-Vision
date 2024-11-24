@@ -95,6 +95,7 @@ EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 #### Image Generation
 
 #### 3D Generation
+
 **Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion** \
 Zhenwei Wang, Tengfei Wang, Zexin He, Gerhard Hancke, Ziwei Liu, Rynson W.H. Lau \
 Arxiv 24 - Sep 2024 [[paper](https://arxiv.org/pdf/2409.11406)]
