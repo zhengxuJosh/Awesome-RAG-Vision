@@ -72,6 +72,10 @@ Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
 Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng \
 Arxiv 24 – Sep 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
+**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**  \
+Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang \
+Arxiv 24 – May 2024 [[paper]([https://arxiv.org/pdf/2405.14554))]
+
 **Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**  \
 Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li \
 Arxiv 24 – Apr 2024 [[paper]([https://arxiv.org/pdf/2409.14083](https://arxiv.org/pdf/2405.20834))]
