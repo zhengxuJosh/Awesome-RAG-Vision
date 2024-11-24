@@ -56,6 +56,10 @@ ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token
 
 #### Multi-modal Documents
 
+**M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**  \
+Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal \
+Arxiv 24 – Nov 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
+
 **VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  \
 Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/abs/2410.10594)]
