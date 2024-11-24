@@ -10,9 +10,9 @@
 
 
 
-This repo aims to record advanced papers on Retrieval Augmented Generation (RAG) in MVLMs.
+This repo aims to record advanced papers on Retrieval Augmented Generation (RAG) in Vision (Computer Vision & Robotics & MVLMs).
 
-We strongly encourage the researchers that want to promote their fantastic work to the RAG for MVLMs to make pull request to update their paper's information!
+We strongly encourage the researchers that want to promote their fantastic work to the RAG for Vision to make pull request to update their paper's information!
 
 ## Contents
 
