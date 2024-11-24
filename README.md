@@ -68,6 +68,10 @@ Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/abs/2410.10594)]
 Monica Riedler, Stefan Langer \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
 
+**SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information**  \
+Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng \
+Arxiv 24 – Sep 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
+
 #### Medical Vision
 
 **Mmed-rag: Versatile multimodal rag system for medical vision language models**  \
