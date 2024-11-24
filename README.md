@@ -52,6 +52,10 @@ CIKM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=C
 Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/abs/2410.10594)]
 
+**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**  \
+Monica Riedler, Stefan Langer \
+Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
+
 ### Medical Vision
 
 **Mmed-rag: Versatile multimodal rag system for medical vision language models**  \
