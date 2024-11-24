@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Awesome RAG for Vision</h1>
+    <h1>Awesome RAG in Computer Vision</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
@@ -10,7 +10,7 @@
 
 
 
-This repo aims to record advanced papers on Retrieval Augmented Generation (RAG) in Vision (Computer Vision & Robotics & MVLMs).
+This repo aims to record advanced papers on Retrieval Augmented Generation (RAG) in Computer Vision.
 
 We strongly encourage the researchers that want to promote their fantastic work to the RAG for Vision to make pull request to update their paper's information!
 
