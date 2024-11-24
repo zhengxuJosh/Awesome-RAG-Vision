@@ -42,6 +42,10 @@ Arxiv 24 – Nov 2024 [[paper](https://arxiv.org/pdf/2411.13093)]
 Md Adnan Arefeen, Biplob Debnath, Md Yusuf Sarwar Uddin, Srimat Chakradhar \
 CVPRW 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 
+**iRAG: Advancing RAG for Videos with an Incremental Approach**  \
+Md Adnan Arefeen, Md Yusuf Sarwar Uddin, Biplob Debnath, Srimat Chakradhar \
+CIKM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=CDXIXZP0y9QAAAAA:obaFKtQODdGsI3pB22GWuGH2dODwF7N0dj1dl58WfSwavmvrp_1eeaHXj6c2XCQyt-9vF1r1QrUd)]
+
 ### Multi-modal Documents
 
 **VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  \
