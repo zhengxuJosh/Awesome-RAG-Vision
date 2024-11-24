@@ -74,6 +74,12 @@ Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.13085)]
 Peng Xia, Kangyu Zhu, Haoran Li, Hongtu Zhu, Yun Li, Gang Li, Linjun Zhang, Huaxiu Yao \
 EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 
+### Visual Generation 
+
+#### Image Generation
+
+#### 3D Generation
+
 ### Embodied AI
 
 **ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception**  \
