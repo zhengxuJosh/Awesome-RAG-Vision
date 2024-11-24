@@ -32,6 +32,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Retrieval-enhanced MVLMs
 
+**VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  \
+Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun \
+Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/abs/2410.10594)]
+
 **Mmed-rag: Versatile multimodal rag system for medical vision language models**  \
 Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.13085)]
