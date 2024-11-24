@@ -32,6 +32,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Retrieval-enhanced MVLMs
 
+**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**  \
+Yongdong Luo, Xiawu Zheng, Xiao Yang, Guilin Li, Haojia Lin, Jinfa Huang, Jiayi Ji, Fei Chao, Jiebo Luo, Rongrong Ji \
+Arxiv 24 – Nov 2024 [[paper](https://arxiv.org/pdf/2411.13093)]
+
 **VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  \
 Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/abs/2410.10594)]
