@@ -94,49 +94,83 @@ EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 
 #### Image (Video) Generation
 
-**Retrieval-Augmented Diffusion Models**
-Andreas Blattmann, Robin Rombach, Kaan Oktay, Jonas Müller, Björn Ommer
+**Retrieval-Augmented Diffusion Models** \
+Andreas Blattmann, Robin Rombach, Kaan Oktay, Jonas Müller, Björn Ommer \
 NIPS 22 [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf)]
 
-**Label-Retrieval-Augmented Diffusion Models for Learning from Noisy Labels**
-Jian Chen, Ruiyi Zhang, Tong Yu, Rohan Sharma, Zhiqiang Xu, Tong Sun, Changyou Chen
+**Label-Retrieval-Augmented Diffusion Models for Learning from Noisy Labels** \
+Jian Chen, Ruiyi Zhang, Tong Yu, Rohan Sharma, Zhiqiang Xu, Tong Sun, Changyou Chen \
 NIPS 23 [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d191ba4c8923ed8fd8935b7c98658b5f-Paper-Conference.pdf)]
 
-**CPR: Retrieval Augmented Generation for Copyright Protection**
-Aditya Golatkar, Alessandro Achille, Luca Zancato, Yu-Xiang Wang, Ashwin Swaminathan, Stefano Soatto
+**CPR: Retrieval Augmented Generation for Copyright Protection** \
+Aditya Golatkar, Alessandro Achille, Luca Zancato, Yu-Xiang Wang, Ashwin Swaminathan, Stefano Soatto \
 CVPR 23 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Golatkar_CPR_Retrieval_Augmented_Generation_for_Copyright_Protection_CVPR_2024_paper.pdf)]
 
-**BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity**
-Dian Xie, Peiang Zhao, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia
+**BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity** \
+Dian Xie, Peiang Zhao, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia \
 MM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681296)]
 
-**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**
-He Yingqing, Xia Menghan, Chen Haoxin, Cun Xiaodong, Gong Yuan, Xing Jinbo, Zhang Yong, Wang Xintao, Weng Chao, Shan Ying, Chen Qifeng
+**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** \
+He Yingqing, Xia Menghan, Chen Haoxin, Cun Xiaodong, Gong Yuan, Xing Jinbo, Zhang Yong, Wang Xintao, Weng Chao, Shan Ying, Chen Qifeng \
 Arxiv 23 [[paper](https://arxiv.org/pdf/2307.06940)]
 
-**RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios**
-Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao, Marco Pavone
+**RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios** \
+Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao, Marco Pavone \
 ECCV 24 [[paper](https://arxiv.org/pdf/2312.13303)]
 
-**Grounding Language Models for Visual Entity Recognition**
-Zilin Xiao, Ming Gong, Paola Cascante-Bonilla, Xingyao Zhang, Jie Wu, Vicente Ordonez
+**Grounding Language Models for Visual Entity Recognition** \
+Zilin Xiao, Ming Gong, Paola Cascante-Bonilla, Xingyao Zhang, Jie Wu, Vicente Ordonez \
 ECCV 24 [[paper](https://arxiv.org/pdf/2402.18695)]
 
-**GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections**
-Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang
+**GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections** \
+Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang \
 ECCV 24 [[paper](https://arxiv.org/pdf/2408.12352)]
 
-**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**
-Daichi Horita, Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi, Kiyoharu Aizawa
+**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation** \
+Daichi Horita, Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi, Kiyoharu Aizawa \
 CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf)]
 
+**The Neglected Tails in Vision-Language Models** \
+Shubham Parashar, Zhiqiu Lin, Tian Liu, Xiangjue Dong, Yanan Li, Deva Ramanan, James Caverlee, Shu Kong \
+CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf)]
 
+**Prompt Expansion for Adaptive Text-to-Image Generation** \
+Siddhartha Datta, Alexander Ku, Deepak Ramachandran, Peter Anderson \
+ACL 24 [[paper](https://arxiv.org/pdf/2312.16720)]
+
+**The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention** \
+Yixin Wan, Di Wu, Haoran Wang, Kai-Wei Chang \
+EMNLP 24 [[paper](https://arxiv.org/pdf/2407.00377)]
+
+**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage** \
+Dario Cioni, Lorenzo Berlincioni, Federico Becattini, Alberto del Bimbo \
+ICCV 23 [[paper](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/papers/Cioni_Diffusion_Based_Augmentation_for_Captioning_and_Retrieval_in_Cultural_Heritage_ICCVW_2023_paper.pdf)]
+
+**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model** \
+Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu \
+ICCV 23 [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf)]
+
+**Re-imagen: Retrieval-augmented text-to-image generator** \
+Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen \
+Arxiv 22 [[paper](https://arxiv.org/pdf/2209.14491)]
+
+**Instruct-Imagen: Image Generation with Multi-modal Instruction** \
+Hexiang Hu, Kelvin C.K. Chan, Yu-Chuan Su, Wenhu Chen, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William Cohen, Ming-Wei Chang, Xuhui Jia \
+CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Instruct-Imagen_Image_Generation_with_Multi-modal_Instruction_CVPR_2024_paper.pdf)]
 
 #### 3D Generation
 
 **Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion** \
 Zhenwei Wang, Tengfei Wang, Zexin He, Gerhard Hancke, Ziwei Liu, Rynson W.H. Lau \
 Arxiv 24 - Sep 2024 [[paper](https://arxiv.org/pdf/2409.11406)]
+
+**Retrieval-Augmented Score Distillation for Text-to-3D Generation** \
+Junyoung Seo, Susung Hong, Wooseok Jang, Ines Hyeonsu Kim, Minseop Kwak, Doyup Lee, Seungryong Kim \
+ICML 24 [[paper](https://arxiv.org/pdf/2402.02972)]
+
+**Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation** \
+Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang \
+ICML 24 [[paper](https://openreview.net/pdf?id=eejhD9FCP3)]
 
 ### Embodied AI
 
