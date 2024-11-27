@@ -32,9 +32,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## RAG for Vision
 
-### Visual Understanding 
+### 1 Visual Understanding 
 
-#### (Long) Video Understanding
+#### 1.1 (Long) Video Understanding
 
 **Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**  \
 Yongdong Luo, Xiawu Zheng, Xiao Yang, Guilin Li, Haojia Lin, Jinfa Huang, Jiayi Ji, Fei Chao, Jiebo Luo, Rongrong Ji \
@@ -48,13 +48,13 @@ CVPRW 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 Md Adnan Arefeen, Md Yusuf Sarwar Uddin, Biplob Debnath, Srimat Chakradhar \
 CIKM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=CDXIXZP0y9QAAAAA:obaFKtQODdGsI3pB22GWuGH2dODwF7N0dj1dl58WfSwavmvrp_1eeaHXj6c2XCQyt-9vF1r1QrUd)]
 
-#### Visual Spacial Understanding
+#### 1.2 Visual Spacial Understanding
 
 **RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Corrector**  \
 Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fanrui Zhang, Qingsong Liu, Jianqing Sun, Jiaen Liang, Yaohui Zhang \
 ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token=SlLR5jgRRkgAAAAA:DzC124tFMWQSMYkKRGkPTwU-aaT7TSv_iVjE-dsZtbna9j3zCYX1A6qcfgmpEKTms8DoZDgplc5u8g)]
 
-#### Multi-modal
+#### 1.3 Multi-modal
 
 **M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**  \
 Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal \
@@ -80,7 +80,7 @@ Arxiv 24 – May 2024 [[paper]([https://arxiv.org/pdf/2405.14554))]
 Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li \
 Arxiv 24 – Apr 2024 [[paper]([https://arxiv.org/pdf/2409.14083](https://arxiv.org/pdf/2405.20834))]
 
-#### Medical Vision
+#### 1.4 Medical Vision
 
 **Mmed-rag: Versatile multimodal rag system for medical vision language models**  \
 Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao \
@@ -90,9 +90,9 @@ Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.13085)]
 Peng Xia, Kangyu Zhu, Haoran Li, Hongtu Zhu, Yun Li, Gang Li, Linjun Zhang, Huaxiu Yao \
 EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 
-### Visual Generation 
+### 2 Visual Generation 
 
-#### Image (Video) Generation
+#### 2.1 Image (Video) Generation
 
 **Retrieval-Augmented Diffusion Models** \
 Andreas Blattmann, Robin Rombach, Kaan Oktay, Jonas Müller, Björn Ommer \
@@ -158,7 +158,7 @@ Arxiv 22 [[paper](https://arxiv.org/pdf/2209.14491)]
 Hexiang Hu, Kelvin C.K. Chan, Yu-Chuan Su, Wenhu Chen, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William Cohen, Ming-Wei Chang, Xuhui Jia \
 CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Instruct-Imagen_Image_Generation_with_Multi-modal_Instruction_CVPR_2024_paper.pdf)]
 
-#### 3D Generation
+#### 2.2 3D Generation
 
 **Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion** \
 Zhenwei Wang, Tengfei Wang, Zexin He, Gerhard Hancke, Ziwei Liu, Rynson W.H. Lau \
@@ -172,7 +172,7 @@ ICML 24 [[paper](https://arxiv.org/pdf/2402.02972)]
 Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang \
 ICML 24 [[paper](https://openreview.net/pdf?id=eejhD9FCP3)]
 
-### Embodied AI
+### 3. Embodied AI
 
 **ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception**  \
 Ahmad M. Nazar, Abdulkadir Celik, Mohamed Y. Selim, Asmaa Abdallah, Daji Qiao, Ahmed M. Eltawil \
