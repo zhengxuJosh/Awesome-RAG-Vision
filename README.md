@@ -72,13 +72,25 @@ Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
 Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng \
 Arxiv 24 – Sep 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
+**ColPali: Efficient Document Retrieval with Vision Language Models**  \
+Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo \
+Arxiv 24 – Jul 2024 [[paper](https://arxiv.org/pdf/2407.01449)]
+
+**MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**  \
+Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo \
+Arxiv 24 – Jul 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
+
 **SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**  \
 Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang \
-Arxiv 24 – May 2024 [[paper]([https://arxiv.org/pdf/2405.14554))]
+Arxiv 24 – May 2024 [[paper](https://arxiv.org/pdf/2405.14554)]
 
 **Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**  \
 Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li \
-Arxiv 24 – Apr 2024 [[paper]([https://arxiv.org/pdf/2409.14083](https://arxiv.org/pdf/2405.20834))]
+Arxiv 24 – Apr 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
+
+**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**  \
+Ziyu Liu, Zeyi Sun, Yuhang Zang, Wei Li, Pan Zhang, Xiaoyi Dong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang \
+Arxiv 24 – Mar 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
 #### 1.4 Medical Vision
 
