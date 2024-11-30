@@ -56,93 +56,64 @@ ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token
 
 #### 1.3 Multi-modal
 
-**M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**
-
-Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal
-
+**M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**  \
+Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal  \
 Arxiv 24 – Nov 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
 
-**VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**
-
-Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun
-
+**VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  \
+Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun  \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/abs/2410.10594)]
 
-**RoRA-VLM: Robust Retrieval Augmentation for Vision Language Models**
-
-Jingyuan Qi, Zhiyang Xu, Rulin Shao, Yang Chen, Jin Di, Yu Cheng, Qifan Wang, Lifu Huang
-
+**RoRA-VLM: Robust Retrieval Augmentation for Vision Language Models**  \
+Jingyuan Qi, Zhiyang Xu, Rulin Shao, Yang Chen, Jin Di, Yu Cheng, Qifan Wang, Lifu Huang  \
 Arxiv 24 - Oct 24 [[paper](https://arxiv.org/pdf/2410.08876)]
 
-**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**
-
-Monica Riedler, Stefan Langer
-
+**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**  \
+Monica Riedler, Stefan Langer  \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
 
-**SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information**
-
-Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng
-
+**SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information**  \
+Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng  \
 EMNLP 24 – Sep 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
-**ColPali: Efficient Document Retrieval with Vision Language Models**
-
-Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo
-
+**ColPali: Efficient Document Retrieval with Vision Language Models**  \
+Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo  \
 Arxiv 24 – Jul 2024 [[paper](https://arxiv.org/pdf/2407.01449)]
 
-**MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**
-
-Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo
-
+**MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**  \
+Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo  \
 Arxiv 24 – Jul 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
-**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**
-
-Varun Nagaraj Rao, Siddharth Choudhary, Aditya Deshpande, Ravi Kumar Satzoda, Srikar Appalaraju
-
+**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**  \
+Varun Nagaraj Rao, Siddharth Choudhary, Aditya Deshpande, Ravi Kumar Satzoda, Srikar Appalaraju  \
 Arxiv 24 - Jun 2024 [[paper](https://arxiv.org/pdf/2406.19150)]
 
-**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**
-
-Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang
-
+**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**  \
+Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang  \
 Arxiv 24 – May 2024 [[paper](https://arxiv.org/pdf/2405.14554)]
 
-**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**
-
-Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li
-
+**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**  \
+Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li  \
 Arxiv 24 – Apr 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
-**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**
-
-Ziyu Liu, Zeyi Sun, Yuhang Zang, Wei Li, Pan Zhang, Xiaoyi Dong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang
-
+**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**  \
+Ziyu Liu, Zeyi Sun, Yuhang Zang, Wei Li, Pan Zhang, Xiaoyi Dong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang  \
 Arxiv 24 – Mar 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
-**Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering**
-
-Weizhe Lin, Jinghong Chen, Jingbiao Mei, Alexandru Coca, Bill Byrne
-
+**Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering**  \
+Weizhe Lin, Jinghong Chen, Jingbiao Mei, Alexandru Coca, Bill Byrne  \
 NIPS 23 - Oct 2023 [[paper](https://arxiv.org/pdf/2309.17133)]
 
-**Retrieval-based Knowledge Augmented Vision Language Pre-training**
-
-Jiahua Rao, Zifei Shan, Longpo Liu, Yao Zhou, Yuedong Yang
+**Retrieval-based Knowledge Augmented Vision Language Pre-training**  \
+Jiahua Rao, Zifei Shan, Longpo Liu, Yao Zhou, Yuedong Yang  \
 ACMMM 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2304.13923)]
 
-**ReVeaL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory**
-
-Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi
-
+**ReVeaL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory**  \
+Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi  \
 CVPR 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2212.05221)]
 
-**Learning Customized Visual Models with Retrieval-Augmented Knowledge**
-
-Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li
-
+**Learning Customized Visual Models with Retrieval-Augmented Knowledge**  \
+Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li  \
 CVPR 23 - Jan 2023 [[paper](https://arxiv.org/pdf/2301.07094)]
 
 #### 1.4 Medical Vision
