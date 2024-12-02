@@ -204,6 +204,10 @@ Arxiv 24 - Sep 2024 [[paper](https://arxiv.org/pdf/2409.11406)]
 Junyoung Seo, Susung Hong, Wooseok Jang, Ines Hyeonsu Kim, Minseop Kwak, Doyup Lee, Seungryong Kim \
 ICML 24 [[paper](https://arxiv.org/pdf/2402.02972)]
 
+**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling** \
+Qirui Wu, Denys Iliash, Daniel Ritchie, Manolis Savva, Angel X. Chang \
+Arxiv 24 - Nov 2024 [[paper](https://arxiv.org/pdf/2411.19492)]
+
 **Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation** \
 Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang \
 ICML 24 [[paper](https://openreview.net/pdf?id=eejhD9FCP3)]
