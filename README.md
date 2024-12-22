@@ -130,6 +130,10 @@ EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 
 #### 2.1 Image (Video) Generation
 
+**GarmentAligner: Text-to-Garment Generation via Retrieval-Augmented Multi-level Corrections** [**New**]
+Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan & Xiaodan Liang\
+ECCV 2025 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72698-9_9)]
+
 **Retrieval-Augmented Diffusion Models** \
 Andreas Blattmann, Robin Rombach, Kaan Oktay, Jonas Müller, Björn Ommer \
 NIPS 22 [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf)]
