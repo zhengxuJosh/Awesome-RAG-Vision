@@ -40,6 +40,10 @@ Arxiv 2024 [[paper](https://arxiv.org/pdf/2402.19473)]
 
 #### 1.1 Image Understanding
 
+**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**  :smile: \
+Wenyan Li, Jiaang Li, Rita Ramos, Raphael Tang, Desmond Elliott \
+Arxiv 2024 - Aug 2024 [[paper](https://arxiv.org/pdf/2406.02265)]
+
 **Retrieval augmented classification for long-tail visual recognition**  :smile: \
 Alexander Long, Wei Yin, Thalaiyasingam Ajanthan, Vu Nguyen, Pulak Purkait, Ravi Garg, Alan Blair, Chunhua Shen, Anton van den Hengel \
 CVPR 2022 [[paper]([https://arxiv.org/pdf/2411.13093](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf))]
@@ -70,9 +74,21 @@ ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token
 
 #### 1.4 Multi-modal
 
+**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**  :smile: \
+Davide Caffagni, Federico Cocchi, Nicholas Moratelli, Sara Sarto, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara  \
+CVPRW 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.pdf)]
+
 **M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**  \
 Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal  \
 Arxiv 24 – Nov 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
+
+**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**  :smile: \
+Sahel Sharifymoghaddam, Shivani Upadhyay, Wenhu Chen, Jimmy Lin  \
+Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2405.10311)]
+
+**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**  :smile: \
+Wenbo Hu, Jia-Chen Gu, Zi-Yi Dou, Mohsen Fayyaz, Pan Lu, Kai-Wei Chang, Nanyun Peng  \
+Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.08182)]
 
 **VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  \
 Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun  \
@@ -126,9 +142,9 @@ ACMMM 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2304.13923)]
 Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi  \
 CVPR 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2212.05221)]
 
-**Learning Customized Visual Models with Retrieval-Augmented Knowledge**  \
-Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li  \
-CVPR 23 - Jan 2023 [[paper](https://arxiv.org/pdf/2301.07094)]
+**Murag: Multimodal retrieval-augmented generator for open question answering over images and text**  :smile: \
+Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen  \
+Arxiv 22 - Oct 2022 [[paper](https://arxiv.org/pdf/2210.02928)]
 
 #### 1.5 Medical Vision
 
