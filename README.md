@@ -30,11 +30,25 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Survey and Benchmark 
 
+**Retrieval-augmented generation for ai-generated content: A survey**  :smile: \
+Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui \
+Arxiv 2024 [[paper](https://arxiv.org/pdf/2402.19473)]
+
 ## RAG for Vision
 
 ### 1 Visual Understanding 
 
-#### 1.1 (Long) Video Understanding
+#### 1.1 Image Understanding
+
+**Retrieval augmented classification for long-tail visual recognition**  :smile: \
+Alexander Long, Wei Yin, Thalaiyasingam Ajanthan, Vu Nguyen, Pulak Purkait, Ravi Garg, Alan Blair, Chunhua Shen, Anton van den Hengel \
+CVPR 2022 [[paper]([https://arxiv.org/pdf/2411.13093](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf))]
+
+**Learning Customized Visual Models with Retrieval-Augmented Knowledge**  :smile: \
+Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li \
+CVPR 2023 [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf)]
+
+#### 1.2 (Long) Video Understanding
 
 **Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**  \
 Yongdong Luo, Xiawu Zheng, Xiao Yang, Guilin Li, Haojia Lin, Jinfa Huang, Jiayi Ji, Fei Chao, Jiebo Luo, Rongrong Ji \
@@ -48,13 +62,13 @@ CVPRW 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 Md Adnan Arefeen, Md Yusuf Sarwar Uddin, Biplob Debnath, Srimat Chakradhar \
 CIKM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=CDXIXZP0y9QAAAAA:obaFKtQODdGsI3pB22GWuGH2dODwF7N0dj1dl58WfSwavmvrp_1eeaHXj6c2XCQyt-9vF1r1QrUd)]
 
-#### 1.2 Visual Spacial Understanding
+#### 1.3 Visual Spacial Understanding
 
 **RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Corrector**  \
 Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fanrui Zhang, Qingsong Liu, Jianqing Sun, Jiaen Liang, Yaohui Zhang \
 ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token=SlLR5jgRRkgAAAAA:DzC124tFMWQSMYkKRGkPTwU-aaT7TSv_iVjE-dsZtbna9j3zCYX1A6qcfgmpEKTms8DoZDgplc5u8g)]
 
-#### 1.3 Multi-modal
+#### 1.4 Multi-modal
 
 **M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**  \
 Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal  \
@@ -116,7 +130,7 @@ CVPR 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2212.05221)]
 Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li  \
 CVPR 23 - Jan 2023 [[paper](https://arxiv.org/pdf/2301.07094)]
 
-#### 1.4 Medical Vision
+#### 1.5 Medical Vision
 
 **Mmed-rag: Versatile multimodal rag system for medical vision language models**  \
 Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao \
@@ -130,7 +144,7 @@ EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 
 #### 2.1 Image (Video) Generation
 
-**GarmentAligner: Text-to-Garment Generation via Retrieval-Augmented Multi-level Corrections** [**New**]
+**GarmentAligner: Text-to-Garment Generation via Retrieval-Augmented Multi-level Corrections** :smile: \
 Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan & Xiaodan Liang\
 ECCV 2025 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72698-9_9)]
 
@@ -217,6 +231,10 @@ Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun
 ICML 24 [[paper](https://openreview.net/pdf?id=eejhD9FCP3)]
 
 ### 3. Embodied AI
+
+**Realgen: Retrieval augmented generation for controllable traffic scenarios**  :smile: \
+Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao & Marco Pavone \
+ECCV 24 [[paper](https://arxiv.org/pdf/2312.13303)]
 
 **ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception**  \
 Ahmad M. Nazar, Abdulkadir Celik, Mohamed Y. Selim, Asmaa Abdallah, Daji Qiao, Ahmed M. Eltawil \
