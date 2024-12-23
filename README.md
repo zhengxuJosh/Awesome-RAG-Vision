@@ -40,6 +40,14 @@ Arxiv 2024 [[paper](https://arxiv.org/pdf/2402.19473)]
 
 #### 1.1 Image Understanding
 
+**DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding**  :smile: \
+Hao Wu, Zhihang Zhong, Xiao Sun \
+Arxiv 2024 - Dec 2024 [[paper](https://arxiv.org/pdf/2412.01115)]
+
+**Retrieval-Augmented Open-Vocabulary Object Detection**  :smile: \
+Jooyeon Kim, Eulrang Cho, Sehyung Kim, Hyunwoo J. Kim \
+CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Retrieval-Augmented_Open-Vocabulary_Object_Detection_CVPR_2024_paper.pdf)]
+
 **Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**  :smile: \
 Wenyan Li, Jiaang Li, Rita Ramos, Raphael Tang, Desmond Elliott \
 Arxiv 2024 - Aug 2024 [[paper](https://arxiv.org/pdf/2406.02265)]
@@ -73,6 +81,10 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token=SlLR5jgRRkgAAAAA:DzC124tFMWQSMYkKRGkPTwU-aaT7TSv_iVjE-dsZtbna9j3zCYX1A6qcfgmpEKTms8DoZDgplc5u8g)]
 
 #### 1.4 Multi-modal
+
+**mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**  :smile: \
+Tao Zhang, Ziqi Zhang, Zongyang Ma, Yuxin Chen, Zhongang Qi, Chunfeng Yuan, Bing Li, Junfu Pu, Yuxuan Zhao, Zehua Xie, Jin Ma, Ying Shan, Weiming Hu  \
+Arxiv 2024 - Nov 24 [[paper](https://arxiv.org/pdf/2411.15041)]
 
 **Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**  :smile: \
 Davide Caffagni, Federico Cocchi, Nicholas Moratelli, Sara Sarto, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara  \
@@ -159,6 +171,10 @@ EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 ### 2 Visual Generation 
 
 #### 2.1 Image (Video) Generation
+
+**FairRAG: Fair Human Generation via Fair Retrieval Augmentation** :smile: \
+Robik Shrestha, Yang Zou, Qiuyu Chen, Zhiheng Li, Yusheng Xie, Siqi Deng \
+CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf)]
 
 **GarmentAligner: Text-to-Garment Generation via Retrieval-Augmented Multi-level Corrections** :smile: \
 Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan & Xiaodan Liang\
@@ -248,9 +264,17 @@ ICML 24 [[paper](https://openreview.net/pdf?id=eejhD9FCP3)]
 
 ### 3. Embodied AI
 
+**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**  :smile: \
+Weiye Xu, Min Wang, Wengang Zhou, Houqiang Li \
+ACM MM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680661)]
+
 **Realgen: Retrieval augmented generation for controllable traffic scenarios**  :smile: \
 Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao & Marco Pavone \
 ECCV 24 [[paper](https://arxiv.org/pdf/2312.13303)]
+
+**Retrieval-Augmented Embodied Agents**  :smile: \
+Yichen Zhu, Zhicai Ou, Xiaofeng Mou, Jian Tang \
+CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf)]
 
 **ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception**  \
 Ahmad M. Nazar, Abdulkadir Celik, Mohamed Y. Selim, Asmaa Abdallah, Daji Qiao, Ahmed M. Eltawil \
