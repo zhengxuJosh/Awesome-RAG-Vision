@@ -262,6 +262,10 @@ Arxiv 24 - Nov 2024 [[paper](https://arxiv.org/pdf/2411.19492)]
 Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang \
 ICML 24 [[paper](https://openreview.net/pdf?id=eejhD9FCP3)]
 
+**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model** \
+Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu \
+ICCV 23 [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf)]
+
 ### 3. Embodied AI
 
 **P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**  :smile: \
