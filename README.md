@@ -34,6 +34,10 @@ We strongly encourage the researchers that want to promote their fantastic work 
 Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui \
 Arxiv 2024 [[paper](https://arxiv.org/pdf/2402.19473)]
 
+**Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation**   \
+Mohammad Mahdi Abootorabi, Amirhosein Zobeiri, Mahdi Dehghani, Mohammadali Mohammadkhani, Bardia Mohammadi, Omid Ghahroodi, Mahdieh Soleymani Baghshah, Ehsaneddin Asgari \
+Arxiv 2025 [[paper](https://arxiv.org/pdf/2502.08826)]
+
 ## RAG for Vision
 
 ### 1 Visual Understanding 
