@@ -244,6 +244,19 @@ Arxiv 22 [[paper](https://arxiv.org/pdf/2209.14491)]
 Hexiang Hu, Kelvin C.K. Chan, Yu-Chuan Su, Wenhu Chen, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William Cohen, Ming-Wei Chang, Xuhui Jia \
 CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Instruct-Imagen_Image_Generation_with_Multi-modal_Instruction_CVPR_2024_paper.pdf)]
 
+**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation** \
+Rotem Shalev-Arkushin, Rinon Gal, Amit H. Bermano, Ohad Fried \
+Arxiv 25 [[paper](https://arxiv.org/pdf/2502.09411)]
+
+**FineRAG: Fine-grained Retrieval-Augmented Text-to-Image Generation** \
+Huaying Yuan, Ziliang Zhao, Shuting Wang, Shitao Xiao, Minheng Ni, Zheng Liu, Zhicheng Dou \
+COLING 25 [[paper](https://aclanthology.org/2025.coling-main.741.pdf)]
+
+**RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning** \
+Yuanhuiyi Lyu, Xu Zheng, Lutao Jiang, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu \
+Arxiv 25 [[paper](https://arxiv.org/pdf/2502.00848)]
+
+
 #### 2.2 3D Generation
 
 **Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion** \
