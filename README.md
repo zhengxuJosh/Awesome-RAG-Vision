@@ -30,7 +30,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 ## Survey and Benchmark 
 
-**Retrieval-augmented generation for ai-generated content: A survey**  :smile: \
+**Retrieval-augmented generation for ai-generated content: A survey**   \
 Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui \
 Arxiv 2024 [[paper](https://arxiv.org/pdf/2402.19473)]
 
@@ -40,23 +40,23 @@ Arxiv 2024 [[paper](https://arxiv.org/pdf/2402.19473)]
 
 #### 1.1 Image Understanding
 
-**DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding**  :smile: \
+**DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding**   \
 Hao Wu, Zhihang Zhong, Xiao Sun \
 Arxiv 2024 - Dec 2024 [[paper](https://arxiv.org/pdf/2412.01115)]
 
-**Retrieval-Augmented Open-Vocabulary Object Detection**  :smile: \
+**Retrieval-Augmented Open-Vocabulary Object Detection**   \
 Jooyeon Kim, Eulrang Cho, Sehyung Kim, Hyunwoo J. Kim \
 CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Retrieval-Augmented_Open-Vocabulary_Object_Detection_CVPR_2024_paper.pdf)]
 
-**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**  :smile: \
+**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**   \
 Wenyan Li, Jiaang Li, Rita Ramos, Raphael Tang, Desmond Elliott \
 Arxiv 2024 - Aug 2024 [[paper](https://arxiv.org/pdf/2406.02265)]
 
-**Retrieval augmented classification for long-tail visual recognition**  :smile: \
+**Retrieval augmented classification for long-tail visual recognition**   \
 Alexander Long, Wei Yin, Thalaiyasingam Ajanthan, Vu Nguyen, Pulak Purkait, Ravi Garg, Alan Blair, Chunhua Shen, Anton van den Hengel \
 CVPR 2022 [[paper]([https://arxiv.org/pdf/2411.13093](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf))]
 
-**Learning Customized Visual Models with Retrieval-Augmented Knowledge**  :smile: \
+**Learning Customized Visual Models with Retrieval-Augmented Knowledge**   \
 Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li \
 CVPR 2023 [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf)]
 
@@ -82,11 +82,11 @@ ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token
 
 #### 1.4 Multi-modal
 
-**mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**  :smile: \
+**mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**   \
 Tao Zhang, Ziqi Zhang, Zongyang Ma, Yuxin Chen, Zhongang Qi, Chunfeng Yuan, Bing Li, Junfu Pu, Yuxuan Zhao, Zehua Xie, Jin Ma, Ying Shan, Weiming Hu  \
 Arxiv 2024 - Nov 24 [[paper](https://arxiv.org/pdf/2411.15041)]
 
-**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**  :smile: \
+**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**   \
 Davide Caffagni, Federico Cocchi, Nicholas Moratelli, Sara Sarto, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara  \
 CVPRW 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.pdf)]
 
@@ -94,11 +94,11 @@ CVPRW 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Ca
 Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal  \
 Arxiv 24 – Nov 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
 
-**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**  :smile: \
+**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**   \
 Sahel Sharifymoghaddam, Shivani Upadhyay, Wenhu Chen, Jimmy Lin  \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2405.10311)]
 
-**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**  :smile: \
+**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**   \
 Wenbo Hu, Jia-Chen Gu, Zi-Yi Dou, Mohsen Fayyaz, Pan Lu, Kai-Wei Chang, Nanyun Peng  \
 Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.08182)]
 
@@ -154,7 +154,7 @@ ACMMM 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2304.13923)]
 Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi  \
 CVPR 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2212.05221)]
 
-**Murag: Multimodal retrieval-augmented generator for open question answering over images and text**  :smile: \
+**Murag: Multimodal retrieval-augmented generator for open question answering over images and text**   \
 Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen  \
 Arxiv 22 - Oct 2022 [[paper](https://arxiv.org/pdf/2210.02928)]
 
@@ -172,11 +172,11 @@ EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
 
 #### 2.1 Image (Video) Generation
 
-**FairRAG: Fair Human Generation via Fair Retrieval Augmentation** :smile: \
+**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**  \
 Robik Shrestha, Yang Zou, Qiuyu Chen, Zhiheng Li, Yusheng Xie, Siqi Deng \
 CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf)]
 
-**GarmentAligner: Text-to-Garment Generation via Retrieval-Augmented Multi-level Corrections** :smile: \
+**GarmentAligner: Text-to-Garment Generation via Retrieval-Augmented Multi-level Corrections**  \
 Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan & Xiaodan Liang\
 ECCV 2025 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72698-9_9)]
 
@@ -281,15 +281,15 @@ ICCV 23 [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReM
 
 ### 3. Embodied AI
 
-**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**  :smile: \
+**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**   \
 Weiye Xu, Min Wang, Wengang Zhou, Houqiang Li \
 ACM MM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680661)]
 
-**Realgen: Retrieval augmented generation for controllable traffic scenarios**  :smile: \
+**Realgen: Retrieval augmented generation for controllable traffic scenarios**   \
 Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao & Marco Pavone \
 ECCV 24 [[paper](https://arxiv.org/pdf/2312.13303)]
 
-**Retrieval-Augmented Embodied Agents**  :smile: \
+**Retrieval-Augmented Embodied Agents**   \
 Yichen Zhu, Zhicai Ou, Xiaofeng Mou, Jian Tang \
 CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf)]
 
