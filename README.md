@@ -104,11 +104,11 @@ Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2405.10311)]
 
 **MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**   \
 Wenbo Hu, Jia-Chen Gu, Zi-Yi Dou, Mohsen Fayyaz, Pan Lu, Kai-Wei Chang, Nanyun Peng  \
-Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.08182)]
+ICLR 25 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.08182)]
 
 **VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  \
 Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun  \
-Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/abs/2410.10594)]
+ICLR 25 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.10594)]
 
 **RoRA-VLM: Robust Retrieval Augmentation for Vision Language Models**  \
 Jingyuan Qi, Zhiyang Xu, Rulin Shao, Yang Chen, Jin Di, Yu Cheng, Qifan Wang, Lifu Huang  \
@@ -120,11 +120,11 @@ Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
 
 **SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information**  \
 Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng  \
-EMNLP 24 – Sep 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
+EMNLP 24 – Sep 2024 [[paper](https://aclanthology.org/2024.emnlp-main.434.pdf)]
 
 **ColPali: Efficient Document Retrieval with Vision Language Models**  \
 Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo  \
-Arxiv 24 – Jul 2024 [[paper](https://arxiv.org/pdf/2407.01449)]
+ICLR 25– Jul 2024 [[paper](https://openreview.net/pdf?id=ogjBpZ8uSi)]
 
 **MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**  \
 Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo  \
@@ -132,11 +132,15 @@ Arxiv 24 – Jul 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
 **RAVEN: Multitask Retrieval Augmented Vision-Language Learning**  \
 Varun Nagaraj Rao, Siddharth Choudhary, Aditya Deshpande, Ravi Kumar Satzoda, Srikar Appalaraju  \
-Arxiv 24 - Jun 2024 [[paper](https://arxiv.org/pdf/2406.19150)]
+COLM 24 - Jun 2024 [[paper](https://openreview.net/pdf?id=GMalvQu0XL)]
 
 **SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**  \
 Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang  \
-Arxiv 24 – May 2024 [[paper](https://arxiv.org/pdf/2405.14554)]
+NIPS 2024 – May 2024 [[paper](https://papers.nips.cc/paper_files/paper/2024/file/76954b4a44e158e738b4c64494977c6a-Paper-Conference.pdf)]
+
+**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**  \
+Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang  \
+CoRR 2024 - May 2024 [[paper](https://arxiv.org/abs/2405.14554v1)]
 
 **Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**  \
 Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li  \
@@ -148,7 +152,7 @@ Arxiv 24 – Mar 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
 
 **Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering**  \
 Weizhe Lin, Jinghong Chen, Jingbiao Mei, Alexandru Coca, Bill Byrne  \
-NIPS 23 - Oct 2023 [[paper](https://arxiv.org/pdf/2309.17133)]
+NIPS 23 - Oct 2023 [[paper](https://papers.nips.cc/paper_files/paper/2023/file/47393e8594c82ce8fd83adc672cf9872-Paper-Conference.pdf)]
 
 **Retrieval-based Knowledge Augmented Vision Language Pre-training**  \
 Jiahua Rao, Zifei Shan, Longpo Liu, Yao Zhou, Yuedong Yang  \
@@ -160,7 +164,7 @@ CVPR 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2212.05221)]
 
 **Murag: Multimodal retrieval-augmented generator for open question answering over images and text**   \
 Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen  \
-Arxiv 22 - Oct 2022 [[paper](https://arxiv.org/pdf/2210.02928)]
+EMNLP 22 - Oct 2022 [[paper](https://aclanthology.org/2022.emnlp-main.375.pdf)]
 
 #### 1.5 Medical Vision
 
