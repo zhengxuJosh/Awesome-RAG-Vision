@@ -70,272 +70,187 @@ Retrieval-Augmented Generation (RAG) integrates retrieval modules into generativ
 ### 1 Visual Understanding
 
 #### 1.1 Image Understanding
+| Title & Link                                                                                                           | Authors        | Venue/Date         |
+|------------------------------------------------------------------------------------------------------------------------|----------------|--------------------|
+| [**DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding**](https://arxiv.org/pdf/2412.01115)     | Wu *et al.*    | Arxiv 2024 (Dec)   |
+| [**Retrieval-Augmented Open-Vocabulary Object Detection**](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Retrieval-Augmented_Open-Vocabulary_Object_Detection_CVPR_2024_paper.pdf) | Kim *et al.*   | CVPR 2024          |
+| [**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**](https://arxiv.org/pdf/2406.02265)    | Li *et al.*    | Arxiv 2024 (Aug)   |
+| [**Retrieval-Augmented Classification for Long-Tail Visual Recognition**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf) | Long *et al.*  | CVPR 2022          |
+| [**Learning Customized Visual Models with Retrieval-Augmented Knowledge**](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf) | Liu *et al.*   | CVPR 2023          |
+<!--
+DIR: Hao Wu, Zhihang Zhong, Xiao Sun  
+Retrieval-Augmented OVD: Jooyeon Kim, Eulrang Cho, Sehyung Kim, Hyunwoo J. Kim  
+Understanding Retrieval Robustness: Wenyan Li, Jiaang Li, Rita Ramos, Raphael Tang, Desmond Elliott  
+Retrieval-Augmented Classification: Alexander Long, Wei Yin, Thalaiyasingam Ajanthan, Vu Nguyen, Pulak Purkait, Ravi Garg, Alan Blair, Chunhua Shen, Anton van den Hengel  
+Learning Customized Visual Models: Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li  
+-->
 
-**DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding**   \
-Hao Wu, Zhihang Zhong, Xiao Sun \
-Arxiv 2024 - Dec 2024 [[paper](https://arxiv.org/pdf/2412.01115)]
-
-**Retrieval-Augmented Open-Vocabulary Object Detection**   \
-Jooyeon Kim, Eulrang Cho, Sehyung Kim, Hyunwoo J. Kim \
-CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Retrieval-Augmented_Open-Vocabulary_Object_Detection_CVPR_2024_paper.pdf)]
-
-**Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning**   \
-Wenyan Li, Jiaang Li, Rita Ramos, Raphael Tang, Desmond Elliott \
-Arxiv 2024 - Aug 2024 [[paper](https://arxiv.org/pdf/2406.02265)]
-
-**Retrieval augmented classification for long-tail visual recognition**   \
-Alexander Long, Wei Yin, Thalaiyasingam Ajanthan, Vu Nguyen, Pulak Purkait, Ravi Garg, Alan Blair, Chunhua Shen, Anton van den Hengel \
-CVPR 2022 [[paper]([https://arxiv.org/pdf/2411.13093](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf))]
-
-**Learning Customized Visual Models with Retrieval-Augmented Knowledge**   \
-Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee, Chunyuan Li \
-CVPR 2023 [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf)]
 
 #### 1.2 (Long) Video Understanding
+| Title & Link                                                                                                           | Authors        | Venue/Date         |
+|------------------------------------------------------------------------------------------------------------------------|----------------|--------------------|
+| [**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**](https://arxiv.org/pdf/2411.13093)      | Luo *et al.*   | Arxiv 2024 (Nov)   |
+| [**ViTA: An Efficient Video-to-Text Algorithm using VLM for RAG-based Video Analysis System**](https://aclanthology.org/2024.emnlp-main.62.pdf) | Arefeen *et al.* | CVPRW 2024         |
+| [**iRAG: Advancing RAG for Videos with an Incremental Approach**](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=CDXIXZP0y9QAAAAA:obaFKtQODdGsI3pB22GWuGH2dODwF7N0dj1dl58WfSwavmvrp_1eeaHXj6c2XCQyt-9vF1r1QrUd) | Arefeen *et al.* | CIKM 2024          |
+<!--
+Video-RAG: Yongdong Luo, Xiawu Zheng, Xiao Yang, Guilin Li, Haojia Lin, Jinfa Huang, Jiayi Ji, Fei Chao, Jiebo Luo, Rongrong Ji  
+ViTA: Md Adnan Arefeen, Biplob Debnath, Md Yusuf Sarwar Uddin, Srimat Chakradhar  
+iRAG: Md Adnan Arefeen, Md Yusuf Sarwar Uddin, Biplob Debnath, Srimat Chakradhar  
+-->
 
-**Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension**  \
-Yongdong Luo, Xiawu Zheng, Xiao Yang, Guilin Li, Haojia Lin, Jinfa Huang, Jiayi Ji, Fei Chao, Jiebo Luo, Rongrong Ji \
-Arxiv 24 – Nov 2024 [[paper](https://arxiv.org/pdf/2411.13093)]
-
-**ViTA: An Efficient Video-to-Text Algorithm using VLM for RAG-based Video Analysis System**  \
-Md Adnan Arefeen, Biplob Debnath, Md Yusuf Sarwar Uddin, Srimat Chakradhar \
-CVPRW 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
-
-**iRAG: Advancing RAG for Videos with an Incremental Approach**  \
-Md Adnan Arefeen, Md Yusuf Sarwar Uddin, Biplob Debnath, Srimat Chakradhar \
-CIKM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=CDXIXZP0y9QAAAAA:obaFKtQODdGsI3pB22GWuGH2dODwF7N0dj1dl58WfSwavmvrp_1eeaHXj6c2XCQyt-9vF1r1QrUd)]
 
 #### 1.3 Visual Spacial Understanding
 
-**RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Corrector**  \
-Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fanrui Zhang, Qingsong Liu, Jianqing Sun, Jiaen Liang, Yaohui Zhang \
-ACM MM 24 [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token=SlLR5jgRRkgAAAAA:DzC124tFMWQSMYkKRGkPTwU-aaT7TSv_iVjE-dsZtbna9j3zCYX1A6qcfgmpEKTms8DoZDgplc5u8g)]
+| Title & Link                                                                                                                                                      | Authors       | Venue/Date   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------|
+| [**RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Corrector**](https://dl.acm.org/doi/abs/10.1145/3664647.3688990?casa_token=SlLR5jgRRkgAAAAA:DzC124tFMWQSMYkKRGkPTwU-aaT7TSv_iVjE-dsZtbna9j3zCYX1A6qcfgmpEKTms8DoZDgplc5u8g) | Yu *et al.*   | ACM MM 2024  |
+<!--
+RAG-Guided Large Language Models for Visual Spatial Description with Adaptive Hallucination Corrector:  
+Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fanrui Zhang, Qingsong Liu, Jianqing Sun, Jiaen Liang, Yaohui Zhang
+-->
+
 
 #### 1.4 Multi-modal
 
-**mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**   \
-Tao Zhang, Ziqi Zhang, Zongyang Ma, Yuxin Chen, Zhongang Qi, Chunfeng Yuan, Bing Li, Junfu Pu, Yuxuan Zhao, Zehua Xie, Jin Ma, Ying Shan, Weiming Hu  \
-Arxiv 2024 - Nov 24 [[paper](https://arxiv.org/pdf/2411.15041)]
-
-**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**   \
-Davide Caffagni, Federico Cocchi, Nicholas Moratelli, Sara Sarto, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara  \
-CVPRW 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.pdf)]
-
-**M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**  \
-Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal  \
-Arxiv 24 – Nov 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
-
-**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**   \
-Sahel Sharifymoghaddam, Shivani Upadhyay, Wenhu Chen, Jimmy Lin  \
-Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2405.10311)]
-
-**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**   \
-Wenbo Hu, Jia-Chen Gu, Zi-Yi Dou, Mohsen Fayyaz, Pan Lu, Kai-Wei Chang, Nanyun Peng  \
-ICLR 25 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.08182)]
-
-**VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  \
-Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun  \
-ICLR 25 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.10594)]
-
-**RoRA-VLM: Robust Retrieval Augmentation for Vision Language Models**  \
-Jingyuan Qi, Zhiyang Xu, Rulin Shao, Yang Chen, Jin Di, Yu Cheng, Qifan Wang, Lifu Huang  \
-Arxiv 24 - Oct 24 [[paper](https://arxiv.org/pdf/2410.08876)]
-
-**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**  \
-Monica Riedler, Stefan Langer  \
-Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.21943)]
-
-**SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information**  \
-Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng  \
-EMNLP 24 – Sep 2024 [[paper](https://aclanthology.org/2024.emnlp-main.434.pdf)]
-
-**ColPali: Efficient Document Retrieval with Vision Language Models**  \
-Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo  \
-ICLR 25– Jul 2024 [[paper](https://openreview.net/pdf?id=ogjBpZ8uSi)]
-
-**MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**  \
-Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo  \
-Arxiv 24 – Jul 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
-
-**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**  \
-Varun Nagaraj Rao, Siddharth Choudhary, Aditya Deshpande, Ravi Kumar Satzoda, Srikar Appalaraju  \
-COLM 24 - Jun 2024 [[paper](https://openreview.net/pdf?id=GMalvQu0XL)]
-
-**SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge**  \
-Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang  \
-NIPS 2024 – May 2024 [[paper](https://papers.nips.cc/paper_files/paper/2024/file/76954b4a44e158e738b4c64494977c6a-Paper-Conference.pdf)]
-
-**UDKAG: Augmenting Large Vision-Language Models with Up-to-Date Knowledge**  \
-Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang  \
-CoRR 2024 - May 2024 [[paper](https://arxiv.org/abs/2405.14554v1)]
-
-**Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**  \
-Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li  \
-Arxiv 24 – Apr 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
-
-**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**  \
-Ziyu Liu, Zeyi Sun, Yuhang Zang, Wei Li, Pan Zhang, Xiaoyi Dong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang  \
-Arxiv 24 – Mar 2024 [[paper](https://arxiv.org/pdf/2409.14083)]
-
-**Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering**  \
-Weizhe Lin, Jinghong Chen, Jingbiao Mei, Alexandru Coca, Bill Byrne  \
-NIPS 23 - Oct 2023 [[paper](https://papers.nips.cc/paper_files/paper/2023/file/47393e8594c82ce8fd83adc672cf9872-Paper-Conference.pdf)]
-
-**Retrieval-based Knowledge Augmented Vision Language Pre-training**  \
-Jiahua Rao, Zifei Shan, Longpo Liu, Yao Zhou, Yuedong Yang  \
-ACMMM 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2304.13923)]
-
-**ReVeaL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory**  \
-Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi  \
-CVPR 23 - Apr 2023 [[paper](https://arxiv.org/pdf/2212.05221)]
-
-**Murag: Multimodal retrieval-augmented generator for open question answering over images and text**   \
-Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen  \
-EMNLP 22 - Oct 2022 [[paper](https://aclanthology.org/2022.emnlp-main.375.pdf)]
+| Title & Link                                                                                                                                      | Authors         | Venue/Date         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------------------|
+| [**mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**](https://arxiv.org/pdf/2411.15041)                      | Zhang *et al.*   | Arxiv 2024 (Nov)   |
+| [**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.pdf) | Caffagni *et al.*| CVPRW 2024         |
+| [**M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding**](https://arxiv.org/pdf/2410.21943)             | Cho *et al.*     | Arxiv 2024 (Nov)   |
+| [**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**](https://arxiv.org/pdf/2405.10311)                           | Sharifymoghaddam *et al.* | Arxiv 2024 (Oct)   |
+| [**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**](https://arxiv.org/pdf/2410.08182)                          | Hu *et al.*      | ICLR 2025 (Oct)    |
+| [**VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**](https://arxiv.org/pdf/2410.10594)                          | Yu *et al.*      | ICLR 2025 (Oct)    |
+| [**RoRA-VLM: Robust Retrieval Augmentation for Vision Language Models**](https://arxiv.org/pdf/2410.08876)                                       | Qi *et al.*      | Arxiv 2024 (Oct)   |
+| [**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**](https://arxiv.org/pdf/2410.21943)                           | Riedler *et al.* | Arxiv 2024 (Oct)   |
+| [**SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information**](https://aclanthology.org/2024.emnlp-main.434.pdf) | Sun *et al.*     | EMNLP 2024 (Sep)   |
+| [**ColPali: Efficient Document Retrieval with Vision Language Models**](https://openreview.net/pdf?id=ogjBpZ8uSi)                                | Faysse *et al.*  | ICLR 2025 (Jul)    |
+| [**MLLM Is a Strong Reranker**](https://arxiv.org/pdf/2409.14083)                                                                                | Chen *et al.*    | Arxiv 2024 (Jul)   |
+| [**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**](https://openreview.net/pdf?id=GMalvQu0XL)                                    | Rao *et al.*     | COLM 2024 (Jun)    |
+| [**SearchLVLMs**](https://papers.nips.cc/paper_files/paper/2024/file/76954b4a44e158e738b4c64494977c6a-Paper-Conference.pdf)                      | Li *et al.*      | NIPS 2024 (May)    |
+| [**UDKAG**](https://arxiv.org/abs/2405.14554v1)                                                                                                   | Li *et al.*      | CoRR 2024 (May)    |
+| [**Retrieval Meets Reasoning**](https://arxiv.org/pdf/2409.14083)                                                                                | Tan *et al.*     | Arxiv 2024 (Apr)   |
+| [**RAR**](https://arxiv.org/pdf/2409.14083)                                                                                                       | Liu *et al.*     | Arxiv 2024 (Mar)   |
+| [**Fine-grained Late-interaction Multi-modal Retrieval for RAG-VQA**](https://papers.nips.cc/paper_files/paper/2023/file/47393e8594c82ce8fd83adc672cf9872-Paper-Conference.pdf) | Lin *et al.*     | NIPS 2023 (Oct)    |
+| [**Retrieval-based Knowledge Augmented Vision Language Pre-training**](https://arxiv.org/pdf/2304.13923)                                         | Rao *et al.*     | ACMMM 2023 (Apr)   |
+| [**ReVeaL**](https://arxiv.org/pdf/2212.05221)                                                                                                    | Hu *et al.*      | CVPR 2023 (Apr)    |
+| [**Murag**](https://aclanthology.org/2022.emnlp-main.375.pdf)                                                                                    | Chen *et al.*    | EMNLP 2022 (Oct)   |
+<!--
+mR2AG: Tao Zhang, Ziqi Zhang, Zongyang Ma, Yuxin Chen, Zhongang Qi, Chunfeng Yuan, Bing Li, Junfu Pu, Yuxuan Zhao, Zehua Xie, Jin Ma, Ying Shan, Weiming Hu  
+Wiki-LLaVA: Davide Caffagni, Federico Cocchi, Nicholas Moratelli, Sara Sarto, Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara  
+M3DocRAG: Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal  
+UniRAG: Sahel Sharifymoghaddam, Shivani Upadhyay, Wenhu Chen, Jimmy Lin  
+MRAG-Bench: Wenbo Hu, Jia-Chen Gu, Zi-Yi Dou, Mohsen Fayyaz, Pan Lu, Kai-Wei Chang, Nanyun Peng  
+VisRAG: Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun  
+RoRA-VLM: Jingyuan Qi, Zhiyang Xu, Rulin Shao, Yang Chen, Jin Di, Yu Cheng, Qifan Wang, Lifu Huang  
+Beyond Text: Monica Riedler, Stefan Langer  
+SURf: Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su, Xiaoye Qu, Yu Cheng  
+ColPali: Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo  
+MLLM Is a Strong Reranker: Zhanpeng Chen, Chengjin Xu, Yiyan Qi, Jian Guo  
+RAVEN: Varun Nagaraj Rao, Siddharth Choudhary, Aditya Deshpande, Ravi Kumar Satzoda, Srikar Appalaraju  
+SearchLVLMs: Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang  
+UDKAG: Chuanhao Li, Zhen Li, Chenchen Jing, Shuo Liu, Wenqi Shao, Yuwei Wu, Ping Luo, Yu Qiao, Kaipeng Zhang  
+Retrieval Meets Reasoning: Cheng Tan, Jingxuan Wei, Linzhuang Sun, Zhangyang Gao, Siyuan Li, Bihui Yu, Ruifeng Guo, Stan Z. Li  
+RAR: Ziyu Liu, Zeyi Sun, Yuhang Zang, Wei Li, Pan Zhang, Xiaoyi Dong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang  
+Fine-grained Retrieval: Weizhe Lin, Jinghong Chen, Jingbiao Mei, Alexandru Coca, Bill Byrne  
+Retrieval-based Pre-training: Jiahua Rao, Zifei Shan, Longpo Liu, Yao Zhou, Yuedong Yang  
+ReVeaL: Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi  
+Murag: Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen  
+-->
 
 #### 1.5 Medical Vision
-
-**Mmed-rag: Versatile multimodal rag system for medical vision language models**  \
-Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao \
-Arxiv 24 – Oct 2024 [[paper](https://arxiv.org/pdf/2410.13085)]
-
-**Rule: Reliable multimodal rag for factuality in medical vision language models**  \
-Peng Xia, Kangyu Zhu, Haoran Li, Hongtu Zhu, Yun Li, Gang Li, Linjun Zhang, Huaxiu Yao \
-EMNLP 24 [[paper](https://aclanthology.org/2024.emnlp-main.62.pdf)]
+| Title & Link                                                                                                                                      | Authors       | Venue/Date       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|
+| [**Mmed-rag: Versatile multimodal rag system for medical vision language models**](https://arxiv.org/pdf/2410.13085)                             | Xia *et al.*  | Arxiv 2024 (Oct) |
+| [**Rule: Reliable multimodal rag for factuality in medical vision language models**](https://aclanthology.org/2024.emnlp-main.62.pdf)            | Xia *et al.*  | EMNLP 2024       |
+<!--
+Mmed-rag: Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao  
+Rule: Peng Xia, Kangyu Zhu, Haoran Li, Hongtu Zhu, Yun Li, Gang Li, Linjun Zhang, Huaxiu Yao  
+-->
 
 ### 2 Visual Generation 
 
 #### 2.1 Image (Video) Generation
 
-**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**  \
-Robik Shrestha, Yang Zou, Qiuyu Chen, Zhiheng Li, Yusheng Xie, Siqi Deng \
-CVPR 2024 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf)]
-
-**GarmentAligner: Text-to-Garment Generation via Retrieval-Augmented Multi-level Corrections**  \
-Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan & Xiaodan Liang\
-ECCV 2025 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72698-9_9)]
-
-**Retrieval-Augmented Diffusion Models** \
-Andreas Blattmann, Robin Rombach, Kaan Oktay, Jonas Müller, Björn Ommer \
-NIPS 22 [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf)]
-
-**Label-Retrieval-Augmented Diffusion Models for Learning from Noisy Labels** \
-Jian Chen, Ruiyi Zhang, Tong Yu, Rohan Sharma, Zhiqiang Xu, Tong Sun, Changyou Chen \
-NIPS 23 [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d191ba4c8923ed8fd8935b7c98658b5f-Paper-Conference.pdf)]
-
-**CPR: Retrieval Augmented Generation for Copyright Protection** \
-Aditya Golatkar, Alessandro Achille, Luca Zancato, Yu-Xiang Wang, Ashwin Swaminathan, Stefano Soatto \
-CVPR 23 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Golatkar_CPR_Retrieval_Augmented_Generation_for_Copyright_Protection_CVPR_2024_paper.pdf)]
-
-**BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity** \
-Dian Xie, Peiang Zhao, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia \
-MM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681296)]
-
-**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** \
-He Yingqing, Xia Menghan, Chen Haoxin, Cun Xiaodong, Gong Yuan, Xing Jinbo, Zhang Yong, Wang Xintao, Weng Chao, Shan Ying, Chen Qifeng \
-Arxiv 23 [[paper](https://arxiv.org/pdf/2307.06940)]
-
-**RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios** \
-Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao, Marco Pavone \
-ECCV 24 [[paper](https://arxiv.org/pdf/2312.13303)]
-
-**Grounding Language Models for Visual Entity Recognition** \
-Zilin Xiao, Ming Gong, Paola Cascante-Bonilla, Xingyao Zhang, Jie Wu, Vicente Ordonez \
-ECCV 24 [[paper](https://arxiv.org/pdf/2402.18695)]
-
-**GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections** \
-Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang \
-ECCV 24 [[paper](https://arxiv.org/pdf/2408.12352)]
-
-**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation** \
-Daichi Horita, Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi, Kiyoharu Aizawa \
-CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf)]
-
-**The Neglected Tails in Vision-Language Models** \
-Shubham Parashar, Zhiqiu Lin, Tian Liu, Xiangjue Dong, Yanan Li, Deva Ramanan, James Caverlee, Shu Kong \
-CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf)]
-
-**Prompt Expansion for Adaptive Text-to-Image Generation** \
-Siddhartha Datta, Alexander Ku, Deepak Ramachandran, Peter Anderson \
-ACL 24 [[paper](https://arxiv.org/pdf/2312.16720)]
-
-**The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention** \
-Yixin Wan, Di Wu, Haoran Wang, Kai-Wei Chang \
-EMNLP 24 [[paper](https://arxiv.org/pdf/2407.00377)]
-
-**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage** \
-Dario Cioni, Lorenzo Berlincioni, Federico Becattini, Alberto del Bimbo \
-ICCV 23 [[paper](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/papers/Cioni_Diffusion_Based_Augmentation_for_Captioning_and_Retrieval_in_Cultural_Heritage_ICCVW_2023_paper.pdf)]
-
-**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model** \
-Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu \
-ICCV 23 [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf)]
-
-**Re-imagen: Retrieval-augmented text-to-image generator** \
-Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen \
-Arxiv 22 [[paper](https://arxiv.org/pdf/2209.14491)]
-
-**Instruct-Imagen: Image Generation with Multi-modal Instruction** \
-Hexiang Hu, Kelvin C.K. Chan, Yu-Chuan Su, Wenhu Chen, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William Cohen, Ming-Wei Chang, Xuhui Jia \
-CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Instruct-Imagen_Image_Generation_with_Multi-modal_Instruction_CVPR_2024_paper.pdf)]
-
-**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation** \
-Rotem Shalev-Arkushin, Rinon Gal, Amit H. Bermano, Ohad Fried \
-Arxiv 25 [[paper](https://arxiv.org/pdf/2502.09411)]
-
-**FineRAG: Fine-grained Retrieval-Augmented Text-to-Image Generation** \
-Huaying Yuan, Ziliang Zhao, Shuting Wang, Shitao Xiao, Minheng Ni, Zheng Liu, Zhicheng Dou \
-COLING 25 [[paper](https://aclanthology.org/2025.coling-main.741.pdf)]
-
-**RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning** \
-Yuanhuiyi Lyu, Xu Zheng, Lutao Jiang, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu \
-Arxiv 25 [[paper](https://arxiv.org/pdf/2502.00848)]
+| Title & Link                                                                                                                                      | Authors       | Venue/Date       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|
+| [**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf) | Shrestha *et al.* | CVPR 2024        |
+| [**GarmentAligner (ECCV)**](https://link.springer.com/chapter/10.1007/978-3-031-72698-9_9)                                                       | Zhang *et al.* | ECCV 2025        |
+| [**Retrieval-Augmented Diffusion Models**](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf) | Blattmann *et al.* | NIPS 2022        |
+| [**Label-Retrieval-Augmented Diffusion Models**](https://proceedings.neurips.cc/paper_files/paper/2023/file/d191ba4c8923ed8fd8935b7c98658b5f-Paper-Conference.pdf) | Chen *et al.* | NIPS 2023        |
+| [**CPR: Retrieval Augmented Generation for Copyright Protection**](https://openaccess.thecvf.com/content/CVPR2024/papers/Golatkar_CPR_Retrieval_Augmented_Generation_for_Copyright_Protection_CVPR_2024_paper.pdf) | Golatkar *et al.* | CVPR 2023        |
+| [**BrainRAM**](https://dl.acm.org/doi/pdf/10.1145/3664647.3681296)                                                                               | Xie *et al.*     | MM 2024          |
+| [**Animate-A-Story**](https://arxiv.org/pdf/2307.06940)                                                                                          | He *et al.*      | Arxiv 2023       |
+| [**RealGen**](https://arxiv.org/pdf/2312.13303)                                                                                                   | Ding *et al.*    | ECCV 2024        |
+| [**Grounding Language Models for Visual Entity Recognition**](https://arxiv.org/pdf/2402.18695)                                                  | Xiao *et al.*    | ECCV 2024        |
+| [**GarmentAligner (Arxiv)**](https://arxiv.org/pdf/2408.12352)                                                                                   | Zhang *et al.*   | ECCV 2024        |
+| [**Retrieval-Augmented Layout Transformer**](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf) | Horita *et al.* | CVPR 2024        |
+| [**The Neglected Tails in Vision-Language Models**](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf) | Parashar *et al.* | CVPR 2024       |
+| [**Prompt Expansion for Adaptive Text-to-Image Generation**](https://arxiv.org/pdf/2312.16720)                                                   | Datta *et al.*   | ACL 2024         |
+| [**Factuality Tax of Diversity-Intervened Generation**](https://arxiv.org/pdf/2407.00377)                                                        | Wan *et al.*     | EMNLP 2024       |
+| [**Diffusion-Based Augmentation for Captioning and Retrieval**](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/papers/Cioni_Diffusion_Based_Augmentation_for_Captioning_and_Retrieval_in_Cultural_Heritage_ICCVW_2023_paper.pdf) | Cioni *et al.* | ICCV 2023        |
+| [**ReMoDiffuse**](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf) | Zhang *et al.* | ICCV 2023        |
+| [**Re-imagen**](https://arxiv.org/pdf/2209.14491)                                                                                                 | Chen *et al.*    | Arxiv 2022       |
+| [**Instruct-Imagen**](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Instruct-Imagen_Image_Generation_with_Multi-modal_Instruction_CVPR_2024_paper.pdf) | Hu *et al.* | CVPR 2024        |
+| [**ImageRAG**](https://arxiv.org/pdf/2502.09411)                                                                                                  | Shalev-Arkushin *et al.* | Arxiv 2025  |
+| [**FineRAG**](https://aclanthology.org/2025.coling-main.741.pdf)                                                                                 | Yuan *et al.*    | COLING 2025      |
+| [**RealRAG**](https://arxiv.org/pdf/2502.00848)                                                                                                   | Lyu *et al.*     | Arxiv 2025       |
+<!--
+FairRAG: Robik Shrestha, Yang Zou, Qiuyu Chen, Zhiheng Li, Yusheng Xie, Siqi Deng  
+GarmentAligner (ECCV): Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan & Xiaodan Liang  
+Retrieval-Augmented Diffusion Models: Andreas Blattmann, Robin Rombach, Kaan Oktay, Jonas Müller, Björn Ommer  
+Label-Retrieval-Augmented: Jian Chen, Ruiyi Zhang, Tong Yu, Rohan Sharma, Zhiqiang Xu, Tong Sun, Changyou Chen  
+CPR: Aditya Golatkar, Alessandro Achille, Luca Zancato, Yu-Xiang Wang, Ashwin Swaminathan, Stefano Soatto  
+BrainRAM: Dian Xie, Peiang Zhao, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia  
+Animate-A-Story: He Yingqing, Xia Menghan, Chen Haoxin, Cun Xiaodong, Gong Yuan, Xing Jinbo, Zhang Yong, Wang Xintao, Weng Chao, Shan Ying, Chen Qifeng  
+RealGen: Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao, Marco Pavone  
+Grounding VLMs: Zilin Xiao, Ming Gong, Paola Cascante-Bonilla, Xingyao Zhang, Jie Wu, Vicente Ordonez  
+GarmentAligner (Arxiv): Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang  
+Layout Transformer: Daichi Horita, Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi, Kiyoharu Aizawa  
+Neglected Tails: Shubham Parashar, Zhiqiu Lin, Tian Liu, Xiangjue Dong, Yanan Li, Deva Ramanan, James Caverlee, Shu Kong  
+Prompt Expansion: Siddhartha Datta, Alexander Ku, Deepak Ramachandran, Peter Anderson  
+Factuality Tax: Yixin Wan, Di Wu, Haoran Wang, Kai-Wei Chang  
+Diffusion for Heritage: Dario Cioni, Lorenzo Berlincioni, Federico Becattini, Alberto del Bimbo  
+ReMoDiffuse: Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu  
+Re-imagen: Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen  
+Instruct-Imagen: Hexiang Hu, Kelvin C.K. Chan, Yu-Chuan Su, Wenhu Chen, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William Cohen, Ming-Wei Chang, Xuhui Jia  
+ImageRAG: Rotem Shalev-Arkushin, Rinon Gal, Amit H. Bermano, Ohad Fried  
+FineRAG: Huaying Yuan, Ziliang Zhao, Shuting Wang, Shitao Xiao, Minheng Ni, Zheng Liu, Zhicheng Dou  
+RealRAG: Yuanhuiyi Lyu, Xu Zheng, Lutao Jiang, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu  
+-->
 
 
 #### 2.2 3D Generation
+| Title & Link                                                                                                                                      | Authors         | Venue/Date       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------|
+| [**Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions**](https://arxiv.org/pdf/2409.11406)                   | Wang *et al.*    | Arxiv 2024 (Sep) |
+| [**Retrieval-Augmented Score Distillation for Text-to-3D Generation**](https://arxiv.org/pdf/2402.02972)                                         | Seo *et al.*     | ICML 2024        |
+| [**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling**](https://arxiv.org/pdf/2411.19492)                                              | Wu *et al.*      | Arxiv 2024 (Nov) |
+| [**Interaction-based Retrieval-augmented Diffusion for Protein 3D Generation**](https://openreview.net/pdf?id=eejhD9FCP3)                         | Huang *et al.*   | ICML 2024        |
+| [**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model**](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf) | Zhang *et al.*   | ICCV 2023        |
+<!--
+Phidias: Zhenwei Wang, Tengfei Wang, Zexin He, Gerhard Hancke, Ziwei Liu, Rynson W.H. Lau  
+Retrieval-Augmented Score Distillation: Junyoung Seo, Susung Hong, Wooseok Jang, Ines Hyeonsu Kim, Minseop Kwak, Doyup Lee, Seungryong Kim  
+Diorama: Qirui Wu, Denys Iliash, Daniel Ritchie, Manolis Savva, Angel X. Chang  
+Interaction-based Diffusion: Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang  
+ReMoDiffuse: Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu  
+-->
 
-**Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion** \
-Zhenwei Wang, Tengfei Wang, Zexin He, Gerhard Hancke, Ziwei Liu, Rynson W.H. Lau \
-Arxiv 24 - Sep 2024 [[paper](https://arxiv.org/pdf/2409.11406)]
-
-**Retrieval-Augmented Score Distillation for Text-to-3D Generation** \
-Junyoung Seo, Susung Hong, Wooseok Jang, Ines Hyeonsu Kim, Minseop Kwak, Doyup Lee, Seungryong Kim \
-ICML 24 [[paper](https://arxiv.org/pdf/2402.02972)]
-
-**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling** \
-Qirui Wu, Denys Iliash, Daniel Ritchie, Manolis Savva, Angel X. Chang \
-Arxiv 24 - Nov 2024 [[paper](https://arxiv.org/pdf/2411.19492)]
-
-**Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation** \
-Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang \
-ICML 24 [[paper](https://openreview.net/pdf?id=eejhD9FCP3)]
-
-**ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model** \
-Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu \
-ICCV 23 [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf)]
 
 ### 3. Embodied AI
+| Title & Link                                                                                                                                      | Authors        | Venue/Date       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------------|
+| [**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**](https://dl.acm.org/doi/pdf/10.1145/3664647.3680661) | Xu *et al.*     | ACM MM 2024      |
+| [**Realgen: Retrieval augmented generation for controllable traffic scenarios**](https://arxiv.org/pdf/2312.13303)                                | Ding *et al.*   | ECCV 2024        |
+| [**Retrieval-Augmented Embodied Agents**](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf) | Zhu *et al.*     | CVPR 2024        |
+| [**ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception**](https://arxiv.org/pdf/2410.18104)                      | Nazar *et al.*  | Arxiv 2024 (Oct) |
+| [**Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation**](https://arxiv.org/pdf/2409.18313)                         | Xie *et al.*    | Arxiv 2024 (Oct) |
+| [**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning**](https://arxiv.org/abs/2402.10828)               | Yuan *et al.*   | Arxiv 2024 (May) |
+<!--
+P-RAG: Weiye Xu, Min Wang, Wengang Zhou, Houqiang Li  
+Realgen: Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao, Marco Pavone  
+Retrieval-Augmented Embodied Agents: Yichen Zhu, Zhicai Ou, Xiaofeng Mou, Jian Tang  
+ENWAR: Ahmad M. Nazar, Abdulkadir Celik, Mohamed Y. Selim, Asmaa Abdallah, Daji Qiao, Ahmed M. Eltawil  
+Embodied-RAG: Quanting Xie, So Yeon Min, Tianyi Zhang, Kedi Xu, Aarav Bajaj, Ruslan Salakhutdinov, Matthew Johnson-Roberson, Yonatan Bisk  
+RAG-Driver: Jianhao Yuan, Shuyang Sun, Daniel Omeiza, Bo Zhao, Paul Newman, Lars Kunze, Matthew Gadd  
+-->
 
-**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**   \
-Weiye Xu, Min Wang, Wengang Zhou, Houqiang Li \
-ACM MM 24 [[paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680661)]
-
-**Realgen: Retrieval augmented generation for controllable traffic scenarios**   \
-Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao & Marco Pavone \
-ECCV 24 [[paper](https://arxiv.org/pdf/2312.13303)]
-
-**Retrieval-Augmented Embodied Agents**   \
-Yichen Zhu, Zhicai Ou, Xiaofeng Mou, Jian Tang \
-CVPR 24 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf)]
-
-**ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception**  \
-Ahmad M. Nazar, Abdulkadir Celik, Mohamed Y. Selim, Asmaa Abdallah, Daji Qiao, Ahmed M. Eltawil \
-Arxiv 24 - Oct 2024 [[paper](https://arxiv.org/pdf/2410.18104)]
-
-**Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and Generation**  \
-Quanting Xie, So Yeon Min, Tianyi Zhang, Kedi Xu, Aarav Bajaj, Ruslan Salakhutdinov, Matthew Johnson-Roberson, Yonatan Bisk \
-Arxiv 24 - Oct 2024 [[paper](https://arxiv.org/pdf/2409.18313)]
-
-**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**  \
-Jianhao Yuan, Shuyang Sun, Daniel Omeiza, Bo Zhao, Paul Newman, Lars Kunze, Matthew Gadd \
-Arxiv 24 - May 2024 [[paper](https://arxiv.org/abs/2402.10828)]
