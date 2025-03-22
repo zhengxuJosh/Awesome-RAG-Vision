@@ -1,34 +1,54 @@
 <div align="center">
-    <h1>Awesome RAG in Computer Vision</h1>
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+  <h1>Awesome RAG in Computer Vision</h1>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badge"/></a>
 </div>
 
-\
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
+This repository aims to collect and organize **state-of-the-art papers on Retrieval-Augmented Generation (RAG) in Computer Vision**. RAG has gained significant traction in vision tasks like image understanding, video comprehension, visual generation, and more. By incorporating external retrieval, these approaches can enrich models with additional context, leading to better performance and interpretability.
 
+We encourage researchers who want to showcase their work on **RAG for Vision** to open a Pull Request and add their paper!
 
-This repo aims to record advanced papers on Retrieval Augmented Generation (RAG) in Computer Vision.
+---
 
-We strongly encourage the researchers that want to promote their fantastic work to the RAG for Vision to make pull request to update their paper's information!
+## Table of Contents
 
-## Contents
-
+- [Introduction](#introduction)
 - [Resources](#resources)
   - [Workshops and Tutorials](#workshops-and-tutorials)
 - [Papers](#papers)
   - [Survey and Benchmark](#survey-and-benchmark)
+  - [RAG for Vision](#rag-for-vision)
+    - [Visual Understanding](#1-visual-understanding)
+      - [Image Understanding](#11-image-understanding)
+      - [Long Video Understanding](#12-long-video-understanding)
+      - [Visual Spatial Understanding](#13-visual-spacial-understanding)
+      - [Multi-modal](#14-multi-modal)
+      - [Medical Vision](#15-medical-vision)
+    - [Visual Generation](#2-visual-generation)
+      - [Image (Video) Generation](#21-image-video-generation)
+      - [3D Generation](#22-3d-generation)
+    - [Embodied AI](#3-embodied-ai)
 
-# Resources 
+---
+## Introduction
 
-## Workshops and Tutorials
+Retrieval-Augmented Generation (RAG) integrates retrieval modules into generative models, allowing them to query external knowledge bases (or memory banks) during inference. In **Computer Vision**, RAG has powered:
+- Image captioning and object detection with external knowledge.
+- Video QA/comprehension by retrieving context from long transcripts or external references.
+- Visual generation with retrieval of reference images, design templates, or domain-specific data.
 
+---
 
-# Papers 
+## Resources
 
-## Survey and Benchmark 
+### Workshops and Tutorials
+
+## Papers
+
+### Survey and Benchmark
 
 **Retrieval-augmented generation for ai-generated content: A survey**   \
 Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui \
@@ -40,7 +60,7 @@ Arxiv 2025 [[paper](https://arxiv.org/pdf/2502.08826)]
 
 ## RAG for Vision
 
-### 1 Visual Understanding 
+### 1 Visual Understanding
 
 #### 1.1 Image Understanding
 
