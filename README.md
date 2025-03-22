@@ -50,13 +50,20 @@ Retrieval-Augmented Generation (RAG) integrates retrieval modules into generativ
 
 ### Survey and Benchmark
 
-**Retrieval-augmented generation for ai-generated content: A survey**   \
-Penghao Zhao, Hailin Zhang, Qinhan Yu, Zhengren Wang, Yunteng Geng, Fangcheng Fu, Ling Yang, Wentao Zhang, Jie Jiang, Bin Cui \
-Arxiv 2024 [[paper](https://arxiv.org/pdf/2402.19473)]
-
-**Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation**   \
-Mohammad Mahdi Abootorabi, Amirhosein Zobeiri, Mahdi Dehghani, Mohammadali Mohammadkhani, Bardia Mohammadi, Omid Ghahroodi, Mahdieh Soleymani Baghshah, Ehsaneddin Asgari \
-Arxiv 2025 [[paper](https://arxiv.org/pdf/2502.08826)]
+| Year | Paper | Focused Areas    | Main Context                                      | GitHub                                                               |
+|------|-------|------------------|---------------------------------------------------|----------------------------------------------------------------------|
+| 2023 | Gao *et al.*           | LLMs / NLP       | RAG paradigms and components                        | -                                                                    |
+| 2024 | Fan *et al.*           | LLMs / NLP       | RA-LLMs' architectures, training, and applications  | [link](https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/) |
+| 2024 | Hu *et al.*            | LLMs / NLP       | RA-LMs' components, evaluation, and limitations     | [link](https://github.com/2471023025/RALM_Survey)                    |
+| 2024 | Zhao *et al.*          | LLMs / NLP       | Challenges in data-augmented LLMs                   | -                                                                    |
+| 2024 | Gupta *et al.*         | LLMs / NLP       | Advancements and downstream tasks of RAG            | -                                                                    |
+| 2024 | Zhao *et al.*          | RAG in AIGC      | RAG applications across modalities                  | [link](https://github.com/PKU-DAIR/RAG-Survey)                       |
+| 2024 | Yu *et al.*            | LLMs / NLP       | Unified evaluation process of RAG                   | [link](https://github.com/YHPeter/Awesome-RAG-Evaluation)            |
+| 2024 | Procko *et al.*        | Graph Learning   | Knowledge graphs with LLM RAG                       | -                                                                    |
+| 2024 | Zhou *et al.*          | Trustworthiness AI | Six dimensions and benchmarks about Trustworthy RAG | [link](https://github.com/smallporridge/TrustworthyRAG)             |
+| 2025 | Singh *et al.*         | AI Agent         | Participles and evaluation                          | [link](https://github.com/asinghcsu/AgenticRAG-Survey)               |
+| 2025 | Ni *et al.*            | Trustworthiness AI | Road-map and discussion                             | [link](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation) |
+| 2025 | **_Ours_**             | **_Computer Vision_** | **_RAG for visual understanding and generation_**   | [link](https://github.com/zhengxuJosh/Awesome-RAG-Vision)            |
 
 ## RAG for Vision
 
