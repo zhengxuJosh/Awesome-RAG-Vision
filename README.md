@@ -116,10 +116,17 @@ Learning Customized Visual Models: Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu,
 #### 1.2 (Long) Video Understanding
 | Title                                                                                             | Authors         | Venue/Date        | Paper Link                                                                                                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------|------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension                         | Luo *et al.*     | Arxiv 2024(Nov)  | [paper](https://arxiv.org/pdf/2411.13093) |
-| ViTA: An Efficient Video-to-Text Algorithm using VLM for RAG-based Video Analysis System         | Arefeen *et al.* | CVPRW 2024        | [paper](https://aclanthology.org/2024.emnlp-main.62.pdf)   |
-| iRAG: Advancing RAG for Videos with an Incremental Approach                                       | Arefeen *et al.* | CIKM 2024         | [paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=CDXIXZP0y9QAAAAA:obaFKtQODdGsI3pB22GWuGH2dODwF7N0dj1dl58WfSwavmvrp_1eeaHXj6c2XCQyt-9vF1r1QrUd) |
-
+| Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge          | Xiong *et al.*   | ICLR 2025        | [paper](https://arxiv.org/abs/2501.13468) |
+| Temporal Preference Optimization for Long-Form Video Understanding                                | Li *et al.*      | Arxiv 2025 (Jan) | [paper](https://arxiv.org/abs/2501.13919) |
+| StreamingRAG: Real-time Contextual Retrieval and Generation Framework                            | Sankaradas *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/abs/2501.14101) |
+| VideoAuteur: Towards Long Narrative Video Generation                                             | Xiao *et al.*    | Arxiv 2025 (Jan) | [paper](https://arxiv.org/abs/2501.06173) |
+| FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models | Fu *et al.*   | Arxiv 2024 (Dec) | [paper](https://arxiv.org/abs/2501.01986) |
+| Vinci: A Real-time Embodied Smart Assistant based on Egocentric Vision-Language Model           | Huang *et al.*   | Arxiv 2024 (Dec) | [paper](https://arxiv.org/abs/2412.21080) |
+| Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models                | Yi *et al.*      | Arxiv 2024 (Dec) | [paper](https://arxiv.org/abs/2412.18609) |
+| Goldfish: Vision-Language Understanding of Arbitrarily Long Videos                               | Ataallah *et al.*| Arxiv 2024 (Jul) | [paper](https://arxiv.org/abs/2407.12679) |
+| Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension                         | Luo *et al.*     | Arxiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.13093) |
+| ViTA: An Efficient Video-to-Text Algorithm using VLM for RAG-based Video Analysis System         | Arefeen *et al.* | CVPRW 2024       | [paper](https://aclanthology.org/2024.emnlp-main.62.pdf) |
+| iRAG: Advancing RAG for Videos with an Incremental Approach                                       | Arefeen *et al.* | CIKM 2024        | [paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088?casa_token=CDXIXZP0y9QAAAAA:obaFKtQODdGsI3pB22GWuGH2dODwF7N0dj1dl58WfSwavmvrp_1eeaHXj6c2XCQyt-9vF1r1QrUd) |
 <!--
 Video-RAG: Yongdong Luo, Xiawu Zheng, Xiao Yang, Guilin Li, Haojia Lin, Jinfa Huang, Jiayi Ji, Fei Chao, Jiebo Luo, Rongrong Ji  
 ViTA: Md Adnan Arefeen, Biplob Debnath, Md Yusuf Sarwar Uddin, Srimat Chakradhar  
