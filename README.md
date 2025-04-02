@@ -145,6 +145,16 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 | Title                                                                                                     | Authors                   | Venue/Date         | Paper Link                                                                                       |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
 | RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving | Wang *et al.*           | Arxiv 2025 (Mar)   | [paper](https://arxiv.org/pdf/2503.13861) |
+| MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding | Han *et al.*           | Arxiv 2025 (Mar)   | [paper](https://arxiv.org/pdf/2503.13964) |
+| SiQA: A Large Multi-Modal Question Answering Model for Structured Images Based on RAG | Liu *et al.*           | ICASSP 2025 (Mar)   | [paper](https://ieeexplore.ieee.org/abstract/document/10888359) |
+| CommGPT: A Graph and Retrieval-Augmented Multimodal Communication Foundation Model  | Jiang *et al.*     | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.18763) |
+| Retrieval-Augmented Visual Question Answering via Built-in Autoregressive Search Engines | Long *et al.*     | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.16641) |
+| WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models  | Chen *et al.*     | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.14727) |
+| FilterRAG: Zero-Shot Informed Retrieval-Augmented Generation to Mitigate Hallucinations in VQA  | S M Sarwar  | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.18536) |
+| A General Retrieval-Augmented Generation Framework for Multimodal Case-Based Reasoning Applications  | Ofir Marom           | Arxiv 2025 (Jan)   | [paper](https://arxiv.org/pdf/2501.05030) |
+| Visual RAG: Expanding MLLM visual knowledge without fine-tuning  | Bonomo *et al.*        | Arxiv 2025 (Jan)   | [paper](https://arxiv.org/pdf/2501.10834) |
+| Re-ranking the Context for Multimodal Retrieval Augmented Generation  | Mortaheb *et al.*        | Arxiv 2025 (Jan)   | [paper](https://arxiv.org/pdf/2501.04695) |
+| MuKA: Multimodal Knowledge Augmented Visual Information-Seeking  | Deng *et al.*        | Coling 2025 (Jan)   | [paper](https://aclanthology.org/2025.coling-main.647.pdf) |
 | mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA                      | Zhang *et al.*            | Arxiv 2024 (Nov)   | [paper](https://arxiv.org/pdf/2411.15041)                                                       |
 | Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs                               | Caffagni *et al.*         | CVPRW 2024         | [paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.pdf) |
 | M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding              | Cho *et al.*              | Arxiv 2024 (Nov)   | [paper](https://arxiv.org/pdf/2410.21943)                                                       |
@@ -161,6 +171,7 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 | UDKAG                                                                                                     | Li *et al.*               | CoRR 2024 (May)    | [paper](https://arxiv.org/abs/2405.14554v1)                                                     |
 | Retrieval Meets Reasoning                                                                                 | Tan *et al.*              | Arxiv 2024 (Apr)   | [paper](https://arxiv.org/pdf/2409.14083)                                                       |
 | RAR                                                                                                       | Liu *et al.*              | Arxiv 2024 (Mar)   | [paper](https://arxiv.org/pdf/2409.14083)                                                       |
+| MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning  | Cui *et al.*         | ACL 2024 (Feb)   | [paper](https://aclanthology.org/2024.findings-acl.69.pdf) |
 | Fine-grained Late-interaction Multi-modal Retrieval for RAG-VQA                                           | Lin *et al.*              | NIPS 2023 (Oct)    | [paper](https://papers.nips.cc/paper_files/paper/2023/file/47393e8594c82ce8fd83adc672cf9872-Paper-Conference.pdf) |
 | Retrieval-based Knowledge Augmented Vision Language Pre-training                                          | Rao *et al.*              | ACMMM 2023 (Apr)   | [paper](https://arxiv.org/pdf/2304.13923)                                                       |
 | ReVeaL                                                                                                    | Hu *et al.*               | CVPR 2023 (Apr)    | [paper](https://arxiv.org/pdf/2212.05221)                                                       |
@@ -187,11 +198,13 @@ Fine-grained Retrieval: Weizhe Lin, Jinghong Chen, Jingbiao Mei, Alexandru Coca,
 Retrieval-based Pre-training: Jiahua Rao, Zifei Shan, Longpo Liu, Yao Zhou, Yuedong Yang  
 ReVeaL: Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi  
 Murag: Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen  
+
 -->
 
 #### 1.5 Medical Vision
 | Title                                                                                                       | Authors       | Venue/Date                                                                                  |
 |-------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------|
+| REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models                              | Zhu *et al.*  | Arxiv 2025 (Feb) [paper](https://arxiv.org/pdf/2402.07016)                                 |
 | Mmed-rag: Versatile multimodal rag system for medical vision language models                               | Xia *et al.*  | Arxiv 2024 (Oct) [paper](https://arxiv.org/pdf/2410.13085)                                 |
 | Rule: Reliable multimodal rag for factuality in medical vision language models                              | Xia *et al.*  | EMNLP 2024 [paper](https://aclanthology.org/2024.emnlp-main.62.pdf)                        |
 
