@@ -155,6 +155,7 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 | MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding | Han *et al.*           | Arxiv 2025 (Mar)   | [paper](https://arxiv.org/pdf/2503.13964) |
 | SiQA: A Large Multi-Modal Question Answering Model for Structured Images Based on RAG | Liu *et al.*           | ICASSP 2025 (Mar)   | [paper](https://ieeexplore.ieee.org/abstract/document/10888359) |
 | CommGPT: A Graph and Retrieval-Augmented Multimodal Communication Foundation Model  | Jiang *et al.*     | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.18763) |
+| ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents  | Wang *et al.*     | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.18017) |
 | Retrieval-Augmented Visual Question Answering via Built-in Autoregressive Search Engines | Long *et al.*     | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.16641) |
 | WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models  | Chen *et al.*     | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.14727) |
 | FilterRAG: Zero-Shot Informed Retrieval-Augmented Generation to Mitigate Hallucinations in VQA  | S M Sarwar  | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.18536) |
