@@ -151,6 +151,7 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 
 | Title                                                                                                     | Authors                   | Venue/Date         | Paper Link                                                                                       |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
+| RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model | Wen *et al.*           | Arxiv 2025 (Apr)   | [paper]([https://arxiv.org/pdf/2503.13861](https://arxiv.org/pdf/2504.04988)) |
 | RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving | Wang *et al.*           | Arxiv 2025 (Mar)   | [paper](https://arxiv.org/pdf/2503.13861) |
 | MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding | Han *et al.*           | Arxiv 2025 (Mar)   | [paper](https://arxiv.org/pdf/2503.13964) |
 | SiQA: A Large Multi-Modal Question Answering Model for Structured Images Based on RAG | Liu *et al.*           | ICASSP 2025 (Mar)   | [paper](https://ieeexplore.ieee.org/abstract/document/10888359) |
@@ -296,6 +297,8 @@ ReMoDiffuse: Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong
 ### 3. Embodied AI
 | Title                                                                                         | Authors        | Venue/Date        | Paper Link                                                                                      |
 |------------------------------------------------------------------------------------------------|----------------|-------------------|--------------------------------------------------------------------------------------------------|
+| RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving | Arxiv 2025 (Mar)       | [paper](https://arxiv.org/pdf/2503.13861)                                                |
+| RANa: Retrieval-Augmented Navigation      | Monaci *et al.*     | Arxiv 2025 (Apr)       | [paper]([https://dl.acm.org/doi/pdf/10.1145/3664647.3680661](https://arxiv.org/pdf/2504.03524))                                     |
 | P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task      | Xu *et al.*     | ACM MM 2024       | [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680661)                                     |
 | Realgen: Retrieval Augmented Generation for Controllable Traffic Scenarios                   | Ding *et al.*   | ECCV 2024         | [paper](https://arxiv.org/pdf/2312.13303)                                                       |
 | Retrieval-Augmented Embodied Agents                                                           | Zhu *et al.*    | CVPR 2024         | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf) |
