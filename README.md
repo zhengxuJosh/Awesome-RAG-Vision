@@ -155,6 +155,7 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 | AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis | Luo *et al.* | ICME 2025 | [paper](https://arxiv.org/pdf/2504.10309) |
 | RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model | Wen *et al.*           | Arxiv 2025 (Apr)   | [paper]([https://arxiv.org/pdf/2503.13861](https://arxiv.org/pdf/2504.04988)) |
 | RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving | Wang *et al.*           | Arxiv 2025 (Mar)   | [paper](https://arxiv.org/pdf/2503.13861) |
+| SuperRAG: Beyond RAG with Layout-Aware Graph Modeling | Yang *et al.*           | NACCL 2025 (Mar)   | [paper](https://arxiv.org/pdf/2503.04790) |
 | MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding | Han *et al.*           | Arxiv 2025 (Mar)   | [paper](https://arxiv.org/pdf/2503.13964) |
 | SiQA: A Large Multi-Modal Question Answering Model for Structured Images Based on RAG | Liu *et al.*           | ICASSP 2025 (Mar)   | [paper](https://ieeexplore.ieee.org/abstract/document/10888359) |
 | CommGPT: A Graph and Retrieval-Augmented Multimodal Communication Foundation Model  | Jiang *et al.*     | Arxiv 2025 (Feb)   | [paper](https://arxiv.org/pdf/2502.18763) |
