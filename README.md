@@ -151,6 +151,11 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 
 | Title                                                                                                     | Authors                   | Venue/Date         | Paper Link                                                                                       |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
+| A Multi-Granularity Retrieval Framework for Visually-Rich Documents | Xu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.01457) | 
+| Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image Generation | Zhu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.21956) | 
+| Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models | Jia *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.19509) | 
+| FinRAGBench-V: A Benchmark for Multimodal RAG with Visual Citation in the Financial Domain| Zhao *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.17471) | 
+| RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model | Wen *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.04988) | 
 | MMKB-RAG: A Multi-Modal Knowledge-Based Retrieval-Augmented Generation Framework | Ling *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.10074) | 
 | HM-RAG: Hierarchical Multi-Agent Multimodal Retrieval Augmented Generation | Liu *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2504.12330) | 
 | MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation | Yu *et al.* | Arxiv 2025 (Apr) | [paper](https://arxiv.org/pdf/2502.04176) | 
