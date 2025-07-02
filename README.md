@@ -116,6 +116,7 @@ Learning Customized Visual Models: Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu,
 #### 1.2 (Long) Video Understanding
 | Title                                                                                             | Authors         | Venue/Date        | Paper Link                                                                                                                                                                                                                         |
 |---------------------------------------------------------------------------------------------------|------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| VRAG: Retrieval-Augmented Video Question Answering for Long-Form Videos          | Gia *et al.*   | CVPRW 2025        | [paper](https://openaccess.thecvf.com/content/CVPR2025W/IViSE/papers/Gia_VRAG_Retrieval-Augmented_Video_Question_Answering_for_Long-Form_Videos_CVPRW_2025_paper.pdf) |
 | Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge          | Xiong *et al.*   | ICLR 2025        | [paper](https://arxiv.org/abs/2501.13468) |
 | Temporal Preference Optimization for Long-Form Video Understanding                                | Li *et al.*      | Arxiv 2025 (Jan) | [paper](https://arxiv.org/abs/2501.13919) |
 | StreamingRAG: Real-time Contextual Retrieval and Generation Framework                            | Sankaradas *et al.* | Arxiv 2025 (Jan) | [paper](https://arxiv.org/abs/2501.14101) |
@@ -151,6 +152,10 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 
 | Title                                                                                                     | Authors                   | Venue/Date         | Paper Link                                                                                       |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
+| Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger | Yang *et al.* | Arxiv 2025 (Jun) | [paper](https://openreview.net/pdf?id=DJcEoC9JpQ) | 
+| FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation | Zhang *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.12494) | 
+| MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering | Gondhalekar *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.20821) |
+| DocReRank: Single-Page Hard Negative Query Generation for Training Multi-Modal RAG Rerankers | Wasserman *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.22584) | 
 | A Multi-Granularity Retrieval Framework for Visually-Rich Documents | Xu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.01457) | 
 | Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image Generation | Zhu *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.21956) | 
 | Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models | Jia *et al.* | Arxiv 2025 (May) | [paper](https://arxiv.org/pdf/2505.19509) | 
