@@ -314,7 +314,8 @@ ReMoDiffuse: Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong
 ### 3. Embodied AI
 | Title                                                                                         | Authors        | Venue/Date        | Paper Link                                                                                      |
 |------------------------------------------------------------------------------------------------|----------------|-------------------|--------------------------------------------------------------------------------------------------|
-| RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving | Arxiv 2025 (Mar)       | [paper](https://arxiv.org/pdf/2503.13861)                                                |
+| RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base | Wang *et al.* | IROS 2025 July | [paper](https://arxiv.org/pdf/2506.18856) | 
+| RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.13861)                                                |
 | RANa: Retrieval-Augmented Navigation      | Monaci *et al.*     | Arxiv 2025 (Apr)       | [paper]([https://dl.acm.org/doi/pdf/10.1145/3664647.3680661](https://arxiv.org/pdf/2504.03524))                                     |
 | P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task      | Xu *et al.*     | ACM MM 2024       | [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3680661)                                     |
 | Realgen: Retrieval Augmented Generation for Controllable Traffic Scenarios                   | Ding *et al.*   | ECCV 2024         | [paper](https://arxiv.org/pdf/2312.13303)                                                       |
