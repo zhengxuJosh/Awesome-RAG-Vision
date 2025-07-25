@@ -153,6 +153,10 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 
 | Title                                                                                                     | Authors                   | Venue/Date         | Paper Link                                                                                       |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
+| VAT-KG: Knowledge-Intensive Multimodal Knowledge Graph Dataset for Retrieval-Augmented Generation | Park *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.21556) | 
+| CoRe-MMRAG: Cross-Source Knowledge Reconciliation
+for Multimodal RAG | Tian *et al.* | ACL 2025 (Jun) | [paper](https://aclanthology.org/2025.acl-long.1583.pdf) | 
+| Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding | Mannam *et al.* | KDDW 2025 (Jun) | [paper](https://www.arxiv.org/pdf/2506.21604) | 
 | Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger | Yang *et al.* | Arxiv 2025 (Jun) | [paper](https://openreview.net/pdf?id=DJcEoC9JpQ) | 
 | FlexRAG: A Flexible and Comprehensive Framework for Retrieval-Augmented Generation | Zhang *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.12494) | 
 | MultiFinRAG: An Optimized Multimodal Retrieval-Augmented Generation (RAG) Framework for Financial Question Answering | Gondhalekar *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.20821) |
