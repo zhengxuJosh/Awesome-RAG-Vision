@@ -269,7 +269,7 @@ Rule: Peng Xia, Kangyu Zhu, Haoran Li, Hongtu Zhu, Yun Li, Gang Li, Linjun Zhang
 | Instruct-Imagen                                                                                         | Hu *et al.*                | CVPR 2024        | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Instruct-Imagen_Image_Generation_with_Multi-modal_Instruction_CVPR_2024_paper.pdf) |
 | ImageRAG                                                                                                 | Shalev-Arkushin *et al.*   | Arxiv 2025       | [paper](https://arxiv.org/pdf/2502.09411)                                                       |
 | FineRAG                                                                                                  | Yuan *et al.*              | COLING 2025      | [paper](https://aclanthology.org/2025.coling-main.741.pdf)                                     |
-| RealRAG                                                                                                  | Lyu *et al.*               | Arxiv 2025       | [paper](https://arxiv.org/pdf/2502.00848)                                                       |
+| RealRAG                                                                                                  | Lyu *et al.*               | ICML 2025       | [paper](https://arxiv.org/pdf/2502.00848)                                                       |
 
 
 <!--
@@ -300,6 +300,8 @@ RealRAG: Yuanhuiyi Lyu, Xu Zheng, Lutao Jiang, Yibo Yan, Xin Zou, Huiyu Zhou, Li
 #### 2.2 3D Generation
 | Title                                                                                                   | Authors         | Venue/Date        | Paper Link                                                                                       |
 |---------------------------------------------------------------------------------------------------------|------------------|-------------------|--------------------------------------------------------------------------------------------------|
+| MV-RAG: Retrieval Augmented Multiview Diffusion                                                        | Dayani *et al.*    | Arxiv 2025 (Aug)  | [paper](https://arxiv.org/pdf/2508.16577)                                                       |
+| VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models               | Xu *et al.*    | Arxiv 2025 (Aug)  | [paper](https://arxiv.org/pdf/2508.12081)                                                       |
 | Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions                | Wang *et al.*    | Arxiv 2024 (Sep)  | [paper](https://arxiv.org/pdf/2409.11406)                                                       |
 | Retrieval-Augmented Score Distillation for Text-to-3D Generation                                       | Seo *et al.*     | ICML 2024         | [paper](https://arxiv.org/pdf/2402.02972)                                                       |
 | Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling                                            | Wu *et al.*      | Arxiv 2024 (Nov)  | [paper](https://arxiv.org/pdf/2411.19492)                                                       |
