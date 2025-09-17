@@ -98,6 +98,7 @@ Retrieval-Augmented Generation (RAG) integrates retrieval modules into generativ
 #### 1.1 Image Understanding
 | Title                                                                                             | Authors       | Venue/Date       | Paper Link                                                                                       |
 |---------------------------------------------------------------------------------------------------|---------------|------------------|--------------------------------------------------------------------------------------------------|
+| Multimodal RAG Enhanced Visual Description                  | Jaiswal *et al.*   | Arxiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.09170)                                                       |
 | DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding                        | Wu *et al.*   | Arxiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.01115)                                                       |
 | Retrieval-Augmented Open-Vocabulary Object Detection                                               | Kim *et al.*  | CVPR 2024        | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Retrieval-Augmented_Open-Vocabulary_Object_Detection_CVPR_2024_paper.pdf) |
 | Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning                       | Li *et al.*   | Arxiv 2024 (Aug) | [paper](https://arxiv.org/pdf/2406.02265)                                                       |
@@ -154,6 +155,13 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 
 | Title                                                                                                     | Authors                   | Venue/Date         | Paper Link                                                                                       |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
+| Multimodal Iterative RAG for Knowledge Visual Question Answering | choi *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.00798) | 
+| VaccineRAG: Boosting Multimodal Large Language Models' Immunity to Harmful RAG Samples | sun *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.04502) | 
+| CMRAG: Co-modality-based document retrieval and visual question answering | chen *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.02123) | 
+| Beyond the Textual: Generating Coherent Visual Options for MCQs | Wang *et al.* | Arxiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.18772) | 
+| mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering | Yuan *et al.* | Arxiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.05318) | 
+| Cross-Modal Augmentation for Low-Resource Language Understanding and Generation | Li *et al.* | MAGMaR 2025 (Aug) | [paper](https://aclanthology.org/2025.magmar-1.9.pdf) | 
+| Multimodal Retrieval-Augmented Generation: Unified Information Processing Across Text, Image, Table, and Video Modalities | Drushchak *et al.* | MAGMaR 2025 (Aug) | [paper](https://aclanthology.org/2025.magmar-1.5.pdf) | 
 | VAT-KG: Knowledge-Intensive Multimodal Knowledge Graph Dataset for Retrieval-Augmented Generation | Park *et al.* | Arxiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.21556) | 
 | CoRe-MMRAG: Cross-Source Knowledge Reconciliation
 for Multimodal RAG | Tian *et al.* | ACL 2025 (Jun) | [paper](https://aclanthology.org/2025.acl-long.1583.pdf) | 
@@ -235,6 +243,9 @@ Murag: Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen
 #### 1.5 Medical Vision
 | Title                                                                                                       | Authors       | Venue/Date                                                                                  |
 |-------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------|
+| How to make Medical AI Systems safer? Simulating Vulnerabilities, and Threats in Multimodal Medical RAG System | Zuo *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2508.17215)  |
+| AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles | Lahiri *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2412.16701)  |
+| HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks                             | Chen *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2508.12778)  |
 | REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models                              | Zhu *et al.*  | Arxiv 2025 (Feb) [paper](https://arxiv.org/pdf/2402.07016)                                 |
 | Mmed-rag: Versatile multimodal rag system for medical vision language models                               | Xia *et al.*  | Arxiv 2024 (Oct) [paper](https://arxiv.org/pdf/2410.13085)                                 |
 | Rule: Reliable multimodal rag for factuality in medical vision language models                              | Xia *et al.*  | EMNLP 2024 [paper](https://aclanthology.org/2024.emnlp-main.62.pdf)                        |
@@ -321,6 +332,7 @@ ReMoDiffuse: Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong
 ### 3. Embodied AI
 | Title                                                                                         | Authors        | Venue/Date        | Paper Link                                                                                      |
 |------------------------------------------------------------------------------------------------|----------------|-------------------|--------------------------------------------------------------------------------------------------|
+| SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation | Ye *et al.* | Arxiv 2025 (Jul) | [paper](https://arxiv.org/pdf/2507.21585) | 
 | RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base | Wang *et al.* | IROS 2025 July | [paper](https://arxiv.org/pdf/2506.18856) | 
 | RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.13861)                                                |
 | RANa: Retrieval-Augmented Navigation      | Monaci *et al.*     | Arxiv 2025 (Apr)       | [paper]([https://dl.acm.org/doi/pdf/10.1145/3664647.3680661](https://arxiv.org/pdf/2504.03524))                                     |
