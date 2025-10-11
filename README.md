@@ -155,6 +155,8 @@ Jun Yu, Yunxiang Zhang, Zerui Zhang, Zhao Yang, Gongpeng Zhao, Fengzhao Sun, Fan
 
 | Title                                                                                                     | Authors                   | Venue/Date         | Paper Link                                                                                       |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------------------------|
+| UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG | Peng *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.03663) | 
+| Provenance Analysis of Archaeological Artifacts via Multimodal RAG Systems | Zhang *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.20769) | 
 | Multimodal Iterative RAG for Knowledge Visual Question Answering | choi *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.00798) | 
 | VaccineRAG: Boosting Multimodal Large Language Models' Immunity to Harmful RAG Samples | sun *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.04502) | 
 | CMRAG: Co-modality-based document retrieval and visual question answering | chen *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.02123) | 
