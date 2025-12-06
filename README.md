@@ -245,6 +245,7 @@ Murag: Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen
 #### 1.5 Medical Vision
 | Title                                                                                                       | Authors       | Venue/Date                                                                                  |
 |-------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------|
+|  MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering                             | Shaaban *et al.*  | MICCAI 2025 (Sep) [paper](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_44)  |
 | How to make Medical AI Systems safer? Simulating Vulnerabilities, and Threats in Multimodal Medical RAG System | Zuo *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2508.17215)  |
 | AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles | Lahiri *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2412.16701)  |
 | HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks                             | Chen *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2508.12778)  |
