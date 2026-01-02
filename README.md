@@ -221,92 +221,56 @@ In **Computer Vision**, RAG has been used for:
 
 
 #### 1.5 Medical Vision
-| Title                                                                                                       | Authors       | Venue/Date                                                                                  |
-|-------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------|
-| How to make Medical AI Systems safer? Simulating Vulnerabilities, and Threats in Multimodal Medical RAG System | Zuo *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2508.17215)  |
-| AlzheimerRAG: Multimodal Retrieval Augmented Generation for Clinical Use Cases using PubMed articles | Lahiri *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2412.16701)  |
-| HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks                             | Chen *et al.*  | Arxiv 2025 (Aug) [paper](https://arxiv.org/pdf/2508.12778)  |
-| REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models                              | Zhu *et al.*  | Arxiv 2025 (Feb) [paper](https://arxiv.org/pdf/2402.07016)                                 |
-| Mmed-rag: Versatile multimodal rag system for medical vision language models                               | Xia *et al.*  | Arxiv 2024 (Oct) [paper](https://arxiv.org/pdf/2410.13085)                                 |
-| Rule: Reliable multimodal rag for factuality in medical vision language models                              | Xia *et al.*  | EMNLP 2024 [paper](https://aclanthology.org/2024.emnlp-main.62.pdf)                        |
 
-<!--
-Mmed-rag: Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao  
-Rule: Peng Xia, Kangyu Zhu, Haoran Li, Hongtu Zhu, Yun Li, Gang Li, Linjun Zhang, Huaxiu Yao  
--->
+| Title | Authors | Venue/Date | Links |
+|------|---------|------------|-------|
+| How to make Medical AI Systems safer? Simulating Vulnerabilities in Multimodal Medical RAG | Zuo *et al.* | arXiv 2025 (Aug) | <https://arxiv.org/pdf/2508.17215> |
+| AlzheimerRAG: Multimodal RAG for Clinical Use Cases using PubMed | Lahiri *et al.* | arXiv 2025 (Aug) | <https://arxiv.org/pdf/2412.16701> |
+| HeteroRAG: A Heterogeneous RAG Framework for Medical Vision-Language Tasks | Chen *et al.* | arXiv 2025 (Aug) | <https://arxiv.org/pdf/2508.12778> |
+| REALM: RAG-Driven Enhancement of Multimodal EHR Analysis | Zhu *et al.* | arXiv 2025 (Feb) | <https://arxiv.org/pdf/2402.07016> |
+| Mmed-rag: Versatile Multimodal RAG for Medical VLMs | Xia *et al.* | arXiv 2024 (Oct) | <https://arxiv.org/pdf/2410.13085> |
+| Rule: Reliable Multimodal RAG for Factuality in Medical VLMs | Xia *et al.* | EMNLP 2024 | <https://aclanthology.org/2024.emnlp-main.62.pdf> |
+
+---
 
 ### 2 Visual Generation 
 
 #### 2.1 Image (Video) Generation
 
-| Title                                                                                                   | Authors                   | Venue/Date       | Paper Link                                                                                       |
-|---------------------------------------------------------------------------------------------------------|----------------------------|------------------|--------------------------------------------------------------------------------------------------|
-| FairRAG: Fair Human Generation via Fair Retrieval Augmentation                                         | Shrestha *et al.*          | CVPR 2024        | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf) |
-| GarmentAligner (ECCV)                                                                                   | Zhang *et al.*             | ECCV 2025        | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72698-9_9)                          |
-| Retrieval-Augmented Diffusion Models                                                                    | Blattmann *et al.*         | NIPS 2022        | [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf) |
-| Label-Retrieval-Augmented Diffusion Models                                                              | Chen *et al.*              | NIPS 2023        | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d191ba4c8923ed8fd8935b7c98658b5f-Paper-Conference.pdf) |
-| CPR: Retrieval Augmented Generation for Copyright Protection                                            | Golatkar *et al.*          | CVPR 2023        | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Golatkar_CPR_Retrieval_Augmented_Generation_for_Copyright_Protection_CVPR_2024_paper.pdf) |
-| BrainRAM                                                                                                 | Xie *et al.*               | MM 2024          | [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681296)                                    |
-| Animate-A-Story                                                                                         | He *et al.*                | Arxiv 2023       | [paper](https://arxiv.org/pdf/2307.06940)                                                       |
-| RealGen                                                                                                  | Ding *et al.*              | ECCV 2024        | [paper](https://arxiv.org/pdf/2312.13303)                                                       |
-| Grounding Language Models for Visual Entity Recognition                                                 | Xiao *et al.*              | ECCV 2024        | [paper](https://arxiv.org/pdf/2402.18695)                                                       |
-| GarmentAligner (Arxiv)                                                                                  | Zhang *et al.*             | ECCV 2024        | [paper](https://arxiv.org/pdf/2408.12352)                                                       |
-| Retrieval-Augmented Layout Transformer                                                                  | Horita *et al.*            | CVPR 2024        | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf) |
-| The Neglected Tails in Vision-Language Models                                                           | Parashar *et al.*          | CVPR 2024        | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf) |
-| Prompt Expansion for Adaptive Text-to-Image Generation                                                  | Datta *et al.*             | ACL 2024         | [paper](https://arxiv.org/pdf/2312.16720)                                                       |
-| Factuality Tax of Diversity-Intervened Generation                                                       | Wan *et al.*               | EMNLP 2024       | [paper](https://arxiv.org/pdf/2407.00377)                                                       |
-| Diffusion-Based Augmentation for Captioning and Retrieval                                               | Cioni *et al.*             | ICCV 2023        | [paper](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/papers/Cioni_Diffusion_Based_Augmentation_for_Captioning_and_Retrieval_in_Cultural_Heritage_ICCVW_2023_paper.pdf) |
-| ReMoDiffuse                                                                                              | Zhang *et al.*             | ICCV 2023        | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf) |
-| Re-imagen                                                                                                | Chen *et al.*              | Arxiv 2022       | [paper](https://arxiv.org/pdf/2209.14491)                                                       |
-| Instruct-Imagen                                                                                         | Hu *et al.*                | CVPR 2024        | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Instruct-Imagen_Image_Generation_with_Multi-modal_Instruction_CVPR_2024_paper.pdf) |
-| ImageRAG                                                                                                 | Shalev-Arkushin *et al.*   | Arxiv 2025       | [paper](https://arxiv.org/pdf/2502.09411)                                                       |
-| FineRAG                                                                                                  | Yuan *et al.*              | COLING 2025      | [paper](https://aclanthology.org/2025.coling-main.741.pdf)                                     |
-| RealRAG                                                                                                  | Lyu *et al.*               | ICML 2025       | [paper](https://arxiv.org/pdf/2502.00848)                                                       |
-
-
-<!--
-FairRAG: Robik Shrestha, Yang Zou, Qiuyu Chen, Zhiheng Li, Yusheng Xie, Siqi Deng  
-GarmentAligner (ECCV): Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan & Xiaodan Liang  
-Retrieval-Augmented Diffusion Models: Andreas Blattmann, Robin Rombach, Kaan Oktay, Jonas Müller, Björn Ommer  
-Label-Retrieval-Augmented: Jian Chen, Ruiyi Zhang, Tong Yu, Rohan Sharma, Zhiqiang Xu, Tong Sun, Changyou Chen  
-CPR: Aditya Golatkar, Alessandro Achille, Luca Zancato, Yu-Xiang Wang, Ashwin Swaminathan, Stefano Soatto  
-BrainRAM: Dian Xie, Peiang Zhao, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia  
-Animate-A-Story: He Yingqing, Xia Menghan, Chen Haoxin, Cun Xiaodong, Gong Yuan, Xing Jinbo, Zhang Yong, Wang Xintao, Weng Chao, Shan Ying, Chen Qifeng  
-RealGen: Wenhao Ding, Yulong Cao, Ding Zhao, Chaowei Xiao, Marco Pavone  
-Grounding VLMs: Zilin Xiao, Ming Gong, Paola Cascante-Bonilla, Xingyao Zhang, Jie Wu, Vicente Ordonez  
-GarmentAligner (Arxiv): Shiyue Zhang, Zheng Chong, Xujie Zhang, Hanhui Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang  
-Layout Transformer: Daichi Horita, Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi, Kiyoharu Aizawa  
-Neglected Tails: Shubham Parashar, Zhiqiu Lin, Tian Liu, Xiangjue Dong, Yanan Li, Deva Ramanan, James Caverlee, Shu Kong  
-Prompt Expansion: Siddhartha Datta, Alexander Ku, Deepak Ramachandran, Peter Anderson  
-Factuality Tax: Yixin Wan, Di Wu, Haoran Wang, Kai-Wei Chang  
-Diffusion for Heritage: Dario Cioni, Lorenzo Berlincioni, Federico Becattini, Alberto del Bimbo  
-ReMoDiffuse: Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu  
-Re-imagen: Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen  
-Instruct-Imagen: Hexiang Hu, Kelvin C.K. Chan, Yu-Chuan Su, Wenhu Chen, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William Cohen, Ming-Wei Chang, Xuhui Jia  
-ImageRAG: Rotem Shalev-Arkushin, Rinon Gal, Amit H. Bermano, Ohad Fried  
-FineRAG: Huaying Yuan, Ziliang Zhao, Shuting Wang, Shitao Xiao, Minheng Ni, Zheng Liu, Zhicheng Dou  
-RealRAG: Yuanhuiyi Lyu, Xu Zheng, Lutao Jiang, Yibo Yan, Xin Zou, Huiyu Zhou, Linfeng Zhang, Xuming Hu  
--->
-
+| Title | Authors | Venue/Date | Links |
+|---|---|---|---|
+| FairRAG: Fair Human Generation via Fair Retrieval Augmentation | Shrestha *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shrestha_FairRAG_Fair_Human_Generation_via_Fair_Retrieval_Augmentation_CVPR_2024_paper.pdf) |
+| GarmentAligner | Zhang *et al.* | ECCV 2025 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72698-9_9) |
+| Retrieval-Augmented Diffusion Models | Blattmann *et al.* | NeurIPS 2022 | [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/62868cc2fc1eb5cdf321d05b4b88510c-Paper-Conference.pdf) |
+| Label-Retrieval-Augmented Diffusion Models | Chen *et al.* | NeurIPS 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d191ba4c8923ed8fd8935b7c98658b5f-Paper-Conference.pdf) |
+| CPR: Retrieval-Augmented Generation for Copyright Protection | Golatkar *et al.* | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Golatkar_CPR_Retrieval_Augmented_Generation_for_Copyright_Protection_CVPR_2023_paper.pdf) |
+| BrainRAM | Xie *et al.* | ACM MM 2024 | [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681296) |
+| Animate-A-Story | He *et al.* | arXiv 2023 | [paper](https://arxiv.org/pdf/2307.06940) |
+| RealGen | Ding *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2312.13303) |
+| Grounding Language Models for Visual Entity Recognition | Xiao *et al.* | ECCV 2024 | [paper](https://arxiv.org/pdf/2402.18695) |
+| Retrieval-Augmented Layout Transformer | Horita *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Horita_Retrieval-Augmented_Layout_Transformer_for_Content-Aware_Layout_Generation_CVPR_2024_paper.pdf) |
+| The Neglected Tails in Vision-Language Models | Parashar *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Parashar_The_Neglected_Tails_in_Vision-Language_Models_CVPR_2024_paper.pdf) |
+| Prompt Expansion for Adaptive Text-to-Image Generation | Datta *et al.* | ACL 2024 | [paper](https://arxiv.org/pdf/2312.16720) |
+| Factuality Tax of Diversity-Intervened Generation | Wan *et al.* | EMNLP 2024 | [paper](https://arxiv.org/pdf/2407.00377) |
+| Diffusion-Based Augmentation for Captioning and Retrieval | Cioni *et al.* | ICCVW 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/papers/Cioni_Diffusion_Based_Augmentation_for_Captioning_and_Retrieval_in_Cultural_Heritage_ICCVW_2023_paper.pdf) |
+| ReMoDiffuse | Zhang *et al.* | ICCV 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf) |
+| Re-imagen | Chen *et al.* | arXiv 2022 | [paper](https://arxiv.org/pdf/2209.14491) |
+| Instruct-Imagen | Hu *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Instruct-Imagen_Image_Generation_with_Multi-modal_Instruction_CVPR_2024_paper.pdf) |
+| ImageRAG | Shalev-Arkushin *et al.* | arXiv 2025 | [paper](https://arxiv.org/pdf/2502.09411) |
+| FineRAG | Yuan *et al.* | COLING 2025 | [paper](https://aclanthology.org/2025.coling-main.741.pdf) |
+| RealRAG | Lyu *et al.* | ICML 2025 | [paper](https://arxiv.org/pdf/2502.00848) |
 
 #### 2.2 3D Generation
-| Title                                                                                                   | Authors         | Venue/Date        | Paper Link                                                                                       |
-|---------------------------------------------------------------------------------------------------------|------------------|-------------------|--------------------------------------------------------------------------------------------------|
-| MV-RAG: Retrieval Augmented Multiview Diffusion                                                        | Dayani *et al.*    | Arxiv 2025 (Aug)  | [paper](https://arxiv.org/pdf/2508.16577)                                                       |
-| VimoRAG: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models               | Xu *et al.*    | Arxiv 2025 (Aug)  | [paper](https://arxiv.org/pdf/2508.12081)                                                       |
-| Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions                | Wang *et al.*    | Arxiv 2024 (Sep)  | [paper](https://arxiv.org/pdf/2409.11406)                                                       |
-| Retrieval-Augmented Score Distillation for Text-to-3D Generation                                       | Seo *et al.*     | ICML 2024         | [paper](https://arxiv.org/pdf/2402.02972)                                                       |
-| Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling                                            | Wu *et al.*      | Arxiv 2024 (Nov)  | [paper](https://arxiv.org/pdf/2411.19492)                                                       |
-| Interaction-based Retrieval-augmented Diffusion for Protein 3D Generation                              | Huang *et al.*   | ICML 2024         | [paper](https://openreview.net/pdf?id=eejhD9FCP3)                                               |
-| ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model                                                | Zhang *et al.*   | ICCV 2023         | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf) |
 
-<!--
-Phidias: Zhenwei Wang, Tengfei Wang, Zexin He, Gerhard Hancke, Ziwei Liu, Rynson W.H. Lau  
-Retrieval-Augmented Score Distillation: Junyoung Seo, Susung Hong, Wooseok Jang, Ines Hyeonsu Kim, Minseop Kwak, Doyup Lee, Seungryong Kim  
-Diorama: Qirui Wu, Denys Iliash, Daniel Ritchie, Manolis Savva, Angel X. Chang  
-Interaction-based Diffusion: Zhilin Huang, Ling Yang, Xiangxin Zhou, Chujun Qin, Yijie Yu, Xiawu Zheng, Zikun Zhou, Wentao Zhang, Yu Wang, Wenming Yang  
-ReMoDiffuse: Mingyuan Zhang, Xinying Guo, Liang Pan, Zhongang Cai, Fangzhou Hong, Huirong Li, Lei Yang, Ziwei Liu  
--->
+| Title | Authors | Venue/Date | Links |
+|---|---|---|---|
+| MV-RAG: Retrieval-Augmented Multiview Diffusion | Dayani *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.16577) |
+| VimoRAG: Video-based Retrieval-Augmented 3D Motion Generation | Xu *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.12081) |
+| Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions | Wang *et al.* | arXiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2409.11406) |
+| Retrieval-Augmented Score Distillation for Text-to-3D Generation | Seo *et al.* | ICML 2024 | [paper](https://arxiv.org/pdf/2402.02972) |
+| Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling | Wu *et al.* | arXiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.19492) |
+| Interaction-based Retrieval-Augmented Diffusion for Protein 3D Generation | Huang *et al.* | ICML 2024 | [paper](https://openreview.net/pdf?id=eejhD9FCP3) |
+| ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model | Zhang *et al.* | ICCV 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf) |
 
 
 ### 3. Embodied AI
