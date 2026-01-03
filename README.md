@@ -150,6 +150,7 @@ In **Computer Vision**, RAG has been used for:
 
 | Title | Authors | Venue/Date | Paper Link |
 |---|---|---|---|
+| VisRAG 2.0: Evidence-Guided Multi-Image Reasoning in Visual Retrieval-Augmented Generation | Sun *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.09733) | 
 | UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG | Peng *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.03663) |
 | CMRAG: Co-modality-based document retrieval and visual question answering | Chen *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.02123) |
 | Evaluating VisualRAG: Quantifying Cross-Modal Performance in Enterprise Document Understanding | Mannam *et al.* | KDDW 2025 (Jun) | [paper](https://www.arxiv.org/pdf/2506.21604) |
