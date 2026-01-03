@@ -223,13 +223,13 @@ In **Computer Vision**, RAG has been used for:
 #### 1.5 Medical Vision
 
 | Title | Authors | Venue/Date | Links |
-|------|---------|------------|-------|
-| How to make Medical AI Systems safer? Simulating Vulnerabilities in Multimodal Medical RAG | Zuo *et al.* | arXiv 2025 (Aug) | <https://arxiv.org/pdf/2508.17215> |
-| AlzheimerRAG: Multimodal RAG for Clinical Use Cases using PubMed | Lahiri *et al.* | arXiv 2025 (Aug) | <https://arxiv.org/pdf/2412.16701> |
-| HeteroRAG: A Heterogeneous RAG Framework for Medical Vision-Language Tasks | Chen *et al.* | arXiv 2025 (Aug) | <https://arxiv.org/pdf/2508.12778> |
-| REALM: RAG-Driven Enhancement of Multimodal EHR Analysis | Zhu *et al.* | arXiv 2025 (Feb) | <https://arxiv.org/pdf/2402.07016> |
-| Mmed-rag: Versatile Multimodal RAG for Medical VLMs | Xia *et al.* | arXiv 2024 (Oct) | <https://arxiv.org/pdf/2410.13085> |
-| Rule: Reliable Multimodal RAG for Factuality in Medical VLMs | Xia *et al.* | EMNLP 2024 | <https://aclanthology.org/2024.emnlp-main.62.pdf> |
+|---|---|---|---|
+| How to Make Medical AI Systems Safer? Simulating Vulnerabilities in Multimodal Medical RAG | Zuo *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.17215) |
+| AlzheimerRAG: Multimodal RAG for Clinical Use Cases using PubMed | Lahiri *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2412.16701) |
+| HeteroRAG: A Heterogeneous RAG Framework for Medical Vision-Language Tasks | Chen *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.12778) |
+| REALM: RAG-Driven Enhancement of Multimodal EHR Analysis | Zhu *et al.* | arXiv 2025 (Feb) | [paper](https://arxiv.org/pdf/2402.07016) |
+| MMed-RAG: Versatile Multimodal RAG for Medical VLMs | Xia *et al.* | arXiv 2024 (Oct) | [paper](https://arxiv.org/pdf/2410.13085) |
+| RULE: Reliable Multimodal RAG for Factuality in Medical VLMs | Xia *et al.* | EMNLP 2024 | [paper](https://aclanthology.org/2024.emnlp-main.62.pdf) |
 
 ---
 
