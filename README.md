@@ -110,14 +110,17 @@ In **Computer Vision**, RAG has been used for:
 | Title | Authors | Venue/Date | Links |
 |---|---|---|---|
 |🔥Test-Time Retrieval-Augmented Adaptation for VLMs | Fan *et al.* | ICCV 2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Fan_Test-Time_Retrieval-Augmented_Adaptation_for_Vision-Language_Models_ICCV_2025_paper.pdf) |
-|🔥mRAG: Elucidating the Design Space of Multi-modal RAG | Hu *et al.* | arXiv 2025 | [paper](https://arxiv.org/abs/2505.24073) |
 |🔥Retrieval-Augmented VQA for Scientific Figures (RAVQA-VLM) | Li *et al.* | AAAI 2025 | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/34653)|
+| FilterRAG: Zero-Shot Informed Retrieval-Augmented Generation to Mitigate Hallucinations in VQA | Sarwar | arXiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2502.18536) |
+| mRAG: Elucidating the Design Space of Multi-modal RAG | Hu *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/abs/2505.24073) |
 | Multimodal RAG Enhanced Visual Description | Jaiswal *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.09170) |
 | DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding | Wu *et al.* | arXiv 2024 (Dec) | [paper](https://arxiv.org/pdf/2412.01115) |
 | Retrieval-Augmented Open-Vocabulary Object Detection | Kim *et al.* | CVPR 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Retrieval-Augmented_Open-Vocabulary_Object_Detection_CVPR_2024_paper.pdf) |
 | Understanding Retrieval Robustness for Retrieval-Augmented Image Captioning | Li *et al.* | arXiv 2024 (Aug) | [paper](https://arxiv.org/pdf/2406.02265) |
-| Retrieval-Augmented Classification for Long-Tail Visual Recognition | Long *et al.* | CVPR 2022 | *(TODO: add paper link)* |
+| SearchLVLMs: A Plug-and-Play Framework for Augmenting Large Vision-Language Models by Searching Up-to-Date Internet Knowledge | Li *et al.* | NeurIPS 2024 | [paper](https://papers.nips.cc/paper_files/paper/2024/file/76954b4a44e158e738b4c64494977c6a-Paper-Conference.pdf) |
 | Learning Customized Visual Models with Retrieval-Augmented Knowledge | Liu *et al.* | CVPR 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Customized_Visual_Models_With_Retrieval-Augmented_Knowledge_CVPR_2023_paper.pdf) |
+| Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering | Lin *et al.* | NeurIPS 2023 | [paper](https://papers.nips.cc/paper_files/paper/2023/file/47393e8594c82ce8fd83adc672cf9872-Paper-Conference.pdf) |
+| Retrieval-Augmented Classification for Long-Tail Visual Recognition | Long *et al.* | CVPR 2022 | *(TODO: add paper link)* |
 
 
 #### 1.2 (Long) Video Understanding
