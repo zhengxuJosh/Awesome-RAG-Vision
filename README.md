@@ -122,23 +122,23 @@ In **Computer Vision**, RAG has been used for:
 | Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering | Lin *et al.* | NeurIPS 2023 | [paper](https://papers.nips.cc/paper_files/paper/2023/file/47393e8594c82ce8fd83adc672cf9872-Paper-Conference.pdf) |
 | Retrieval-Augmented Classification for Long-Tail Visual Recognition | Long *et al.* | CVPR 2022 | *(TODO: add paper link)* |
 
-
 #### 1.2 (Long) Video Understanding
 
 | Title | Authors | Venue/Date | Links |
 |------|---------|------------|-------|
-| Generative Frame Sampler for Long Video Understanding | Yao *et al.* | ACL 2024 | [paper](https://arxiv.org/abs/2503.09146) |
+| SceneRAG: Scene-level Retrieval-Augmented Generation for Video Understanding | Zeng *et al.* | arXiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.07600) |
 | Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding | Mao *et al.* | arXiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2505.23990) |
 | VRAG: Retrieval-Augmented Video Question Answering for Long-Form Videos | Gia *et al.* | CVPRW 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025W/IViSE/papers/Gia_VRAG_Retrieval-Augmented_Video_Question_Answering_for_Long-Form_Videos_CVPRW_2025_paper.pdf) |
 | Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge | Xiong *et al.* | ICLR 2025 | [paper](https://arxiv.org/abs/2501.13468) |
 | Temporal Preference Optimization for Long-Form Video Understanding | Li *et al.* | arXiv 2025 (Jan) | [paper](https://arxiv.org/abs/2501.13919) |
 | StreamingRAG: Real-time Contextual Retrieval and Generation Framework | Sankaradas *et al.* | arXiv 2025 (Jan) | [paper](https://arxiv.org/abs/2501.14101) |
 | VideoAuteur: Towards Long Narrative Video Generation | Xiao *et al.* | arXiv 2025 (Jan) | [paper](https://arxiv.org/abs/2501.06173) |
+| Generative Frame Sampler for Long Video Understanding | Yao *et al.* | ACL 2024 | [paper](https://arxiv.org/abs/2503.09146) |
 | FrameFusion: Combining Similarity and Importance for Video Token Reduction on LVLMs | Fu *et al.* | arXiv 2024 (Dec) | [paper](https://arxiv.org/abs/2501.01986) |
 | Vinci: A Real-time Embodied Smart Assistant based on Egocentric VLM | Huang *et al.* | arXiv 2024 (Dec) | [paper](https://arxiv.org/abs/2412.21080) |
 | Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models | Yi *et al.* | arXiv 2024 (Dec) | [paper](https://arxiv.org/abs/2412.18609) |
-| Goldfish: Vision-Language Understanding of Arbitrarily Long Videos | Ataallah *et al.* | arXiv 2024 (Jul) | [paper](https://arxiv.org/abs/2407.12679) |
 | Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension | Luo *et al.* | arXiv 2024 (Nov) | [paper](https://arxiv.org/pdf/2411.13093) |
+| Goldfish: Vision-Language Understanding of Arbitrarily Long Videos | Ataallah *et al.* | arXiv 2024 (Jul) | [paper](https://arxiv.org/abs/2407.12679) |
 | ViTA: Efficient Video-to-Text with VLM for RAG-based Video Analysis | Arefeen *et al.* | CVPRW 2024 | [paper](https://aclanthology.org/2024.emnlp-main.62.pdf) |
 | iRAG: Advancing RAG for Videos with an Incremental Approach | Arefeen *et al.* | CIKM 2024 | [paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3680088) |
 
