@@ -278,6 +278,7 @@ In **Computer Vision**, RAG has been used for:
 
 | Title | Authors | Venue/Date | Links |
 |---|---|---|---|
+| Unified Multi-Modal Interactive & Reactive 3D Motion Generation via Rectified Flow | Gupta *et al.* | arXiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2509.24099) | 
 | MV-RAG: Retrieval-Augmented Multiview Diffusion | Dayani *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.16577) |
 | VimoRAG: Video-based Retrieval-Augmented 3D Motion Generation | Xu *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.12081) |
 | Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions | Wang *et al.* | arXiv 2024 (Sep) | [paper](https://arxiv.org/pdf/2409.11406) |
