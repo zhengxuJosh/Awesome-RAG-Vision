@@ -309,5 +309,5 @@ In **Computer Vision**, RAG has been used for:
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)](https://www.star-history.com/#zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=zhengxuJosh/Awesome-RAG-Vision&type=date&logscale&legend=top-left)](https://www.star-history.com/#zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)
 
