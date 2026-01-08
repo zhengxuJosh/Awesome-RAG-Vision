@@ -307,3 +307,7 @@ In **Computer Vision**, RAG has been used for:
 | RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning   | Yuan *et al.*   | Arxiv 2024 (May)  | [paper](https://arxiv.org/abs/2402.10828)                                                       |
 
 
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)](https://www.star-history.com/#zhengxuJosh/Awesome-Multimodal-Spatial-Reasoning&type=date&logscale&legend=top-left)
+
