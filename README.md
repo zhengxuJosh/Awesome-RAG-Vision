@@ -239,7 +239,7 @@ In **Computer Vision**, RAG has been used for:
 
 | Title | Authors | Venue/Date | Links |
 |---|---|---|---|
-| 🔥MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering ｜ Shaaban *et al.* | MICCAI 2025 | [paper](https://arxiv.org/pdf/2506.22900) | 
+| 🔥MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering | Shaaban *et al.* | MICCAI 2025 | [paper](https://arxiv.org/pdf/2506.22900)
 | How to Make Medical AI Systems Safer? Simulating Vulnerabilities in Multimodal Medical RAG | Zuo *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.17215) |
 | AlzheimerRAG: Multimodal RAG for Clinical Use Cases using PubMed | Lahiri *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2412.16701) |
 | HeteroRAG: A Heterogeneous RAG Framework for Medical Vision-Language Tasks | Chen *et al.* | arXiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.12778) |
