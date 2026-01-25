@@ -295,6 +295,7 @@ In **Computer Vision**, RAG has been used for:
 
 | Title | Authors | Venue/Date | Links |
 |------|---------|------------|-------|
+| VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory | Wang *et al.* | arXiv 2026 (Jan) | [paper](https://arxiv.org/abs/2601.08665) |
 | SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation | Ye *et al.* | Arxiv 2025 (Jul) | [paper](https://arxiv.org/pdf/2507.21585) | 
 | RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base | Wang *et al.* | IROS 2025 July | [paper](https://arxiv.org/pdf/2506.18856) | 
 | RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving | Wang *et al.* | Arxiv 2025 (Mar) | [paper](https://arxiv.org/pdf/2503.13861)                                                |
