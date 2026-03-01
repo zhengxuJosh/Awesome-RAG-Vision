@@ -182,6 +182,7 @@ In **Computer Vision**, RAG has been used for:
 
 | Title | Authors | Venue/Date | Links |
 |------|---------|------------|-------|
+| Aligning Vision to Language: Annotation-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning | Liu *et al.* | ICCV 2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Aligning_Vision_to_Language_Annotation-Free_Multimodal_Knowledge_Graph_Construction_for_ICCV_2025_paper.html) |
 | Knowledge Graph-Guided Retrieval-Augmented Generation | Zhang *et al.* | ACL 2025 | [paper](https://arxiv.org/pdf/2502.06864?) |
 | Multimodal Iterative RAG for Knowledge Visual Question Answering | Choi *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.00798) |
 | mKG-RAG: Multimodal Knowledge Graph-Enhanced RAG for Visual Question Answering | Yuan *et al.* | Arxiv 2025 (Aug) | [paper](https://arxiv.org/pdf/2508.05318) |
