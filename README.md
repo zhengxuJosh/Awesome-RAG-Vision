@@ -81,6 +81,7 @@ In **Computer Vision**, RAG has been used for:
 #### **Other Related Resources**
 - [Multimodal Retrieval Augmented Generation(RAG)](https://weaviate.io/blog/multimodal-rag)
 - [Tutorial | Build a multimodal knowledge bank for a RAG project](https://knowledge.dataiku.com/latest/gen-ai/rag/tutorial-multimodal-embedding.html)
+- [Guide | Diagnose common RAG failures with a WFGY 16-problem map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)
 
 ## Papers
 
