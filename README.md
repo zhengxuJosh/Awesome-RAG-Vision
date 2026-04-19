@@ -41,6 +41,9 @@ A curated collection of **Retrieval-Augmented Generation (RAG) for Computer Visi
 
 ## Introduction
 
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 Retrieval-Augmented Generation (RAG) integrates **retrieval** into **generative models**, enabling models to query external knowledge bases (or memory banks) at inference time.
 
 In **Computer Vision**, RAG has been used for:
