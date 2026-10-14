@@ -127,6 +127,7 @@ Metadata checks are ongoing. Updated entries distinguish initial arXiv submissio
 
 | Title | Authors | Venue/Date | Links |
 |---|---|---|---|
+|🔥Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation? | Aravanis *et al.* | CVPR 2026 (Highlight) | [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Aravanis_Retrieve_and_Segment_Are_a_Few_Examples_Enough_to_Bridge_CVPR_2026_paper.pdf) / [arXiv](https://arxiv.org/abs/2602.23339) / [code](https://github.com/TilemahosAravanis/Retrieve-and-Segment) |
 |🔥Test-Time Retrieval-Augmented Adaptation for VLMs | Fan *et al.* | ICCV 2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Fan_Test-Time_Retrieval-Augmented_Adaptation_for_Vision-Language_Models_ICCV_2025_paper.pdf) |
 |🔥Retrieval-Augmented VQA for Scientific Figures (RAVQA-VLM) | Li *et al.* | AAAI 2025 | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/34653)|
 | FilterRAG: Zero-Shot Informed Retrieval-Augmented Generation to Mitigate Hallucinations in VQA | Sarwar | ICCV 2025 Workshop (T2FM); arXiv v3 Jan 2026 | [paper](https://arxiv.org/abs/2502.18536) |
