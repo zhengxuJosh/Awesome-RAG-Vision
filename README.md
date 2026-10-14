@@ -61,6 +61,8 @@ For each method, identify the candidate collection, the query or selection rule,
 
 Pure token compression, encoder alignment, and text-only RAG are useful background but are not, by themselves, visual RAG systems. Dedicated retrievers are components and should be distinguished from end-to-end systems. The [related components](#related-components-and-background) section records such boundaries.
 
+Latest targeted source update: **14 October 2026**. This pass adds nine primary-source records, including the 2 October revision of CARVE / V-RAGBench; it is not a claim of exhaustive coverage.
+
 Metadata checks are ongoing. Updated entries distinguish initial arXiv submissions from later revisions and use formal venues when verified. Other entries remain subject to source checking.
 
 ---
@@ -112,11 +114,12 @@ Metadata checks are ongoing. Updated entries distinguish initial arXiv submissio
 | 2024 | Yu *et al.*            | LLMs / NLP       | Unified evaluation process of RAG                   | [link](https://github.com/YHPeter/Awesome-RAG-Evaluation)            |
 | 2024 | Procko *et al.*        | Graph Learning   | Knowledge graphs with LLM RAG                       | -                                                                    |
 | 2024 | Zhou *et al.*          | Trustworthiness AI | Six dimensions and benchmarks about Trustworthy RAG | [link](https://github.com/smallporridge/TrustworthyRAG)             |
-| 2025 | Singh *et al.*         | AI Agent         | Participles and evaluation                          | [link](https://github.com/asinghcsu/AgenticRAG-Survey)               |
+| 2025 | Singh *et al.*         | AI Agent         | Principles and evaluation                          | [link](https://github.com/asinghcsu/AgenticRAG-Survey)               |
 | 2025 | Ni *et al.*            | Trustworthiness AI | Road-map and discussion                             | [link](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation) |
 | 2025 | Abootorabi *et al.* | Multimodal RAG | [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2502.08826) | - |
 | 2025 | Mei *et al.* | Multimodal RAG | [A Survey of Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2504.08748) | - |
 | 2026 | Kim *et al.* | Retrieval augmentation in vision | [A Taxonomy of Knowledge Bases for Retrieval-Augmented Methods in Vision: A Comprehensive Survey](https://doi.org/10.1109/ACCESS.2026.3668187) | - |
+| 2026 | Gao *et al.* | Document understanding | [Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://aclanthology.org/2026.acl-long.204/) | ACL 2026 |
 | 2025 | **_Ours_**             | **_Computer Vision_** | **_RAG for visual understanding and generation_**   | [link](https://github.com/zhengxuJosh/Awesome-RAG-Vision)            |
 
 ## RAG for Vision
@@ -127,6 +130,7 @@ Metadata checks are ongoing. Updated entries distinguish initial arXiv submissio
 
 | Title | Authors | Venue/Date | Links |
 |---|---|---|---|
+| BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering | Chen *et al.* | arXiv 2026 (Apr) | [paper](https://arxiv.org/abs/2604.22678) |
 |🔥Test-Time Retrieval-Augmented Adaptation for VLMs | Fan *et al.* | ICCV 2025 | [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Fan_Test-Time_Retrieval-Augmented_Adaptation_for_Vision-Language_Models_ICCV_2025_paper.pdf) |
 |🔥Retrieval-Augmented VQA for Scientific Figures (RAVQA-VLM) | Li *et al.* | AAAI 2025 | [paper](https://ojs.aaai.org/index.php/AAAI/article/view/34653)|
 | FilterRAG: Zero-Shot Informed Retrieval-Augmented Generation to Mitigate Hallucinations in VQA | Sarwar | ICCV 2025 Workshop (T2FM); arXiv v3 Jan 2026 | [paper](https://arxiv.org/abs/2502.18536) |
@@ -144,6 +148,8 @@ Metadata checks are ongoing. Updated entries distinguish initial arXiv submissio
 
 | Title | Authors | Venue/Date | Links |
 |------|---------|------------|-------|
+| Rethinking RAG in Long Videos: What to Retrieve and How to Use It? (CARVE / V-RAGBench) | Lee *et al.* | arXiv 2026 (Jun; v2 Oct 2) | [paper](https://arxiv.org/abs/2606.13141v2) |
+| MARQUIS: A Three-Stage Pipeline for Video Retrieval-Augmented Generation | Chakraborty *et al.* | MAGMaR 2026 acceptance reported; arXiv May | [paper](https://arxiv.org/abs/2605.17640) |
 | SceneRAG: Scene-level Retrieval-Augmented Generation for Video Understanding | Zeng *et al.* | arXiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.07600) |
 | Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding | Mao *et al.* | arXiv 2025 (May) | [paper](https://arxiv.org/abs/2505.23990) |
 | VRAG: Retrieval-Augmented Video Question Answering for Long-Form Videos | Gia *et al.* | CVPRW 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025W/IViSE/papers/Gia_VRAG_Retrieval-Augmented_Video_Question_Answering_for_Long-Form_Videos_CVPRW_2025_paper.pdf) |
@@ -174,6 +180,7 @@ Metadata checks are ongoing. Updated entries distinguish initial arXiv submissio
 
 | Title | Authors | Venue/Date | Paper Link |
 |---|---|---|---|
+| Multimodal Graph RAG for Long-range Visually Rich Document Understanding (includes DLVQA) | Wang and Chen | arXiv 2026 (Jun) | [paper](https://arxiv.org/abs/2606.28780) |
 | VisRAG 2.0: Evidence-Guided Multi-Image Reasoning in Visual Retrieval-Augmented Generation | Sun *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.09733) | 
 | UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG | Peng *et al.* | Arxiv 2025 (Oct) | [paper](https://arxiv.org/pdf/2510.03663) |
 | CMRAG: Co-modality-based document retrieval and visual question answering | Chen *et al.* | Arxiv 2025 (Sep) | [paper](https://arxiv.org/pdf/2509.02123) |
@@ -274,6 +281,8 @@ Metadata checks are ongoing. Updated entries distinguish initial arXiv submissio
 
 | Title | Authors | Venue/Date | Links |
 |------|---------|------------|-------|
+| Complementary Retrieval-Augmented Prompting for Consistent Long-Form Video Generation | Wei *et al.* | arXiv 2026 (Sep 29) | [paper](https://arxiv.org/abs/2609.37407) |
+| LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation | Hu *et al.* | arXiv 2026 (Jun) | [paper](https://arxiv.org/abs/2606.02553) |
 | Cross-modal RAG: Sub-dimensional Retrieval-Augmented Text-to-Image Generation | Zhu *et al.* | arXiv 2025 (Sep) | [paper](https://arxiv.org/abs/2505.21956) |
 | GarmentAligner | Zhang *et al.* | ECCV 2025 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72698-9_9) |
 | RealRAG | Lyu *et al.* | ICML 2025 | [paper](https://arxiv.org/pdf/2502.00848) |
@@ -314,6 +323,7 @@ Metadata checks are ongoing. Updated entries distinguish initial arXiv submissio
 
 | Title | Authors | Venue/Date | Links |
 |------|---------|------------|-------|
+| TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation | Wang *et al.* | CVPR 2026 acceptance reported; arXiv May | [paper](https://arxiv.org/abs/2605.01700) |
 | VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory | Wang *et al.* | arXiv 2026 (Jan) | [paper](https://arxiv.org/abs/2601.08665) |
 | SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation | Ye *et al.* | Arxiv 2025 (Jul) | [paper](https://arxiv.org/pdf/2507.21585) | 
 | RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base | Wang *et al.* | IROS 2025 July | [paper](https://arxiv.org/pdf/2506.18856) | 
@@ -333,6 +343,7 @@ These entries are retained as context, with their role distinguished from a visu
 
 | Paper | Authors | Venue | Role |
 |---|---|---|---|
+| [MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval](https://arxiv.org/abs/2609.01316) | Mahata *et al.* | EMNLP 2026 forthcoming; arXiv Sep | Index-time enrichment and retrieval; answer-generation quality requires a separate reader evaluation |
 | [FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Vision Language Models](https://arxiv.org/abs/2501.01986) | Fu *et al.* | ICCV 2025 | Token merging/pruning; complementary efficiency technique, not external-evidence retrieval by itself |
 | [Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models](https://arxiv.org/abs/2412.18609) | Yi *et al.* | CVPR 2025 | Encoder-free video-language architecture; does not by itself establish a retrieval-augmented pipeline |
 | [Knowledge Graph-Guided Retrieval Augmented Generation](https://aclanthology.org/2025.naacl-long.449/) | Zhu *et al.* | NAACL 2025 | Text-chunk expansion and organization on HotpotQA; background for graph retrieval, not a visual-RAG evaluation |
