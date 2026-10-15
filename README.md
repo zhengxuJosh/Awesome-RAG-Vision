@@ -150,6 +150,7 @@ Metadata checks are ongoing. The verified subset distinguishes 60 proceedings/jo
 
 | Title | Authors | Venue/Date | Links |
 |------|---------|------------|-------|
+| Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning | Zeng *et al.* | ICML 2026 | [paper](https://arxiv.org/abs/2601.23224) · [code](https://github.com/MCG-NJU/Video-o3) |
 | Rethinking RAG in Long Videos: What to Retrieve and How to Use It? (CARVE / V-RAGBench) | Lee *et al.* | arXiv 2026 (v2 Oct 2) | [paper](https://arxiv.org/abs/2606.13141) · [DBLP](https://dblp.org/rec/journals/corr/abs-2606-13141) |
 | MARQUIS: A Three-Stage Pipeline for Video Retrieval-Augmented Generation | Chakraborty *et al.* | arXiv 2026 | [paper](https://arxiv.org/abs/2605.17640) · [DBLP](https://dblp.org/rec/journals/corr/abs-2605-17640) |
 | SceneRAG: Scene-level Retrieval-Augmented Generation for Video Understanding | Zeng *et al.* | arXiv 2025 (Jun) | [paper](https://arxiv.org/pdf/2506.07600) |
@@ -344,6 +345,7 @@ These entries are retained as context, with their role distinguished from a visu
 
 | Paper | Authors | Venue | Role |
 |---|---|---|---|
+| [FreeRet: MLLMs as Training-Free Retrievers](https://arxiv.org/abs/2509.24621) | Zhu *et al.* | ICML 2026 | Training-free multimodal retriever and reranker; a retrieval component rather than an end-to-end visual RAG system. [Code](https://github.com/MCG-NJU/FreeRet) |
 | [MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval](https://arxiv.org/abs/2609.01316) | Mahata *et al.* | EMNLP 2026 forthcoming; arXiv Sep | Index-time enrichment and retrieval; answer-generation quality requires a separate reader evaluation |
 | [FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Vision Language Models](https://arxiv.org/abs/2501.01986) | Fu *et al.* | ICCV 2025 | Token merging/pruning; complementary efficiency technique, not external-evidence retrieval by itself |
 | [Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models](https://arxiv.org/abs/2412.18609) | Yi *et al.* | CVPR 2025 | Encoder-free video-language architecture; does not by itself establish a retrieval-augmented pipeline |
