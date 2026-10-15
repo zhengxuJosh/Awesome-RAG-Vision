@@ -1,0 +1,31 @@
+{
+  "checked": "2026-10-15",
+  "figures": [
+    {
+      "figure": "overview",
+      "pdf_pages": 1,
+      "embedded_image_objects": 7,
+      "overfull_boxes": 0,
+      "preview_render_scale": 3,
+      "sha256": "61fff10dcd9e83050d16d045d11dba10ae2a202813217a09efe19184b5de656a"
+    },
+    {
+      "figure": "representations",
+      "pdf_pages": 1,
+      "embedded_image_objects": 11,
+      "overfull_boxes": 0,
+      "preview_render_scale": 3,
+      "sha256": "ac614be756cee0e0e0242265bdac695006024d35e1ffaaf26a937f007d5132e5"
+    },
+    {
+      "figure": "structural_references",
+      "pdf_pages": 1,
+      "embedded_image_objects": 8,
+      "overfull_boxes": 0,
+      "preview_render_scale": 3,
+      "sha256": "f3bcadea10754aa19912f3874d5a4cf770a3489a621fb9f35da50180c0d10ce5"
+    }
+  ],
+  "visual_inspection": "All three previews inspected; font consistency, label overlaps and clipping repaired.",
+  "manuscript_pdf_exported": false
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "asset": "wall.jpg",
+    "original": "figures/mmrag_application.pdf",
+    "pdf_image_index": 0,
+    "pdf_image_name": "Im1.jpg",
+    "crop_pixels": null,
+    "stored_pixels": [
+      300,
+      202
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "wallref.jpg",
+    "original": "figures/mmrag_application.pdf",
+    "pdf_image_index": 1,
+    "pdf_image_name": "Im2.jpg",
+    "crop_pixels": null,
+    "stored_pixels": [
+      300,
+      169
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "rabbit.jpg",
+    "original": "figures/mmrag_application.pdf",
+    "pdf_image_index": 5,
+    "pdf_image_name": "Im6.jpg",
+    "crop_pixels": null,
+    "stored_pixels": [
+      300,
+      225
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "rabbitref.jpg",
+    "original": "figures/mmrag_application.pdf",
+    "pdf_image_index": 6,
+    "pdf_image_name": "Im7.jpg",
+    "crop_pixels": null,
+    "stored_pixels": [
+      300,
+      225
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "page.jpg",
+    "original": "figures/mmrag_application.pdf",
+    "pdf_image_index": 10,
+    "pdf_image_name": "Im11.jpg",
+    "crop_pixels": null,
+    "stored_pixels": [
+      235,
+      320
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "page2.jpg",
+    "original": "figures/mmrag_application.pdf",
+    "pdf_image_index": 11,
+    "pdf_image_name": "Im12.png",
+    "crop_pixels": null,
+    "stored_pixels": [
+      229,
+      320
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "eagle.jpg",
+    "original": "figures/3D_generation.pdf",
+    "pdf_image_index": 3,
+    "pdf_image_name": "Image12.jpg",
+    "crop_pixels": [
+      0,
+      0,
+      211,
+      305
+    ],
+    "stored_pixels": [
+      211,
+      305
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "shape.jpg",
+    "original": "figures/3D_generation.pdf",
+    "pdf_image_index": 1,
+    "pdf_image_name": "Image10.jpg",
+    "crop_pixels": [
+      43,
+      98,
+      198,
+      297
+    ],
+    "stored_pixels": [
+      155,
+      199
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "views.jpg",
+    "original": "figures/3D_generation.pdf",
+    "pdf_image_index": 11,
+    "pdf_image_name": "Image9.jpg",
+    "crop_pixels": [
+      35,
+      35,
+      229,
+      346
+    ],
+    "stored_pixels": [
+      194,
+      311
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  },
+  {
+    "asset": "shapegrid.jpg",
+    "original": "figures/3D_generation.pdf",
+    "pdf_image_index": 4,
+    "pdf_image_name": "Image2.jpg",
+    "crop_pixels": [
+      0,
+      0,
+      206,
+      234
+    ],
+    "stored_pixels": [
+      206,
+      234
+    ],
+    "role": "Conceptual illustration; not a replicated experimental result."
+  }
+]
