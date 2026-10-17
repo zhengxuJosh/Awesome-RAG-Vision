@@ -1,6 +1,8 @@
 # Figures for the ACL survey revision
 
-Updated 15 October 2026. These figures combine editable vector schematics with image elements from the earlier survey. They illustrate the conceptual framework; they are not new experimental predictions or replicated comparative outputs. The original 81-paper [DBLP verification](VERIFIED_REFERENCES.md) remains unchanged.
+Updated 18 October 2026. These figures combine editable vector schematics with image elements from the earlier survey. They illustrate the conceptual framework; they are not new experimental predictions or replicated comparative outputs. The original 81-paper [DBLP verification](VERIFIED_REFERENCES.md) remains unchanged.
+
+Typography is now Times-compatible Nimbus Roman with embedded font subsets, regular-weight body labels and restrained bold headings. White panels, fine rules and muted slate-blue/plum/ochre/sage accents follow the reference papers' quiet visual hierarchy. Colours are adapted choices, not exact copies. The [style specification](assets/acl-figures/style-spec.json) records the palette and typography. Colour and grayscale previews were inspected.
 
 ## Information roles across vision tasks
 

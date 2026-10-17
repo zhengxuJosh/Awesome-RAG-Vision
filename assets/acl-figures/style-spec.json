@@ -1,0 +1,19 @@
+{
+  "font_family": "Times (TeX ptm, embedded Type 1 fonts)",
+  "heading_pt": 9.7,
+  "body_pt": "8-9.1",
+  "secondary_pt": "7.5-8.2",
+  "body_weight": "regular",
+  "bold_scope": "Figure/panel headings and column headers",
+  "palette": {
+    "text": "#252A30",
+    "secondary": "#68717A",
+    "rule": "#D8DDE1",
+    "bluegray": "#526F89",
+    "plum": "#7B7088",
+    "ochre": "#9A7B50",
+    "sage": "#5C7B6E"
+  },
+  "colour_role": "Grouping, data paths and selection markers; prose labels stay neutral.",
+  "updated": "2026-10-18"
+}

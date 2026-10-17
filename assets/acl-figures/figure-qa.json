@@ -1,5 +1,6 @@
 {
-  "checked": "2026-10-15",
+  "checked": "2026-10-18",
+  "style": "Times serif, neutral text, muted accents, white panels, fine rules",
   "figures": [
     {
       "figure": "overview",
@@ -7,7 +8,7 @@
       "embedded_image_objects": 7,
       "overfull_boxes": 0,
       "preview_render_scale": 3,
-      "sha256": "61fff10dcd9e83050d16d045d11dba10ae2a202813217a09efe19184b5de656a"
+      "sha256": "76c395e776feb539d08d141017542f79648ebe294abd5385b9821f8cc1a8c073"
     },
     {
       "figure": "representations",
@@ -15,7 +16,7 @@
       "embedded_image_objects": 11,
       "overfull_boxes": 0,
       "preview_render_scale": 3,
-      "sha256": "ac614be756cee0e0e0242265bdac695006024d35e1ffaaf26a937f007d5132e5"
+      "sha256": "03fb6f9840e238e617178d16798865e894db9508d451dd1d6bfa6bd79989bf2e"
     },
     {
       "figure": "structural_references",
@@ -23,9 +24,9 @@
       "embedded_image_objects": 8,
       "overfull_boxes": 0,
       "preview_render_scale": 3,
-      "sha256": "f3bcadea10754aa19912f3874d5a4cf770a3489a621fb9f35da50180c0d10ce5"
+      "sha256": "8793bdcd05e3f3a70a82f9bc13ef910c8093beaf6f2cddd495dcd03e96888a28"
     }
   ],
-  "visual_inspection": "All three previews inspected; font consistency, label overlaps and clipping repaired.",
+  "visual_inspection": "Colour previews and grayscale print previews reviewed at final physical size.",
   "manuscript_pdf_exported": false
 }
