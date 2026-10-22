@@ -1,0 +1,194 @@
+{
+  "evidence_type": "Manual transcription of verified bibliographic facts; not a raw SPARQL response",
+  "recorded_on": "2026-10-22",
+  "sources": [
+    {
+      "url": "https://dblp.dagstuhl.de/db/conf/eccv/eccv2026-40.html",
+      "facts": "Formal DBLP key, full title, ordered authors, ECCV 2026 proceedings and pages 286-304"
+    },
+    {
+      "url": "https://dblp.org/rec/journals/corr/abs-2603-05697",
+      "facts": "Preprint DBLP key and identical title; CoRR abs/2603.05697, 2026"
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-032-37321-2_16",
+      "facts": "Official ECCV 2026 chapter, matching authors and title, pages 286-304; first online 22 September 2026"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.05697",
+      "facts": "Primary manuscript; 747 questions and more than 46,000 image, video and document candidates"
+    },
+    {
+      "url": "https://danielxu0208.github.io/MultiHaystack.github.io/",
+      "facts": "Author project page establishes the official code and benchmark association"
+    }
+  ],
+  "format_note": "The results/bindings representation makes this equivalent evidence record readable by the existing catalog validator. The entries were transcribed from the listed sources, not returned by a SPARQL endpoint.",
+  "head": {
+    "vars": [
+      "p",
+      "property",
+      "value",
+      "name",
+      "ordinal"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "property": {
+          "type": "uri",
+          "value": "https://dblp.org/rdf/schema#title"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/journals/corr/abs-2603-05697"
+        },
+        "property": {
+          "type": "uri",
+          "value": "https://dblp.org/rdf/schema#title"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Dannong Xu"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Zhongyu Yang"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Jun Chen"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "3"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Yingfang Yuan"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "4"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Ming Hu"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "5"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Lei Sun"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "6"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Luc Van Gool"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "7"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Danda Pani Paudel"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "8"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Chun-Mei Feng"
+        },
+        "ordinal": {
+          "type": "literal",
+          "value": "9"
+        }
+      }
+    ]
+  }
+}

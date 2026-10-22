@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-22",
   "scope": "Targeted bibliographically verified catalog; not an exhaustive systematic review.",
   "papers": [
     {
@@ -5971,6 +5971,45 @@
       "legacy_row_indices": [
         38
       ]
+    },
+    {
+      "id": "conf/eccv/XuYCYHSGPF26",
+      "title": "MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents",
+      "authors": [
+        "Dannong Xu",
+        "Zhongyu Yang",
+        "Jun Chen",
+        "Yingfang Yuan",
+        "Ming Hu",
+        "Lei Sun",
+        "Luc Van Gool",
+        "Danda Pani Paudel",
+        "Chun-Mei Feng"
+      ],
+      "year": 2026,
+      "publication_year": 2026,
+      "venue": "ECCV",
+      "publication_status": "proceedings",
+      "category": "evaluation",
+      "role": "Benchmark",
+      "paper_url": "https://doi.org/10.1007/978-3-032-37321-2_16",
+      "publication_source": "https://link.springer.com/chapter/10.1007/978-3-032-37321-2_16",
+      "dblp_url": "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26",
+      "dblp_records": [
+        "https://dblp.org/rec/conf/eccv/XuYCYHSGPF26",
+        "https://dblp.org/rec/journals/corr/abs-2603-05697"
+      ],
+      "preprint_urls": [
+        "https://arxiv.org/abs/2603.05697"
+      ],
+      "title_aliases": [],
+      "code_url": "https://github.com/Danielxu0208/MultiHaystack",
+      "code_source": "https://danielxu0208.github.io/MultiHaystack.github.io/",
+      "verified_on": "2026-10-22",
+      "verification": "DBLP bibliographic identity; formal publication verified against the Springer chapter",
+      "manuscript_citation_keys": [],
+      "legacy_row_indices": [],
+      "note": "747 evidence-grounded questions over more than 46,000 image, video and document candidates; joint retrieval and question-answering evaluation."
     }
   ]
 }

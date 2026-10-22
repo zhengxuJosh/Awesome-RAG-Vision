@@ -5,9 +5,9 @@
 
 **Retrieval-augmented understanding, generation and embodied intelligence**
 
-![Papers](https://img.shields.io/badge/papers-175-405B76)
+![Papers](https://img.shields.io/badge/papers-176-405B76)
 ![DBLP verified](https://img.shields.io/badge/identity-DBLP%20verified-50766B)
-![Updated](https://img.shields.io/badge/updated-2026-10-19-777777)
+![Updated](https://img.shields.io/badge/updated-2026-10-22-777777)
 
 [Survey](https://arxiv.org/abs/2503.18016) · [Paper list](#paper-list) · [JSON](data/papers.json) · [CSV](data/papers.csv) · [BibTeX](data/papers.bib) · [Contribute](CONTRIBUTING.md)
 
@@ -15,7 +15,7 @@
 
 A curated research guide to **how retrieved evidence, exemplars, visual references and memory support vision models**. Covers images, documents, video, medical applications, visual synthesis, 3D and embodied agents.
 
-**175 unique papers · 114 proceedings/journal papers · 61 preprints · 12 categories.** Every entry has a direct DBLP record. A linked proceedings page supplies formal venue evidence where only the preprint is indexed in DBLP. Conference and preprint versions count once.
+**176 unique papers · 115 proceedings/journal papers · 61 preprints · 12 categories.** Every entry has a direct DBLP record. A linked proceedings page supplies formal venue evidence where only the preprint is indexed in DBLP. Conference and preprint versions count once.
 
 <p align="center"><img src="assets/acl-figures/overview.png" alt="Four roles of retrieved information: evidence, exemplars, synthesis references and embodied memory" width="100%"></p>
 
@@ -64,7 +64,7 @@ Use GitHub's page search (**Ctrl/Cmd + F**) to find a title or method. For filte
 | Topic | Unique papers |
 |---|---:|
 | [Surveys and overviews](#surveys) | 8 |
-| [Benchmarks, datasets and evaluation](#evaluation) | 27 |
+| [Benchmarks, datasets and evaluation](#evaluation) | 28 |
 | [Visual understanding and multimodal reasoning](#understanding) | 40 |
 | [Document understanding](#documents) | 13 |
 | [Video understanding](#video) | 15 |
@@ -104,6 +104,7 @@ Includes general VQA/document datasets used in RAG studies; inclusion does not m
 | [Invoice Haystack: Benchmarking Document Retrieval and Visual Question Answering Under Strong Visual Homogeneity](https://doi.org/10.48550/ARXIV.2606.25343)<br><sub>Heethanjan Kanagalingam et al.</sub> | arXiv 2026 | Benchmark | [DBLP](https://dblp.org/rec/journals/corr/abs-2606-25343) · [arXiv](https://arxiv.org/abs/2606.25343) |
 | [MKG-RAG-Bench: Benchmarking Retrieval in Multimodal Knowledge Graph-Augmented Generation](https://doi.org/10.1145/3770855.3817570)<br><sub>Xiaochen Wang et al.</sub> | KDD 2026 | Benchmark | [DBLP](https://dblp.org/rec/conf/kdd/WangHLWM26) · [arXiv](https://arxiv.org/abs/2606.26458) |
 | [MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation](https://doi.org/10.48550/ARXIV.2606.17449)<br><sub>Zehang Wei et al.</sub> | arXiv 2026 | Analysis | [DBLP](https://dblp.org/rec/journals/corr/abs-2606-17449) · [arXiv](https://arxiv.org/abs/2606.17449) |
+| [MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents](https://doi.org/10.1007/978-3-032-37321-2_16)<br><sub>Dannong Xu et al.</sub><br><sub>747 evidence-grounded questions over more than 46,000 image, video and document candidates; joint retrieval and question-answering evaluation.</sub> | ECCV 2026 | Benchmark | [DBLP](https://dblp.org/rec/conf/eccv/XuYCYHSGPF26) · [Code](https://github.com/Danielxu0208/MultiHaystack) · [arXiv](https://arxiv.org/abs/2603.05697) |
 | [RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](https://proceedings.iclr.cc/paper_files/paper/2026/hash/1f2dbafda518a76a57381548453f337a-Abstract-Conference.html)<br><sub>Jiaang Li et al.</sub> | ICLR 2026 | Benchmark | [DBLP](https://dblp.org/rec/conf/iclr/LiYLAHSVZLDB26) · [arXiv](https://arxiv.org/abs/2505.14462) |
 | [Rethinking RAG in Long Videos: What to Retrieve and How to Use It?](https://doi.org/10.48550/ARXIV.2606.13141)<br><sub>Yuho Lee et al.</sub> | arXiv 2026 | Analysis | [DBLP](https://dblp.org/rec/journals/corr/abs-2606-13141) · [arXiv](https://arxiv.org/abs/2606.13141) |
 | [Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG](https://doi.org/10.48550/ARXIV.2603.04238)<br><sub>Martin Asenov et al.</sub> | arXiv 2026 | Analysis | [DBLP](https://dblp.org/rec/journals/corr/abs-2603-04238) · [arXiv](https://arxiv.org/abs/2603.04238) |
