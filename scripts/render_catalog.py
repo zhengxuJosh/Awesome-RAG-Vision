@@ -188,15 +188,19 @@ These are entry points for different questions, rather than a performance rankin
             label = prefix.rstrip(':')
             links.append(f'[{label}]({p["paper_url"]})')
         readme += f'| {question} | {" · ".join(links)} | {focus} |\n'
-    readme += '''
+    updated_date = data['updated']
+    readme += f'''
 ## Recent verified additions and publication updates
 
-Targeted update: **19 October 2026**. The full list below is sorted by publication/event year, then title. This selection highlights additions and metadata changes; it is not an exhaustive search of all recent work.
+Targeted update: **{updated_date}**. The full list below is sorted by publication/event year, then title. This selection highlights additions and metadata changes; it is not an exhaustive search of all recent work.
 
 | Paper | Verified publication | Why it is useful here |
 |---|---|---|
 '''
     recent = [
+        ('Seeing Through the MiRAGE:', 'Subclaim-level information quality and citation support; formal EMNLP publication'),
+        ('Doc-REFRAG:', 'Question-guided chunk expansion after document retrieval'),
+        ('UNIDOC-BENCH:', 'Formal Findings of EMNLP publication; shared-pool document evaluation'),
         ('UniversalRAG:', 'Unified retrieval across modalities and granularities; merged with its differently titled preprint'),
         ('LVLM-Aware', 'Medical retrieval with general-purpose vision-language models'),
         ('Region-R1:', 'Query-side cropping for reranking; classified as a component'),
@@ -242,7 +246,8 @@ We use **retrieval augmentation** as an umbrella for retrieval-augmented underst
 
 The catalog records **bibliographic identity**, rather than certifying experimental claims, reproducibility or a complete full-text review. Formal venue/year is taken from DBLP or an explicitly linked proceedings page; an arXiv acceptance claim alone is insufficient. The conference event year is preferred when its volume has a later imprint year. Preprints are explicitly labeled `arXiv`.
 
-- [Catalog verification, version merges, corrections and review queue](metadata/catalog-update-20261019/README.md)
+- [16 November additions and publication updates](metadata/catalog-update-20261116/README.md)
+- [October catalog verification, version merges, corrections and review queue](metadata/catalog-update-20261019/README.md)
 - [Fixed 81-reference manuscript bibliography audit](VERIFIED_REFERENCES.md)
 - [21-study analytical extraction and eight supporting full texts](metadata/synthesis-audit-20261018/README.md)
 - [Previous homepage snapshot](archive/README-before-20261019.md)

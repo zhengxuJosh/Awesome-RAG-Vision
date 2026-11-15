@@ -5,9 +5,9 @@
 
 **Retrieval-augmented understanding, generation and embodied intelligence**
 
-![Papers](https://img.shields.io/badge/papers-175-405B76)
+![Papers](https://img.shields.io/badge/papers-177-405B76)
 ![DBLP verified](https://img.shields.io/badge/identity-DBLP%20verified-50766B)
-![Updated](https://img.shields.io/badge/updated-2026-10-19-777777)
+![Updated](https://img.shields.io/badge/updated-2026-11-16-777777)
 
 [Survey](https://arxiv.org/abs/2503.18016) · [Paper list](#paper-list) · [JSON](data/papers.json) · [CSV](data/papers.csv) · [BibTeX](data/papers.bib) · [Contribute](CONTRIBUTING.md)
 
@@ -15,7 +15,7 @@
 
 A curated research guide to **how retrieved evidence, exemplars, visual references and memory support vision models**. Covers images, documents, video, medical applications, visual synthesis, 3D and embodied agents.
 
-**175 unique papers · 114 proceedings/journal papers · 61 preprints · 12 categories.** Every entry has a direct DBLP record. A linked proceedings page supplies formal venue evidence where only the preprint is indexed in DBLP. Conference and preprint versions count once.
+**177 unique papers · 117 proceedings/journal papers · 60 preprints · 12 categories.** Every entry has a direct DBLP record. A linked proceedings page supplies formal venue evidence where only the preprint is indexed in DBLP. Conference and preprint versions count once.
 
 <p align="center"><img src="assets/acl-figures/overview.png" alt="Four roles of retrieved information: evidence, exemplars, synthesis references and embodied memory" width="100%"></p>
 
@@ -37,10 +37,13 @@ These are entry points for different questions, rather than a performance rankin
 
 ## Recent verified additions and publication updates
 
-Targeted update: **19 October 2026**. The full list below is sorted by publication/event year, then title. This selection highlights additions and metadata changes; it is not an exhaustive search of all recent work.
+Targeted update: **2026-11-16**. The full list below is sorted by publication/event year, then title. This selection highlights additions and metadata changes; it is not an exhaustive search of all recent work.
 
 | Paper | Verified publication | Why it is useful here |
 |---|---|---|
+| [Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://aclanthology.org/2026.emnlp-main.1765/) | EMNLP 2026 · [DBLP](https://dblp.org/rec/journals/corr/abs-2510-24870) | Subclaim-level information quality and citation support; formal EMNLP publication |
+| [Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation](https://aclanthology.org/2026.emnlp-main.377/) | EMNLP 2026 · [DBLP](https://dblp.org/rec/conf/emnlp/HuXHYZLJZ26) | Question-guided chunk expansion after document retrieval |
+| [UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](https://aclanthology.org/2026.findings-emnlp.534/) | Findings of EMNLP 2026 · [DBLP](https://dblp.org/rec/journals/corr/abs-2510-03663) | Formal Findings of EMNLP publication; shared-pool document evaluation |
 | [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](https://aclanthology.org/2026.acl-long.177/) | ACL 2026 · [DBLP](https://dblp.org/rec/conf/acl/YeoKJBH26) | Unified retrieval across modalities and granularities; merged with its differently titled preprint |
 | [LVLM-Aware Multimodal Retrieval for RAG-Based Medical Diagnosis with General-Purpose Models](https://aclanthology.org/2026.findings-acl.512/) | Findings of ACL 2026 · [DBLP](https://dblp.org/rec/conf/acl/MazorH26) | Medical retrieval with general-purpose vision-language models |
 | [Region-R1: Reinforcing Query-Side Region Cropping for Multi-Modal Re-Ranking](https://aclanthology.org/2026.findings-acl.510/) | Findings of ACL 2026 · [DBLP](https://dblp.org/rec/conf/acl/HuT26) | Query-side cropping for reranking; classified as a component |
@@ -64,9 +67,9 @@ Use GitHub's page search (**Ctrl/Cmd + F**) to find a title or method. For filte
 | Topic | Unique papers |
 |---|---:|
 | [Surveys and overviews](#surveys) | 8 |
-| [Benchmarks, datasets and evaluation](#evaluation) | 27 |
+| [Benchmarks, datasets and evaluation](#evaluation) | 28 |
 | [Visual understanding and multimodal reasoning](#understanding) | 40 |
-| [Document understanding](#documents) | 13 |
+| [Document understanding](#documents) | 14 |
 | [Video understanding](#video) | 15 |
 | [Medical vision and clinical documents](#medical) | 8 |
 | [Image and video generation](#synthesis) | 17 |
@@ -107,7 +110,9 @@ Includes general VQA/document datasets used in RAG studies; inclusion does not m
 | [RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding](https://proceedings.iclr.cc/paper_files/paper/2026/hash/1f2dbafda518a76a57381548453f337a-Abstract-Conference.html)<br><sub>Jiaang Li et al.</sub> | ICLR 2026 | Benchmark | [DBLP](https://dblp.org/rec/conf/iclr/LiYLAHSVZLDB26) · [arXiv](https://arxiv.org/abs/2505.14462) |
 | [Rethinking RAG in Long Videos: What to Retrieve and How to Use It?](https://doi.org/10.48550/ARXIV.2606.13141)<br><sub>Yuho Lee et al.</sub> | arXiv 2026 | Analysis | [DBLP](https://dblp.org/rec/journals/corr/abs-2606-13141) · [arXiv](https://arxiv.org/abs/2606.13141) |
 | [Retrieval or Representation? Reassessing Benchmark Gaps in Multilingual and Visually Rich RAG](https://doi.org/10.48550/ARXIV.2603.04238)<br><sub>Martin Asenov et al.</sub> | arXiv 2026 | Analysis | [DBLP](https://dblp.org/rec/journals/corr/abs-2603-04238) · [arXiv](https://arxiv.org/abs/2603.04238) |
+| [Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://aclanthology.org/2026.emnlp-main.1765/)<br><sub>Alexander Martin et al.</sub> | EMNLP 2026 | Analysis | [DBLP](https://dblp.org/rec/journals/corr/abs-2510-24870) · [arXiv](https://arxiv.org/abs/2510.24870) |
 | [Uncertainty Quantification for Multimodal Retrieval Augmented Generation](https://doi.org/10.1145/3805713.3820431)<br><sub>Simon Binz et al.</sub> | ICTIR 2026 | Analysis | [DBLP](https://dblp.org/rec/conf/ictir/BinzSH26) · [arXiv](https://arxiv.org/abs/2605.29956) |
+| [UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](https://aclanthology.org/2026.findings-emnlp.534/)<br><sub>Xiangyu Peng et al.</sub> | Findings of EMNLP 2026 | Benchmark | [DBLP](https://dblp.org/rec/journals/corr/abs-2510-03663) · [arXiv](https://arxiv.org/abs/2510.03663) |
 | [Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries](https://doi.org/10.1145/3805712.3808615)<br><sub>Yin Wu et al.</sub><br><sub>Use the corrected annotation release; historical v1 model scores are not comparable.</sub> | SIGIR 2026 | Benchmark | [DBLP](https://dblp.org/rec/conf/sigir/WuLLYW26) · [arXiv](https://arxiv.org/abs/2502.16636) |
 | [When Good OCR Is Not Enough: Benchmarking OCR Robustness for Retrieval-Augmented Generation](https://aclanthology.org/2026.acl-industry.60/)<br><sub>Lin Sun et al.</sub> | ACL 2026 | Benchmark | [DBLP](https://dblp.org/rec/conf/acl/SunWHZJCZ26) · [arXiv](https://arxiv.org/abs/2605.00911) |
 | [Benchmarking Multimodal RAG through a Chart-based Document Question-Answering Generation Framework](https://doi.org/10.48550/ARXIV.2502.14864)<br><sub>Yuming Yang et al.</sub> | arXiv 2025 | Benchmark | [DBLP](https://dblp.org/rec/journals/corr/abs-2502-14864) · [arXiv](https://arxiv.org/abs/2502.14864) |
@@ -119,7 +124,6 @@ Includes general VQA/document datasets used in RAG studies; inclusion does not m
 | [MRAMG-Bench: A Comprehensive Benchmark for Advancing Multimodal Retrieval-Augmented Multimodal Generation](https://doi.org/10.1145/3726302.3730288)<br><sub>Qinhan Yu et al.</sub> | SIGIR 2025 | Benchmark | [DBLP](https://dblp.org/rec/conf/sigir/YuXLW0Z25) · [arXiv](https://arxiv.org/abs/2502.04176) |
 | [RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance](https://doi.org/10.48550/ARXIV.2501.03995)<br><sub>Matin Mortaheb et al.</sub> | arXiv 2025 | Analysis | [DBLP](https://dblp.org/rec/journals/corr/abs-2501-03995) · [arXiv](https://arxiv.org/abs/2501.03995) |
 | [REAL-MM-RAG: A Real-World Multi-Modal Retrieval Benchmark](https://aclanthology.org/2025.acl-long.1528/)<br><sub>Navve Wasserman et al.</sub> | ACL 2025 | Benchmark | [DBLP](https://dblp.org/rec/conf/acl/WassermanPNGSBK25) |
-| [UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG](https://doi.org/10.48550/ARXIV.2510.03663)<br><sub>Xiangyu Peng et al.</sub> | arXiv 2025 | Benchmark | [DBLP](https://dblp.org/rec/journals/corr/abs-2510-03663) · [arXiv](https://arxiv.org/abs/2510.03663) |
 | [VAT-KG: Knowledge-Intensive Multimodal Knowledge Graph Dataset for Retrieval-Augmented Generation](https://doi.org/10.48550/ARXIV.2506.21556)<br><sub>Hyeongcheol Park et al.</sub> | arXiv 2025 | Benchmark | [DBLP](https://dblp.org/rec/journals/corr/abs-2506-21556) · [arXiv](https://arxiv.org/abs/2506.21556) |
 | [A-OKVQA: A Benchmark for Visual Question Answering Using World Knowledge](https://doi.org/10.1007/978-3-031-20074-8_9)<br><sub>Dustin Schwenk et al.</sub> | ECCV 2022 | Benchmark | [DBLP](https://dblp.org/rec/conf/eccv/SchwenkKCMM22) |
 | [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering](http://papers.nips.cc/paper_files/paper/2022/hash/11332b6b6cf4485b84afadb1352d3a9a-Abstract-Conference.html)<br><sub>Pan Lu et al.</sub> | NeurIPS 2022 | Benchmark | [DBLP](https://dblp.org/rec/conf/nips/LuMX0CZTCK22) |
@@ -181,6 +185,7 @@ Includes general VQA/document datasets used in RAG studies; inclusion does not m
 | Paper / first author | Publication | Role | Resources |
 |---|---|---|---|
 | [ColGraphRAG: Late-Interaction Evidence Retrieval for Multimodal GraphRAG](https://doi.org/10.48550/ARXIV.2607.16208)<br><sub>Seonok Kim</sub> | arXiv 2026 | Method | [DBLP](https://dblp.org/rec/journals/corr/abs-2607-16208) · [arXiv](https://arxiv.org/abs/2607.16208) |
+| [Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation](https://aclanthology.org/2026.emnlp-main.377/)<br><sub>Ruofan Hu et al.</sub> | EMNLP 2026 | Method | [DBLP](https://dblp.org/rec/conf/emnlp/HuXHYZLJZ26) · [Code](https://github.com/Collab-Gen/Doc-REFRAG) |
 | [HVM-GraphRAG: Holistic-View Multimodal Graph Retrieval-Augmented Generation on Complex Document](https://doi.org/10.48550/ARXIV.2607.24861)<br><sub>Xin He et al.</sub> | arXiv 2026 | Method | [DBLP](https://dblp.org/rec/journals/corr/abs-2607-24861) · [arXiv](https://arxiv.org/abs/2607.24861) |
 | [Multimodal Graph RAG for Long-range Visually Rich Document Understanding](https://doi.org/10.48550/ARXIV.2606.28780)<br><sub>Yi-Cheng Wang et al.</sub> | arXiv 2026 | Method | [DBLP](https://dblp.org/rec/journals/corr/abs-2606-28780) · [arXiv](https://arxiv.org/abs/2606.28780) |
 | [CMRAG: Co-modality-based visual document retrieval and question answering](https://doi.org/10.48550/ARXIV.2509.02123)<br><sub>Wang Chen et al.</sub> | arXiv 2025 | Method | [DBLP](https://dblp.org/rec/journals/corr/abs-2509-02123) · [arXiv](https://arxiv.org/abs/2509.02123) |
@@ -345,7 +350,8 @@ We use **retrieval augmentation** as an umbrella for retrieval-augmented underst
 
 The catalog records **bibliographic identity**, rather than certifying experimental claims, reproducibility or a complete full-text review. Formal venue/year is taken from DBLP or an explicitly linked proceedings page; an arXiv acceptance claim alone is insufficient. The conference event year is preferred when its volume has a later imprint year. Preprints are explicitly labeled `arXiv`.
 
-- [Catalog verification, version merges, corrections and review queue](metadata/catalog-update-20261019/README.md)
+- [16 November additions and publication updates](metadata/catalog-update-20261116/README.md)
+- [October catalog verification, version merges, corrections and review queue](metadata/catalog-update-20261019/README.md)
 - [Fixed 81-reference manuscript bibliography audit](VERIFIED_REFERENCES.md)
 - [21-study analytical extraction and eight supporting full texts](metadata/synthesis-audit-20261018/README.md)
 - [Previous homepage snapshot](archive/README-before-20261019.md)

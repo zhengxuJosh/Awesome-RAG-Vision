@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-11-16",
   "scope": "Targeted bibliographically verified catalog; not an exhaustive systematic review.",
   "papers": [
     {
@@ -932,6 +932,41 @@
       "verification": "DBLP bibliographic identity",
       "manuscript_citation_keys": [],
       "legacy_row_indices": []
+    },
+    {
+      "id": "conf/emnlp/HuXHYZLJZ26",
+      "title": "Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation",
+      "authors": [
+        "Ruofan Hu",
+        "Shengyang Xu",
+        "Minjie Hong",
+        "Xiaoda Yang",
+        "Sashuai Zhou",
+        "Ke Lei",
+        "Tao Jin",
+        "Zhou Zhao"
+      ],
+      "year": 2026,
+      "publication_year": 2026,
+      "venue": "EMNLP",
+      "publication_status": "proceedings",
+      "category": "documents",
+      "role": "Method",
+      "paper_url": "https://aclanthology.org/2026.emnlp-main.377/",
+      "dblp_url": "https://dblp.org/rec/conf/emnlp/HuXHYZLJZ26",
+      "dblp_records": [
+        "https://dblp.org/rec/conf/emnlp/HuXHYZLJZ26"
+      ],
+      "publication_source": "https://aclanthology.org/2026.emnlp-main.377/",
+      "preprint_urls": [],
+      "title_aliases": [],
+      "verified_on": "2026-11-16",
+      "verification": "DBLP bibliographic identity; formal venue from ACL Anthology",
+      "manuscript_citation_keys": [],
+      "legacy_row_indices": [],
+      "manuscript_update_citation_key": "hu2026docrefrag",
+      "code_url": "https://github.com/Collab-Gen/Doc-REFRAG",
+      "code_source": "https://aclanthology.org/2026.emnlp-main.377/"
     },
     {
       "id": "journals/corr/abs-2607-24861",
@@ -2043,6 +2078,41 @@
       ]
     },
     {
+      "id": "journals/corr/abs-2510-24870",
+      "title": "Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation",
+      "authors": [
+        "Alexander Martin",
+        "William Gantt Walden",
+        "Reno Kriz",
+        "Dengjia Zhang",
+        "Kate Sanders",
+        "Eugene Yang",
+        "Chihsheng Jin",
+        "Benjamin Van Durme"
+      ],
+      "year": 2026,
+      "publication_year": 2026,
+      "venue": "EMNLP",
+      "publication_status": "proceedings",
+      "category": "evaluation",
+      "role": "Analysis",
+      "paper_url": "https://aclanthology.org/2026.emnlp-main.1765/",
+      "dblp_url": "https://dblp.org/rec/journals/corr/abs-2510-24870",
+      "dblp_records": [
+        "https://dblp.org/rec/journals/corr/abs-2510-24870"
+      ],
+      "publication_source": "https://aclanthology.org/2026.emnlp-main.1765/",
+      "preprint_urls": [
+        "https://arxiv.org/abs/2510.24870"
+      ],
+      "title_aliases": [],
+      "verified_on": "2026-11-16",
+      "verification": "DBLP bibliographic identity; formal venue from ACL Anthology",
+      "manuscript_citation_keys": [],
+      "legacy_row_indices": [],
+      "manuscript_update_citation_key": "martin2026mirage"
+    },
+    {
       "id": "conf/ictir/BinzSH26",
       "title": "Uncertainty Quantification for Multimodal Retrieval Augmented Generation",
       "authors": [
@@ -2074,6 +2144,41 @@
       "legacy_row_indices": [
         75
       ]
+    },
+    {
+      "id": "journals/corr/abs-2510-03663",
+      "title": "UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG",
+      "authors": [
+        "Xiangyu Peng",
+        "Can Qin",
+        "Zeyuan Chen",
+        "Ran Xu",
+        "Caiming Xiong",
+        "Chien-Sheng Wu"
+      ],
+      "year": 2026,
+      "publication_year": 2026,
+      "venue": "Findings of EMNLP",
+      "publication_status": "proceedings",
+      "category": "evaluation",
+      "role": "Benchmark",
+      "paper_url": "https://aclanthology.org/2026.findings-emnlp.534/",
+      "dblp_url": "https://dblp.org/rec/journals/corr/abs-2510-03663",
+      "dblp_records": [
+        "https://dblp.org/rec/journals/corr/abs-2510-03663"
+      ],
+      "preprint_urls": [
+        "https://arxiv.org/abs/2510.03663"
+      ],
+      "title_aliases": [],
+      "verified_on": "2026-11-16",
+      "verification": "DBLP bibliographic identity",
+      "manuscript_citation_keys": [],
+      "legacy_row_indices": [
+        43
+      ],
+      "publication_source": "https://aclanthology.org/2026.findings-emnlp.534/",
+      "manuscript_update_citation_key": "peng2026unidoc"
     },
     {
       "id": "conf/sigir/WuLLYW26",
@@ -2445,39 +2550,6 @@
         "wasserman2025realmmra"
       ],
       "legacy_row_indices": []
-    },
-    {
-      "id": "journals/corr/abs-2510-03663",
-      "title": "UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG",
-      "authors": [
-        "Xiangyu Peng",
-        "Can Qin",
-        "Zeyuan Chen",
-        "Ran Xu",
-        "Caiming Xiong",
-        "Chien-Sheng Wu"
-      ],
-      "year": 2025,
-      "publication_year": 2025,
-      "venue": "arXiv",
-      "publication_status": "preprint",
-      "category": "evaluation",
-      "role": "Benchmark",
-      "paper_url": "https://doi.org/10.48550/ARXIV.2510.03663",
-      "dblp_url": "https://dblp.org/rec/journals/corr/abs-2510-03663",
-      "dblp_records": [
-        "https://dblp.org/rec/journals/corr/abs-2510-03663"
-      ],
-      "preprint_urls": [
-        "https://arxiv.org/abs/2510.03663"
-      ],
-      "title_aliases": [],
-      "verified_on": "2026-10-19",
-      "verification": "DBLP bibliographic identity",
-      "manuscript_citation_keys": [],
-      "legacy_row_indices": [
-        43
-      ]
     },
     {
       "id": "journals/corr/abs-2506-21556",

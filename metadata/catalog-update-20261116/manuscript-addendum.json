@@ -1,0 +1,334 @@
+[
+  {
+    "citation_key": "martin2026mirage",
+    "dblp_url": "https://dblp.org/rec/journals/corr/abs-2510-24870",
+    "checked": "2026-11-16",
+    "identity_properties": {
+      "http://purl.org/spar/datacite/hasIdentifier": [
+        "bn54731153",
+        "bn54731164"
+      ],
+      "type": [
+        "https://dblp.org/rdf/schema#Informal",
+        "https://dblp.org/rdf/schema#Publication"
+      ],
+      "label": [
+        "Alexander Martin et al.: Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation. (2025)"
+      ],
+      "sameAs": [
+        "http://dx.doi.org/10.48550/ARXIV.2510.24870",
+        "https://doi.org/10.48550/ARXIV.2510.24870"
+      ],
+      "authoredBy": [
+        "https://dblp.org/pid/06/4775",
+        "https://dblp.org/pid/06/5863-2",
+        "https://dblp.org/pid/127/0482-1",
+        "https://dblp.org/pid/220/2001",
+        "https://dblp.org/pid/352/3194",
+        "https://dblp.org/pid/391/2362",
+        "https://dblp.org/pid/402/4129",
+        "https://dblp.org/pid/420/2999"
+      ],
+      "bibtexType": [
+        "http://purl.org/net/nknouf/ns/bibtex#Article"
+      ],
+      "createdBy": [
+        "https://dblp.org/pid/06/4775",
+        "https://dblp.org/pid/06/5863-2",
+        "https://dblp.org/pid/127/0482-1",
+        "https://dblp.org/pid/220/2001",
+        "https://dblp.org/pid/352/3194",
+        "https://dblp.org/pid/391/2362",
+        "https://dblp.org/pid/402/4129",
+        "https://dblp.org/pid/420/2999"
+      ],
+      "documentPage": [
+        "https://doi.org/10.48550/ARXIV.2510.24870"
+      ],
+      "doi": [
+        "https://doi.org/10.48550/ARXIV.2510.24870"
+      ],
+      "hasSignature": [
+        "bn54731175",
+        "bn54731186",
+        "bn54731197",
+        "bn54731208",
+        "bn54731219",
+        "bn54731230",
+        "bn54731241",
+        "bn54731252"
+      ],
+      "listedOnTocPage": [
+        "https://dblp.org/db/journals/corr/corr2510"
+      ],
+      "monthOfPublication": [
+        "--10"
+      ],
+      "numberOfCreators": [
+        "8"
+      ],
+      "primaryDocumentPage": [
+        "https://doi.org/10.48550/ARXIV.2510.24870"
+      ],
+      "publishedIn": [
+        "CoRR"
+      ],
+      "publishedInJournal": [
+        "CoRR"
+      ],
+      "publishedInJournalVolume": [
+        "abs/2510.24870"
+      ],
+      "publishedInStream": [
+        "https://dblp.org/streams/journals/corr"
+      ],
+      "title": [
+        "Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation."
+      ],
+      "yearOfPublication": [
+        "2025"
+      ]
+    },
+    "authors": [
+      "Alexander Martin",
+      "William Gantt Walden",
+      "Reno Kriz",
+      "Dengjia Zhang",
+      "Kate Sanders",
+      "Eugene Yang",
+      "Chihsheng Jin",
+      "Benjamin Van Durme"
+    ],
+    "bibliography_title": "Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation",
+    "bibliography_year": 2026,
+    "bibliography_venue": "EMNLP",
+    "publication_status": "proceedings",
+    "publication_source": "https://aclanthology.org/2026.emnlp-main.1765/",
+    "inspected_source": "https://aclanthology.org/2026.emnlp-main.1765.pdf",
+    "source_sha256": "d1dcc80a4c3a2aa59a2d22ec3ea4ae59223b522ddd76bae4a89848c1dbf8e77f",
+    "inspection_depth": "Targeted visual inspection of relevant method/evaluation pages, not an exhaustive full-paper configuration audit.",
+    "key": "martin2026mirage",
+    "locators": [
+      "PDF pp.2--5, Sections 3--4.2; Figure 2"
+    ],
+    "observation": "Subclaim evaluation separates factuality/information coverage (InfoF1) from citation support/completeness (CiteF1). Reference-based and collection-based judgments have different evidence scopes.",
+    "inference_limit": "Citation support is not proof of a causal dependency on a cited source; reference omissions and judge errors still matter."
+  },
+  {
+    "citation_key": "hu2026docrefrag",
+    "dblp_url": "https://dblp.org/rec/conf/emnlp/HuXHYZLJZ26",
+    "checked": "2026-11-16",
+    "identity_properties": {
+      "http://purl.org/spar/datacite/hasIdentifier": [
+        "bn12003712"
+      ],
+      "type": [
+        "https://dblp.org/rdf/schema#Inproceedings",
+        "https://dblp.org/rdf/schema#Publication"
+      ],
+      "label": [
+        "Ruofan Hu et al.: Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation. (2026)"
+      ],
+      "authoredBy": [
+        "https://dblp.org/pid/251/3131",
+        "https://dblp.org/pid/321/0629-2",
+        "https://dblp.org/pid/357/6170",
+        "https://dblp.org/pid/381/0751",
+        "https://dblp.org/pid/402/4494",
+        "https://dblp.org/pid/54/8757-2",
+        "https://dblp.org/pid/75/7785-1",
+        "https://dblp.org/pid/88/4850-4"
+      ],
+      "bibtexType": [
+        "http://purl.org/net/nknouf/ns/bibtex#Inproceedings"
+      ],
+      "createdBy": [
+        "https://dblp.org/pid/251/3131",
+        "https://dblp.org/pid/321/0629-2",
+        "https://dblp.org/pid/357/6170",
+        "https://dblp.org/pid/381/0751",
+        "https://dblp.org/pid/402/4494",
+        "https://dblp.org/pid/54/8757-2",
+        "https://dblp.org/pid/75/7785-1",
+        "https://dblp.org/pid/88/4850-4"
+      ],
+      "documentPage": [
+        "https://aclanthology.org/2026.emnlp-main.377/"
+      ],
+      "hasSignature": [
+        "bn12003713",
+        "bn12003716",
+        "bn12003717",
+        "bn12003718",
+        "bn12003719",
+        "bn12003720",
+        "bn12003721",
+        "bn12003722"
+      ],
+      "listedOnTocPage": [
+        "https://dblp.org/db/conf/emnlp/emnlp2026"
+      ],
+      "numberOfCreators": [
+        "8"
+      ],
+      "pagination": [
+        "8624-8644"
+      ],
+      "primaryDocumentPage": [
+        "https://aclanthology.org/2026.emnlp-main.377/"
+      ],
+      "publishedAsPartOf": [
+        "https://dblp.org/rec/conf/emnlp/2026"
+      ],
+      "publishedIn": [
+        "EMNLP"
+      ],
+      "publishedInBook": [
+        "EMNLP"
+      ],
+      "publishedInStream": [
+        "https://dblp.org/streams/conf/emnlp"
+      ],
+      "title": [
+        "Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation."
+      ],
+      "yearOfEvent": [
+        "2026"
+      ],
+      "yearOfPublication": [
+        "2026"
+      ]
+    },
+    "authors": [
+      "Ruofan Hu",
+      "Shengyang Xu",
+      "Minjie Hong",
+      "Xiaoda Yang",
+      "Sashuai Zhou",
+      "Ke Lei",
+      "Tao Jin",
+      "Zhou Zhao"
+    ],
+    "bibliography_title": "Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation",
+    "bibliography_year": 2026,
+    "bibliography_venue": "EMNLP",
+    "publication_status": "proceedings",
+    "publication_source": "https://aclanthology.org/2026.emnlp-main.377/",
+    "inspected_source": "https://aclanthology.org/2026.emnlp-main.377.pdf",
+    "source_sha256": "0ed5f72368cf7e2998215dca1f0f0c813fcdc47d778980b552782cb46370d2c4",
+    "inspection_depth": "Targeted visual inspection of relevant method/evaluation pages, not an exhaustive full-paper configuration audit.",
+    "key": "hu2026docrefrag",
+    "locators": [
+      "PDF pp.3--5, Sections 3.1--4.2; Figure 3"
+    ],
+    "observation": "Document image retrieval precedes token chunk compression. A question-conditioned RL selector restores original constituent tokens for selected chunks. Training data filtering and constructed retrieval noise differ from evaluation on real-retriever outputs.",
+    "inference_limit": "An end-to-end quality or latency gain does not isolate improved document ranking; expansion is a downstream representation intervention."
+  },
+  {
+    "citation_key": "peng2026unidoc",
+    "dblp_url": "https://dblp.org/rec/journals/corr/abs-2510-03663",
+    "checked": "2026-11-16",
+    "identity_properties": {
+      "http://purl.org/spar/datacite/hasIdentifier": [
+        "bn56044504",
+        "bn56044506"
+      ],
+      "type": [
+        "https://dblp.org/rdf/schema#Informal",
+        "https://dblp.org/rdf/schema#Publication"
+      ],
+      "label": [
+        "Xiangyu Peng et al.: UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG. (2025)"
+      ],
+      "sameAs": [
+        "http://dx.doi.org/10.48550/ARXIV.2510.03663",
+        "https://doi.org/10.48550/ARXIV.2510.03663"
+      ],
+      "authoredBy": [
+        "https://dblp.org/pid/120/1463",
+        "https://dblp.org/pid/180/5537",
+        "https://dblp.org/pid/191/1578-1",
+        "https://dblp.org/pid/214/2488",
+        "https://dblp.org/pid/71/1270-1",
+        "https://dblp.org/pid/80/7282"
+      ],
+      "bibtexType": [
+        "http://purl.org/net/nknouf/ns/bibtex#Article"
+      ],
+      "createdBy": [
+        "https://dblp.org/pid/120/1463",
+        "https://dblp.org/pid/180/5537",
+        "https://dblp.org/pid/191/1578-1",
+        "https://dblp.org/pid/214/2488",
+        "https://dblp.org/pid/71/1270-1",
+        "https://dblp.org/pid/80/7282"
+      ],
+      "documentPage": [
+        "https://doi.org/10.48550/ARXIV.2510.03663"
+      ],
+      "doi": [
+        "https://doi.org/10.48550/ARXIV.2510.03663"
+      ],
+      "hasSignature": [
+        "bn56044507",
+        "bn56044508",
+        "bn56044509",
+        "bn56044510",
+        "bn56044511",
+        "bn56044512"
+      ],
+      "listedOnTocPage": [
+        "https://dblp.org/db/journals/corr/corr2510"
+      ],
+      "monthOfPublication": [
+        "--10"
+      ],
+      "numberOfCreators": [
+        "6"
+      ],
+      "primaryDocumentPage": [
+        "https://doi.org/10.48550/ARXIV.2510.03663"
+      ],
+      "publishedIn": [
+        "CoRR"
+      ],
+      "publishedInJournal": [
+        "CoRR"
+      ],
+      "publishedInJournalVolume": [
+        "abs/2510.03663"
+      ],
+      "publishedInStream": [
+        "https://dblp.org/streams/journals/corr"
+      ],
+      "title": [
+        "UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG."
+      ],
+      "yearOfPublication": [
+        "2025"
+      ]
+    },
+    "authors": [
+      "Xiangyu Peng",
+      "Can Qin",
+      "Zeyuan Chen",
+      "Ran Xu",
+      "Caiming Xiong",
+      "Chien-Sheng Wu"
+    ],
+    "bibliography_title": "UniDoc-Bench: A Unified Benchmark for Document-Centric Multimodal RAG",
+    "bibliography_year": 2026,
+    "bibliography_venue": "Findings of EMNLP",
+    "publication_status": "proceedings",
+    "publication_source": "https://aclanthology.org/2026.findings-emnlp.534/",
+    "inspected_source": "https://aclanthology.org/2026.findings-emnlp.534.pdf",
+    "source_sha256": "d9da9c4f95be947949b73ddaa09407525072743c994a1cdf83df288e6353f9fc",
+    "inspection_depth": "Targeted visual inspection of relevant method/evaluation pages, not an exhaustive full-paper configuration audit.",
+    "key": "peng2026unidoc",
+    "locators": [
+      "PDF pp.3--5, Sections 3--4; Tables 1--2"
+    ],
+    "observation": "A shared document pool and linked evidence allow comparison of text-only, image-only, fusion and joint-retrieval settings. The benchmark separates retrieval from end-to-end response evaluation.",
+    "inference_limit": "Shared document identities do not imply equal indexed content, input resolution, context size or compute. The abstract describes 20% validation but PDF Section 3.3 describes verification/revision of all 1,600 pairs; do not assert a reconciled human-verification coverage rate."
+  }
+]
