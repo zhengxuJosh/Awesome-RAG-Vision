@@ -1,5 +1,7 @@
 # Bibliographic verification, 15 October 2026
 
+> Latest complete manuscript recheck: [84 cited references, 16 November 2026](metadata/manuscript-recheck-20261116/README.md). All 84 DBLP identities, titles and ordered author lists were queried again and matched. Two formal-publication versions use DBLP preprint identities plus separately verified ACL Anthology metadata. The historical 81-reference snapshot below remains unchanged.
+
 > Historical manuscript snapshot. The broader [19 October public catalog](metadata/catalog-update-20261019/README.md) is maintained separately. The previously unresolved Complementary Retrieval-Augmented Prompting article now has a [DBLP identity record](https://dblp.org/rec/journals/corr/abs-2609-37407) and is included in that catalog; the fixed 81-reference manuscript audit below has not been retroactively changed.
 
 All 81 references retained in the ACL manuscript have a retrieved record from

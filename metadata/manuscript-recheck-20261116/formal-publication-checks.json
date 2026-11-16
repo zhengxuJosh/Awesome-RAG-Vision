@@ -1,0 +1,101 @@
+{
+  "martin2026mirage": {
+    "url": "https://aclanthology.org/2026.emnlp-main.1765/",
+    "metadata": {
+      "citation_title": [
+        "Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation"
+      ],
+      "citation_author": [
+        "Alexander Martin",
+        "William Walden",
+        "Reno Kriz",
+        "Dengjia Zhang",
+        "Kate Sanders",
+        "Eugene Yang",
+        "Chihsheng Jin",
+        "Benjamin Van Durme"
+      ],
+      "citation_conference_title": [
+        "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing"
+      ],
+      "citation_publication_date": [
+        "2026/10"
+      ],
+      "citation_pdf_url": [
+        "https://aclanthology.org/2026.emnlp-main.1765.pdf"
+      ],
+      "citation_firstpage": [
+        "40231"
+      ],
+      "citation_lastpage": [
+        "40254"
+      ],
+      "citation_doi": [
+        "10.18653/2026.emnlp-main.1765"
+      ]
+    },
+    "ordered_authors_from_exported_bibtex": [
+      "Alexander Martin",
+      "William Gantt Walden",
+      "Reno Kriz",
+      "Dengjia Zhang",
+      "Kate Sanders",
+      "Eugene Yang",
+      "Chihsheng Jin",
+      "Benjamin Van Durme"
+    ],
+    "title_matches": true,
+    "authors_match": true,
+    "year_matches": true,
+    "pages_match": true,
+    "metadata_note": "HTML citation_author omits Gantt from William Gantt Walden; the visible citation and exported BibTeX include it and match DBLP and the manuscript. Full name retained.",
+    "inspected_html_sha256": "4cab78ea32c9ee2d005319f53ac145296b042a5e2facc1b2033af4927f8d4115"
+  },
+  "peng2026unidoc": {
+    "url": "https://aclanthology.org/2026.findings-emnlp.534/",
+    "metadata": {
+      "citation_title": [
+        "UniDoc-Bench: A Unified Benchmark for Document-Centric Multimodal RAG"
+      ],
+      "citation_author": [
+        "Xiangyu Peng",
+        "Can Qin",
+        "Zeyuan Chen",
+        "Ran Xu",
+        "Caiming Xiong",
+        "Chien-Sheng Wu"
+      ],
+      "citation_conference_title": [
+        "Findings of the Association for Computational Linguistics: EMNLP 2026"
+      ],
+      "citation_publication_date": [
+        "2026/10"
+      ],
+      "citation_pdf_url": [
+        "https://aclanthology.org/2026.findings-emnlp.534.pdf"
+      ],
+      "citation_firstpage": [
+        "11198"
+      ],
+      "citation_lastpage": [
+        "11239"
+      ],
+      "citation_doi": [
+        "10.18653/2026.findings-emnlp.534"
+      ]
+    },
+    "ordered_authors_from_exported_bibtex": [
+      "Xiangyu Peng",
+      "Can Qin",
+      "Zeyuan Chen",
+      "Ran Xu",
+      "Caiming Xiong",
+      "Chien-Sheng Wu"
+    ],
+    "title_matches": true,
+    "authors_match": true,
+    "year_matches": true,
+    "pages_match": true,
+    "inspected_html_sha256": "9fe658eaea6d24335f2f11b4f647107b962ee470fc6cfe86102075bd5a30f47a"
+  }
+}
